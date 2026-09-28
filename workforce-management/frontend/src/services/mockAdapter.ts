@@ -470,15 +470,60 @@ How else can I assist you with your workforce needs?`;
     };
   }
 
+  if (cleanUrl.match(/\/chatbot\/conversations\/[^/]+/) && method === 'GET') {
+    return {
+      conversation_id: 'conv-demo-session-2026',
+      user_id: 'USR0002',
+      title: 'HR Policies & Team Analytics',
+      created_at: '2026-09-28T09:00:00Z',
+      updated_at: '2026-09-28T10:00:00Z',
+      messages: [
+        {
+          role: 'user',
+          content: "What is our team's leave policy and pending approvals?",
+          timestamp: '2026-09-28T09:15:00Z',
+        },
+        {
+          role: 'assistant',
+          content: 'As Engineering Manager, you have 3 pending leave requests requiring review. Your team presence is 16/18 active today.',
+          timestamp: '2026-09-28T09:15:04Z',
+          intent: 'LEAVE_APPROVAL_QUERY',
+          sources: [
+            {
+              title: 'Manager Operations Telemetry',
+              source_type: 'database_record' as const,
+              section: 'Team Attendance & Leaves',
+            },
+          ],
+        },
+      ],
+    };
+  }
+
+  if (cleanUrl.includes('/chatbot/conversations') && method === 'POST') {
+    return {
+      conversation_id: `conv-${Date.now()}`,
+      user_id: 'USR0002',
+      title: 'New Discussion',
+      created_at: new Date().toISOString(),
+      updated_at: new Date().toISOString(),
+      message_count: 0,
+    };
+  }
+
+  if (cleanUrl.includes('/chatbot/conversations') && method === 'DELETE') {
+    return { status: 'success', message: 'Conversation deleted' };
+  }
+
   if (cleanUrl.includes('/chatbot/conversations') && method === 'GET') {
     return [
       {
         conversation_id: 'conv-demo-session-2026',
         user_id: 'USR0002',
-        title: 'HR Policies & Leave Inquiry',
+        title: 'HR Policies & Team Analytics',
         created_at: '2026-09-28T09:00:00Z',
         updated_at: '2026-09-28T10:00:00Z',
-        message_count: 4,
+        message_count: 2,
       },
     ];
   }

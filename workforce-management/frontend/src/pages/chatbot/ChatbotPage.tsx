@@ -164,9 +164,14 @@ export const ChatbotPage: React.FC = () => {
   const loadConversationHistory = async (convId: string) => {
     try {
       const detail = await chatbotService.getConversationDetail(convId);
-      setMessages(detail.messages);
+      if (detail && Array.isArray(detail.messages)) {
+        setMessages(detail.messages);
+      } else {
+        setMessages([]);
+      }
     } catch (err) {
       console.error('Failed to load conversation history:', err);
+      setMessages([]);
     }
   };
 
@@ -502,7 +507,7 @@ export const ChatbotPage: React.FC = () => {
 
         {/* Message Stream Area */}
         <div style={{ flex: 1, overflowY: 'auto', padding: '20px' }}>
-          {messages.length === 0 ? (
+          {(!messages || messages.length === 0) ? (
             /* Empty State: Suggested Prompts with 3D Holographic Orb */
             <div
               style={{
@@ -564,7 +569,7 @@ export const ChatbotPage: React.FC = () => {
             </div>
           ) : (
             /* Chronological Message Stream */
-            messages.map((m, idx) => {
+            (messages || []).map((m, idx) => {
               const isUser = m.role === 'user';
               return (
                 <div

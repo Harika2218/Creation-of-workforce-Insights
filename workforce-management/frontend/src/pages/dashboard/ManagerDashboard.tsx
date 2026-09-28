@@ -141,8 +141,8 @@ export const ManagerDashboard: React.FC = () => {
 
         <div style={{ display: 'flex', gap: '0.75rem', flexWrap: 'wrap' }}>
           <Link to="/ai-assistant">
-            <Button variant="outline" icon={<Sparkles size={16} color="var(--color-primary)" />}>
-              Ask about my team
+            <Button variant="outline" icon={<Sparkles size={16} color="var(--primary)" />}>
+              Launch 3D AI HR Assistant
             </Button>
           </Link>
           <Link to="/manager/team">
