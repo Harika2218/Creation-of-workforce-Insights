@@ -51,7 +51,15 @@ export const LoginPage: React.FC = () => {
         navigate('/employee/dashboard');
       }
     } catch (err: any) {
-      const msg = err.response?.data?.detail || 'Invalid email or password. Please verify your credentials.';
+      let msg = err.response?.data?.detail;
+      if (!msg) {
+        if (!err.response || err.code === 'ERR_NETWORK') {
+          const targetUrl = import.meta.env.VITE_API_BASE_URL || 'http://127.0.0.1:8000';
+          msg = `Cannot connect to backend API server (${targetUrl}). The backend is offline or unreachable.`;
+        } else {
+          msg = 'Invalid email or password. Please verify your credentials.';
+        }
+      }
       setError(msg);
       showToast(msg, 'error');
     } finally {
@@ -179,7 +187,9 @@ export const LoginPage: React.FC = () => {
               <UserCheck size={14} />
               <span>1-Click Demo Accounts</span>
             </div>
-            <span>Pass: Demo@2026</span>
+            <span style={{ textTransform: 'none', letterSpacing: 'normal' }}>
+              Pass: <strong style={{ color: 'var(--primary-light, #818cf8)' }}>Demo@2026</strong>
+            </span>
           </div>
 
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '0.5rem' }}>
