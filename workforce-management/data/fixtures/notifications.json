@@ -1,0 +1,5402 @@
+[
+  {
+    "notification_id": "NOT000001",
+    "employee_id": "EMP001",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000002",
+    "employee_id": "EMP001",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000003",
+    "employee_id": "EMP001",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000004",
+    "employee_id": "EMP002",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000005",
+    "employee_id": "EMP002",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000006",
+    "employee_id": "EMP002",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000007",
+    "employee_id": "EMP003",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000008",
+    "employee_id": "EMP003",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000009",
+    "employee_id": "EMP003",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000010",
+    "employee_id": "EMP004",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000011",
+    "employee_id": "EMP004",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000012",
+    "employee_id": "EMP004",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000013",
+    "employee_id": "EMP005",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000014",
+    "employee_id": "EMP005",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000015",
+    "employee_id": "EMP005",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000016",
+    "employee_id": "EMP006",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000017",
+    "employee_id": "EMP006",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000018",
+    "employee_id": "EMP006",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000019",
+    "employee_id": "EMP007",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000020",
+    "employee_id": "EMP007",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000021",
+    "employee_id": "EMP007",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000022",
+    "employee_id": "EMP008",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000023",
+    "employee_id": "EMP008",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000024",
+    "employee_id": "EMP008",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000025",
+    "employee_id": "EMP009",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000026",
+    "employee_id": "EMP009",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000027",
+    "employee_id": "EMP009",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000028",
+    "employee_id": "EMP010",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000029",
+    "employee_id": "EMP010",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000030",
+    "employee_id": "EMP010",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000031",
+    "employee_id": "EMP011",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000032",
+    "employee_id": "EMP011",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000033",
+    "employee_id": "EMP011",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000034",
+    "employee_id": "EMP012",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000035",
+    "employee_id": "EMP012",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000036",
+    "employee_id": "EMP012",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000037",
+    "employee_id": "EMP013",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000038",
+    "employee_id": "EMP013",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000039",
+    "employee_id": "EMP013",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000040",
+    "employee_id": "EMP014",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000041",
+    "employee_id": "EMP014",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000042",
+    "employee_id": "EMP014",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000043",
+    "employee_id": "EMP015",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000044",
+    "employee_id": "EMP015",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000045",
+    "employee_id": "EMP015",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000046",
+    "employee_id": "EMP016",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000047",
+    "employee_id": "EMP016",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000048",
+    "employee_id": "EMP016",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000049",
+    "employee_id": "EMP017",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000050",
+    "employee_id": "EMP017",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000051",
+    "employee_id": "EMP017",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000052",
+    "employee_id": "EMP018",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000053",
+    "employee_id": "EMP018",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000054",
+    "employee_id": "EMP018",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000055",
+    "employee_id": "EMP019",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000056",
+    "employee_id": "EMP019",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000057",
+    "employee_id": "EMP019",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000058",
+    "employee_id": "EMP020",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000059",
+    "employee_id": "EMP020",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000060",
+    "employee_id": "EMP020",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000061",
+    "employee_id": "EMP021",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000062",
+    "employee_id": "EMP021",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000063",
+    "employee_id": "EMP021",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000064",
+    "employee_id": "EMP022",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000065",
+    "employee_id": "EMP022",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000066",
+    "employee_id": "EMP022",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000067",
+    "employee_id": "EMP023",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000068",
+    "employee_id": "EMP023",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000069",
+    "employee_id": "EMP023",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000070",
+    "employee_id": "EMP024",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000071",
+    "employee_id": "EMP024",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000072",
+    "employee_id": "EMP024",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000073",
+    "employee_id": "EMP025",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000074",
+    "employee_id": "EMP025",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000075",
+    "employee_id": "EMP025",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000076",
+    "employee_id": "EMP026",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000077",
+    "employee_id": "EMP026",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000078",
+    "employee_id": "EMP026",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000079",
+    "employee_id": "EMP027",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000080",
+    "employee_id": "EMP027",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000081",
+    "employee_id": "EMP027",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000082",
+    "employee_id": "EMP028",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000083",
+    "employee_id": "EMP028",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000084",
+    "employee_id": "EMP028",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000085",
+    "employee_id": "EMP029",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000086",
+    "employee_id": "EMP029",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000087",
+    "employee_id": "EMP029",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000088",
+    "employee_id": "EMP030",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000089",
+    "employee_id": "EMP030",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000090",
+    "employee_id": "EMP030",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000091",
+    "employee_id": "EMP031",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000092",
+    "employee_id": "EMP031",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000093",
+    "employee_id": "EMP031",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000094",
+    "employee_id": "EMP032",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000095",
+    "employee_id": "EMP032",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000096",
+    "employee_id": "EMP032",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000097",
+    "employee_id": "EMP033",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000098",
+    "employee_id": "EMP033",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000099",
+    "employee_id": "EMP033",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000100",
+    "employee_id": "EMP034",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000101",
+    "employee_id": "EMP034",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000102",
+    "employee_id": "EMP034",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000103",
+    "employee_id": "EMP035",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000104",
+    "employee_id": "EMP035",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000105",
+    "employee_id": "EMP035",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000106",
+    "employee_id": "EMP036",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000107",
+    "employee_id": "EMP036",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000108",
+    "employee_id": "EMP036",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000109",
+    "employee_id": "EMP037",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000110",
+    "employee_id": "EMP037",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000111",
+    "employee_id": "EMP037",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000112",
+    "employee_id": "EMP038",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000113",
+    "employee_id": "EMP038",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000114",
+    "employee_id": "EMP038",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000115",
+    "employee_id": "EMP039",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000116",
+    "employee_id": "EMP039",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000117",
+    "employee_id": "EMP039",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000118",
+    "employee_id": "EMP040",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000119",
+    "employee_id": "EMP040",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000120",
+    "employee_id": "EMP040",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000121",
+    "employee_id": "EMP041",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000122",
+    "employee_id": "EMP041",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000123",
+    "employee_id": "EMP041",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000124",
+    "employee_id": "EMP042",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000125",
+    "employee_id": "EMP042",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000126",
+    "employee_id": "EMP042",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000127",
+    "employee_id": "EMP043",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000128",
+    "employee_id": "EMP043",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000129",
+    "employee_id": "EMP043",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000130",
+    "employee_id": "EMP044",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000131",
+    "employee_id": "EMP044",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000132",
+    "employee_id": "EMP044",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000133",
+    "employee_id": "EMP045",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000134",
+    "employee_id": "EMP045",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000135",
+    "employee_id": "EMP045",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000136",
+    "employee_id": "EMP046",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000137",
+    "employee_id": "EMP046",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000138",
+    "employee_id": "EMP046",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000139",
+    "employee_id": "EMP047",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000140",
+    "employee_id": "EMP047",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000141",
+    "employee_id": "EMP047",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000142",
+    "employee_id": "EMP048",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000143",
+    "employee_id": "EMP048",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000144",
+    "employee_id": "EMP048",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000145",
+    "employee_id": "EMP049",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000146",
+    "employee_id": "EMP049",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000147",
+    "employee_id": "EMP049",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000148",
+    "employee_id": "EMP050",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000149",
+    "employee_id": "EMP050",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000150",
+    "employee_id": "EMP050",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000151",
+    "employee_id": "EMP051",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000152",
+    "employee_id": "EMP051",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000153",
+    "employee_id": "EMP051",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000154",
+    "employee_id": "EMP052",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000155",
+    "employee_id": "EMP052",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000156",
+    "employee_id": "EMP052",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000157",
+    "employee_id": "EMP053",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000158",
+    "employee_id": "EMP053",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000159",
+    "employee_id": "EMP053",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000160",
+    "employee_id": "EMP054",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000161",
+    "employee_id": "EMP054",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000162",
+    "employee_id": "EMP054",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000163",
+    "employee_id": "EMP055",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000164",
+    "employee_id": "EMP055",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000165",
+    "employee_id": "EMP055",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000166",
+    "employee_id": "EMP056",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000167",
+    "employee_id": "EMP056",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000168",
+    "employee_id": "EMP056",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000169",
+    "employee_id": "EMP057",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000170",
+    "employee_id": "EMP057",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000171",
+    "employee_id": "EMP057",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000172",
+    "employee_id": "EMP058",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000173",
+    "employee_id": "EMP058",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000174",
+    "employee_id": "EMP058",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000175",
+    "employee_id": "EMP059",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000176",
+    "employee_id": "EMP059",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000177",
+    "employee_id": "EMP059",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000178",
+    "employee_id": "EMP060",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000179",
+    "employee_id": "EMP060",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000180",
+    "employee_id": "EMP060",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000181",
+    "employee_id": "EMP061",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000182",
+    "employee_id": "EMP061",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000183",
+    "employee_id": "EMP061",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000184",
+    "employee_id": "EMP062",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000185",
+    "employee_id": "EMP062",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000186",
+    "employee_id": "EMP062",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000187",
+    "employee_id": "EMP063",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000188",
+    "employee_id": "EMP063",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000189",
+    "employee_id": "EMP063",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000190",
+    "employee_id": "EMP064",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000191",
+    "employee_id": "EMP064",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000192",
+    "employee_id": "EMP064",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000193",
+    "employee_id": "EMP065",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000194",
+    "employee_id": "EMP065",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000195",
+    "employee_id": "EMP065",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000196",
+    "employee_id": "EMP066",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000197",
+    "employee_id": "EMP066",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000198",
+    "employee_id": "EMP066",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000199",
+    "employee_id": "EMP067",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000200",
+    "employee_id": "EMP067",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000201",
+    "employee_id": "EMP067",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000202",
+    "employee_id": "EMP068",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000203",
+    "employee_id": "EMP068",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000204",
+    "employee_id": "EMP068",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000205",
+    "employee_id": "EMP069",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000206",
+    "employee_id": "EMP069",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000207",
+    "employee_id": "EMP069",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000208",
+    "employee_id": "EMP070",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000209",
+    "employee_id": "EMP070",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000210",
+    "employee_id": "EMP070",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000211",
+    "employee_id": "EMP071",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000212",
+    "employee_id": "EMP071",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000213",
+    "employee_id": "EMP071",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000214",
+    "employee_id": "EMP072",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000215",
+    "employee_id": "EMP072",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000216",
+    "employee_id": "EMP072",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000217",
+    "employee_id": "EMP073",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000218",
+    "employee_id": "EMP073",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000219",
+    "employee_id": "EMP073",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000220",
+    "employee_id": "EMP074",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000221",
+    "employee_id": "EMP074",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000222",
+    "employee_id": "EMP074",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000223",
+    "employee_id": "EMP075",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000224",
+    "employee_id": "EMP075",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000225",
+    "employee_id": "EMP075",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000226",
+    "employee_id": "EMP076",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000227",
+    "employee_id": "EMP076",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000228",
+    "employee_id": "EMP076",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000229",
+    "employee_id": "EMP077",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000230",
+    "employee_id": "EMP077",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000231",
+    "employee_id": "EMP077",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000232",
+    "employee_id": "EMP078",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000233",
+    "employee_id": "EMP078",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000234",
+    "employee_id": "EMP078",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000235",
+    "employee_id": "EMP079",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000236",
+    "employee_id": "EMP079",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000237",
+    "employee_id": "EMP079",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000238",
+    "employee_id": "EMP080",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000239",
+    "employee_id": "EMP080",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000240",
+    "employee_id": "EMP080",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000241",
+    "employee_id": "EMP081",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000242",
+    "employee_id": "EMP081",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000243",
+    "employee_id": "EMP081",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000244",
+    "employee_id": "EMP082",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000245",
+    "employee_id": "EMP082",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000246",
+    "employee_id": "EMP082",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000247",
+    "employee_id": "EMP083",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000248",
+    "employee_id": "EMP083",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000249",
+    "employee_id": "EMP083",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000250",
+    "employee_id": "EMP084",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000251",
+    "employee_id": "EMP084",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000252",
+    "employee_id": "EMP084",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000253",
+    "employee_id": "EMP085",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000254",
+    "employee_id": "EMP085",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000255",
+    "employee_id": "EMP085",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000256",
+    "employee_id": "EMP086",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000257",
+    "employee_id": "EMP086",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000258",
+    "employee_id": "EMP086",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000259",
+    "employee_id": "EMP087",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000260",
+    "employee_id": "EMP087",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000261",
+    "employee_id": "EMP087",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000262",
+    "employee_id": "EMP088",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000263",
+    "employee_id": "EMP088",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000264",
+    "employee_id": "EMP088",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000265",
+    "employee_id": "EMP089",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000266",
+    "employee_id": "EMP089",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000267",
+    "employee_id": "EMP089",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000268",
+    "employee_id": "EMP090",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000269",
+    "employee_id": "EMP090",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000270",
+    "employee_id": "EMP090",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000271",
+    "employee_id": "EMP091",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000272",
+    "employee_id": "EMP091",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000273",
+    "employee_id": "EMP091",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000274",
+    "employee_id": "EMP092",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000275",
+    "employee_id": "EMP092",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000276",
+    "employee_id": "EMP092",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000277",
+    "employee_id": "EMP093",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000278",
+    "employee_id": "EMP093",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000279",
+    "employee_id": "EMP093",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000280",
+    "employee_id": "EMP094",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000281",
+    "employee_id": "EMP094",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000282",
+    "employee_id": "EMP094",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000283",
+    "employee_id": "EMP095",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000284",
+    "employee_id": "EMP095",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000285",
+    "employee_id": "EMP095",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000286",
+    "employee_id": "EMP096",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000287",
+    "employee_id": "EMP096",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000288",
+    "employee_id": "EMP096",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000289",
+    "employee_id": "EMP097",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000290",
+    "employee_id": "EMP097",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000291",
+    "employee_id": "EMP097",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000292",
+    "employee_id": "EMP098",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000293",
+    "employee_id": "EMP098",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000294",
+    "employee_id": "EMP098",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000295",
+    "employee_id": "EMP099",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000296",
+    "employee_id": "EMP099",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000297",
+    "employee_id": "EMP099",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000298",
+    "employee_id": "EMP100",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000299",
+    "employee_id": "EMP100",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000300",
+    "employee_id": "EMP100",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000301",
+    "employee_id": "EMP101",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000302",
+    "employee_id": "EMP101",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000303",
+    "employee_id": "EMP101",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000304",
+    "employee_id": "EMP102",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000305",
+    "employee_id": "EMP102",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000306",
+    "employee_id": "EMP102",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000307",
+    "employee_id": "EMP103",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000308",
+    "employee_id": "EMP103",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000309",
+    "employee_id": "EMP103",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000310",
+    "employee_id": "EMP104",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000311",
+    "employee_id": "EMP104",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000312",
+    "employee_id": "EMP104",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000313",
+    "employee_id": "EMP105",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000314",
+    "employee_id": "EMP105",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000315",
+    "employee_id": "EMP105",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000316",
+    "employee_id": "EMP106",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000317",
+    "employee_id": "EMP106",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000318",
+    "employee_id": "EMP106",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000319",
+    "employee_id": "EMP107",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000320",
+    "employee_id": "EMP107",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000321",
+    "employee_id": "EMP107",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000322",
+    "employee_id": "EMP108",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000323",
+    "employee_id": "EMP108",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000324",
+    "employee_id": "EMP108",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000325",
+    "employee_id": "EMP109",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000326",
+    "employee_id": "EMP109",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000327",
+    "employee_id": "EMP109",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000328",
+    "employee_id": "EMP110",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000329",
+    "employee_id": "EMP110",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000330",
+    "employee_id": "EMP110",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000331",
+    "employee_id": "EMP111",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000332",
+    "employee_id": "EMP111",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000333",
+    "employee_id": "EMP111",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000334",
+    "employee_id": "EMP112",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000335",
+    "employee_id": "EMP112",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000336",
+    "employee_id": "EMP112",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000337",
+    "employee_id": "EMP113",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000338",
+    "employee_id": "EMP113",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000339",
+    "employee_id": "EMP113",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000340",
+    "employee_id": "EMP114",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000341",
+    "employee_id": "EMP114",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000342",
+    "employee_id": "EMP114",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000343",
+    "employee_id": "EMP115",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000344",
+    "employee_id": "EMP115",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000345",
+    "employee_id": "EMP115",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000346",
+    "employee_id": "EMP116",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000347",
+    "employee_id": "EMP116",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000348",
+    "employee_id": "EMP116",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000349",
+    "employee_id": "EMP117",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000350",
+    "employee_id": "EMP117",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000351",
+    "employee_id": "EMP117",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000352",
+    "employee_id": "EMP118",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000353",
+    "employee_id": "EMP118",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000354",
+    "employee_id": "EMP118",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000355",
+    "employee_id": "EMP119",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000356",
+    "employee_id": "EMP119",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000357",
+    "employee_id": "EMP119",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000358",
+    "employee_id": "EMP120",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000359",
+    "employee_id": "EMP120",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000360",
+    "employee_id": "EMP120",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000361",
+    "employee_id": "EMP121",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000362",
+    "employee_id": "EMP121",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000363",
+    "employee_id": "EMP121",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000364",
+    "employee_id": "EMP122",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000365",
+    "employee_id": "EMP122",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000366",
+    "employee_id": "EMP122",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000367",
+    "employee_id": "EMP123",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000368",
+    "employee_id": "EMP123",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000369",
+    "employee_id": "EMP123",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000370",
+    "employee_id": "EMP124",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000371",
+    "employee_id": "EMP124",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000372",
+    "employee_id": "EMP124",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000373",
+    "employee_id": "EMP125",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000374",
+    "employee_id": "EMP125",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000375",
+    "employee_id": "EMP125",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000376",
+    "employee_id": "EMP126",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000377",
+    "employee_id": "EMP126",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000378",
+    "employee_id": "EMP126",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000379",
+    "employee_id": "EMP127",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000380",
+    "employee_id": "EMP127",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000381",
+    "employee_id": "EMP127",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000382",
+    "employee_id": "EMP128",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000383",
+    "employee_id": "EMP128",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000384",
+    "employee_id": "EMP128",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000385",
+    "employee_id": "EMP129",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000386",
+    "employee_id": "EMP129",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000387",
+    "employee_id": "EMP129",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000388",
+    "employee_id": "EMP130",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000389",
+    "employee_id": "EMP130",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000390",
+    "employee_id": "EMP130",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000391",
+    "employee_id": "EMP131",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000392",
+    "employee_id": "EMP131",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000393",
+    "employee_id": "EMP131",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000394",
+    "employee_id": "EMP132",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000395",
+    "employee_id": "EMP132",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000396",
+    "employee_id": "EMP132",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000397",
+    "employee_id": "EMP133",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000398",
+    "employee_id": "EMP133",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000399",
+    "employee_id": "EMP133",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000400",
+    "employee_id": "EMP134",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000401",
+    "employee_id": "EMP134",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000402",
+    "employee_id": "EMP134",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000403",
+    "employee_id": "EMP135",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000404",
+    "employee_id": "EMP135",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000405",
+    "employee_id": "EMP135",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000406",
+    "employee_id": "EMP136",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000407",
+    "employee_id": "EMP136",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000408",
+    "employee_id": "EMP136",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000409",
+    "employee_id": "EMP137",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000410",
+    "employee_id": "EMP137",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000411",
+    "employee_id": "EMP137",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000412",
+    "employee_id": "EMP138",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000413",
+    "employee_id": "EMP138",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000414",
+    "employee_id": "EMP138",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000415",
+    "employee_id": "EMP139",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000416",
+    "employee_id": "EMP139",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000417",
+    "employee_id": "EMP139",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000418",
+    "employee_id": "EMP140",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000419",
+    "employee_id": "EMP140",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000420",
+    "employee_id": "EMP140",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000421",
+    "employee_id": "EMP141",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000422",
+    "employee_id": "EMP141",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000423",
+    "employee_id": "EMP141",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000424",
+    "employee_id": "EMP142",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000425",
+    "employee_id": "EMP142",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000426",
+    "employee_id": "EMP142",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000427",
+    "employee_id": "EMP143",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000428",
+    "employee_id": "EMP143",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000429",
+    "employee_id": "EMP143",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000430",
+    "employee_id": "EMP144",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000431",
+    "employee_id": "EMP144",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000432",
+    "employee_id": "EMP144",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000433",
+    "employee_id": "EMP145",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000434",
+    "employee_id": "EMP145",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000435",
+    "employee_id": "EMP145",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000436",
+    "employee_id": "EMP146",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000437",
+    "employee_id": "EMP146",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000438",
+    "employee_id": "EMP146",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000439",
+    "employee_id": "EMP147",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000440",
+    "employee_id": "EMP147",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000441",
+    "employee_id": "EMP147",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000442",
+    "employee_id": "EMP148",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000443",
+    "employee_id": "EMP148",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000444",
+    "employee_id": "EMP148",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000445",
+    "employee_id": "EMP149",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000446",
+    "employee_id": "EMP149",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000447",
+    "employee_id": "EMP149",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000448",
+    "employee_id": "EMP150",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000449",
+    "employee_id": "EMP150",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000450",
+    "employee_id": "EMP150",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000451",
+    "employee_id": "EMP151",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000452",
+    "employee_id": "EMP151",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000453",
+    "employee_id": "EMP151",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000454",
+    "employee_id": "EMP152",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000455",
+    "employee_id": "EMP152",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000456",
+    "employee_id": "EMP152",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000457",
+    "employee_id": "EMP153",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000458",
+    "employee_id": "EMP153",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000459",
+    "employee_id": "EMP153",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000460",
+    "employee_id": "EMP154",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000461",
+    "employee_id": "EMP154",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000462",
+    "employee_id": "EMP154",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000463",
+    "employee_id": "EMP155",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000464",
+    "employee_id": "EMP155",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000465",
+    "employee_id": "EMP155",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000466",
+    "employee_id": "EMP156",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000467",
+    "employee_id": "EMP156",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000468",
+    "employee_id": "EMP156",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000469",
+    "employee_id": "EMP157",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000470",
+    "employee_id": "EMP157",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000471",
+    "employee_id": "EMP157",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000472",
+    "employee_id": "EMP158",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000473",
+    "employee_id": "EMP158",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000474",
+    "employee_id": "EMP158",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000475",
+    "employee_id": "EMP159",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000476",
+    "employee_id": "EMP159",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000477",
+    "employee_id": "EMP159",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000478",
+    "employee_id": "EMP160",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000479",
+    "employee_id": "EMP160",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000480",
+    "employee_id": "EMP160",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000481",
+    "employee_id": "EMP161",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000482",
+    "employee_id": "EMP161",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000483",
+    "employee_id": "EMP161",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000484",
+    "employee_id": "EMP162",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000485",
+    "employee_id": "EMP162",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000486",
+    "employee_id": "EMP162",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000487",
+    "employee_id": "EMP163",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000488",
+    "employee_id": "EMP163",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000489",
+    "employee_id": "EMP163",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000490",
+    "employee_id": "EMP164",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000491",
+    "employee_id": "EMP164",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000492",
+    "employee_id": "EMP164",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000493",
+    "employee_id": "EMP165",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000494",
+    "employee_id": "EMP165",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000495",
+    "employee_id": "EMP165",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000496",
+    "employee_id": "EMP166",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000497",
+    "employee_id": "EMP166",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000498",
+    "employee_id": "EMP166",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000499",
+    "employee_id": "EMP167",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000500",
+    "employee_id": "EMP167",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000501",
+    "employee_id": "EMP167",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000502",
+    "employee_id": "EMP168",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000503",
+    "employee_id": "EMP168",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000504",
+    "employee_id": "EMP168",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000505",
+    "employee_id": "EMP169",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000506",
+    "employee_id": "EMP169",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000507",
+    "employee_id": "EMP169",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000508",
+    "employee_id": "EMP170",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000509",
+    "employee_id": "EMP170",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000510",
+    "employee_id": "EMP170",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000511",
+    "employee_id": "EMP171",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000512",
+    "employee_id": "EMP171",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000513",
+    "employee_id": "EMP171",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000514",
+    "employee_id": "EMP172",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000515",
+    "employee_id": "EMP172",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000516",
+    "employee_id": "EMP172",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000517",
+    "employee_id": "EMP173",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000518",
+    "employee_id": "EMP173",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000519",
+    "employee_id": "EMP173",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000520",
+    "employee_id": "EMP174",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000521",
+    "employee_id": "EMP174",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000522",
+    "employee_id": "EMP174",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000523",
+    "employee_id": "EMP175",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000524",
+    "employee_id": "EMP175",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000525",
+    "employee_id": "EMP175",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000526",
+    "employee_id": "EMP176",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000527",
+    "employee_id": "EMP176",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000528",
+    "employee_id": "EMP176",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000529",
+    "employee_id": "EMP177",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000530",
+    "employee_id": "EMP177",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000531",
+    "employee_id": "EMP177",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000532",
+    "employee_id": "EMP178",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000533",
+    "employee_id": "EMP178",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000534",
+    "employee_id": "EMP178",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000535",
+    "employee_id": "EMP179",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000536",
+    "employee_id": "EMP179",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000537",
+    "employee_id": "EMP179",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000538",
+    "employee_id": "EMP180",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000539",
+    "employee_id": "EMP180",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000540",
+    "employee_id": "EMP180",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000541",
+    "employee_id": "EMP181",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000542",
+    "employee_id": "EMP181",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000543",
+    "employee_id": "EMP181",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000544",
+    "employee_id": "EMP182",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000545",
+    "employee_id": "EMP182",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000546",
+    "employee_id": "EMP182",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000547",
+    "employee_id": "EMP183",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000548",
+    "employee_id": "EMP183",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000549",
+    "employee_id": "EMP183",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000550",
+    "employee_id": "EMP184",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000551",
+    "employee_id": "EMP184",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000552",
+    "employee_id": "EMP184",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000553",
+    "employee_id": "EMP185",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000554",
+    "employee_id": "EMP185",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000555",
+    "employee_id": "EMP185",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000556",
+    "employee_id": "EMP186",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000557",
+    "employee_id": "EMP186",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000558",
+    "employee_id": "EMP186",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000559",
+    "employee_id": "EMP187",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000560",
+    "employee_id": "EMP187",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000561",
+    "employee_id": "EMP187",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000562",
+    "employee_id": "EMP188",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000563",
+    "employee_id": "EMP188",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000564",
+    "employee_id": "EMP188",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000565",
+    "employee_id": "EMP189",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000566",
+    "employee_id": "EMP189",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000567",
+    "employee_id": "EMP189",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000568",
+    "employee_id": "EMP190",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000569",
+    "employee_id": "EMP190",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000570",
+    "employee_id": "EMP190",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000571",
+    "employee_id": "EMP191",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000572",
+    "employee_id": "EMP191",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000573",
+    "employee_id": "EMP191",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000574",
+    "employee_id": "EMP192",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000575",
+    "employee_id": "EMP192",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000576",
+    "employee_id": "EMP192",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000577",
+    "employee_id": "EMP193",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000578",
+    "employee_id": "EMP193",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000579",
+    "employee_id": "EMP193",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000580",
+    "employee_id": "EMP194",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000581",
+    "employee_id": "EMP194",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000582",
+    "employee_id": "EMP194",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000583",
+    "employee_id": "EMP195",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000584",
+    "employee_id": "EMP195",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000585",
+    "employee_id": "EMP195",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000586",
+    "employee_id": "EMP196",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000587",
+    "employee_id": "EMP196",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000588",
+    "employee_id": "EMP196",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000589",
+    "employee_id": "EMP197",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000590",
+    "employee_id": "EMP197",
+    "category": "Leave approval",
+    "title": "Leave Request Approved",
+    "message": "Your leave application has been approved by your reporting manager.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000591",
+    "employee_id": "EMP197",
+    "category": "Timesheet reminder",
+    "title": "Weekly Timesheet Submission Due",
+    "message": "Please complete and submit your weekly project timesheet before Friday 6 PM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000592",
+    "employee_id": "EMP198",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000593",
+    "employee_id": "EMP198",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000594",
+    "employee_id": "EMP198",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000595",
+    "employee_id": "EMP199",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000596",
+    "employee_id": "EMP199",
+    "category": "Payroll notification",
+    "title": "Salary Credited",
+    "message": "Your monthly salary for February 2026 has been processed and credited to your registered bank account.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000597",
+    "employee_id": "EMP199",
+    "category": "Work anniversary",
+    "title": "Happy Work Anniversary!",
+    "message": "Congratulations on completing another successful year with InnovateCorp!",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000598",
+    "employee_id": "EMP200",
+    "category": "Attendance alert",
+    "title": "Attendance Verification",
+    "message": "Your biometric clock-in was recorded at 08:55 AM.",
+    "is_read": 0,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000599",
+    "employee_id": "EMP200",
+    "category": "Birthday",
+    "title": "Happy Birthday!",
+    "message": "The team wishes you a wonderful birthday and a great year ahead!",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  },
+  {
+    "notification_id": "NOT000600",
+    "employee_id": "EMP200",
+    "category": "Shift reminder",
+    "title": "Upcoming Shift Schedule",
+    "message": "Your General Shift schedule is confirmed for tomorrow 09:00 AM.",
+    "is_read": 1,
+    "created_at": "2026-03-18 09:30:00"
+  }
+]

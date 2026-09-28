@@ -1,0 +1,40 @@
+# AI-Powered Workforce Management Automation System
+# Production Backend Python Dependencies
+# --------------------------------------------------
+
+# Core Web Framework & ASGI Server
+fastapi>=0.115.0,<0.142.0
+uvicorn[standard]>=0.30.0,<0.54.0
+pydantic>=2.8.0,<2.13.0
+starlette>=0.38.0,<1.8.0
+python-multipart>=0.0.9
+
+# Database & Storage
+pymongo>=4.8.0,<4.19.0
+python-dotenv>=1.0.1
+
+# Security, Authentication & Cryptography
+PyJWT>=2.9.0,<2.15.0
+passlib[bcrypt]>=1.7.4; python_version < '3.13'
+cryptography>=43.0.0
+
+# AI/ML & Analytics
+scikit-learn>=1.5.0,<1.9.0
+numpy>=1.26.0,<2.4.0
+pandas>=2.2.0,<2.4.0
+joblib>=1.4.0,<1.6.0
+scipy>=1.14.0,<1.18.0
+
+# HTTP & External Connectors
+httpx>=0.27.0,<0.29.0
+requests>=2.32.0,<2.33.0
+
+# Production Logging, Monitoring & Observability
+python-json-logger>=3.0.0,<5.0.0
+prometheus-client>=0.20.0,<0.24.0
+psutil>=6.0.0,<7.2.0
+
+# Testing & Verification
+pytest>=8.3.0,<10.0.0
+anyio>=4.4.0,<4.12.0
+Faker>=26.0.0,<41.0.0

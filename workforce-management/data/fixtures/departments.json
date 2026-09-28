@@ -1,0 +1,74 @@
+[
+  {
+    "department_id": "DEP01",
+    "name": "Engineering",
+    "code": "ENG",
+    "description": "Software architecture, core platform, cloud and application development.",
+    "budget": 120000000.0,
+    "head_employee_id": "EMP002"
+  },
+  {
+    "department_id": "DEP02",
+    "name": "Data Science",
+    "code": "DS",
+    "description": "Machine learning, AI research, statistical modeling and business intelligence.",
+    "budget": 65000000.0,
+    "head_employee_id": "EMP003"
+  },
+  {
+    "department_id": "DEP03",
+    "name": "Human Resources",
+    "code": "HR",
+    "description": "Talent acquisition, employee engagement, workplace culture and benefits.",
+    "budget": 28000000.0,
+    "head_employee_id": "EMP004"
+  },
+  {
+    "department_id": "DEP04",
+    "name": "Finance",
+    "code": "FIN",
+    "description": "Financial planning, accounting, payroll compliance, tax and audits.",
+    "budget": 35000000.0,
+    "head_employee_id": "EMP005"
+  },
+  {
+    "department_id": "DEP05",
+    "name": "Marketing",
+    "code": "MKT",
+    "description": "Brand strategy, demand generation, product marketing and PR.",
+    "budget": 42000000.0,
+    "head_employee_id": "EMP006"
+  },
+  {
+    "department_id": "DEP06",
+    "name": "Sales",
+    "code": "SLS",
+    "description": "Enterprise sales, client acquisition, renewals and revenue operations.",
+    "budget": 58000000.0,
+    "head_employee_id": "EMP007"
+  },
+  {
+    "department_id": "DEP07",
+    "name": "Operations",
+    "code": "OPS",
+    "description": "Facilities, workplace operations, vendor relations and logistics.",
+    "budget": 30000000.0,
+    "head_employee_id": "EMP008"
+  },
+  {
+    "department_id": "DEP08",
+    "name": "IT",
+    "code": "IT",
+    "description": "Enterprise infrastructure, cybersecurity, helpdesk and IT assets.",
+    "budget": 45000000.0,
+    "head_employee_id": "EMP009"
+  },
+  {
+    "department_id": "DEP09",
+    "name": "Customer Support",
+    "code": "CS",
+    "description": "24/7 technical customer support, client onboarding and satisfaction.",
+    "budget": 32000000.0,
+    "head_employee_id": "EMP010"
+  }
+]

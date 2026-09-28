@@ -1,0 +1,92 @@
+[
+  {
+    "skill_id": "SK01",
+    "skill_name": "Python",
+    "category": "Technical"
+  },
+  {
+    "skill_id": "SK02",
+    "skill_name": "Java",
+    "category": "Technical"
+  },
+  {
+    "skill_id": "SK03",
+    "skill_name": "SQL",
+    "category": "Technical"
+  },
+  {
+    "skill_id": "SK04",
+    "skill_name": "JavaScript",
+    "category": "Technical"
+  },
+  {
+    "skill_id": "SK05",
+    "skill_name": "Cloud Computing",
+    "category": "Technical"
+  },
+  {
+    "skill_id": "SK06",
+    "skill_name": "Data Science",
+    "category": "Data & AI"
+  },
+  {
+    "skill_id": "SK07",
+    "skill_name": "Machine Learning",
+    "category": "Data & AI"
+  },
+  {
+    "skill_id": "SK08",
+    "skill_name": "Communication",
+    "category": "Soft Skills"
+  },
+  {
+    "skill_id": "SK09",
+    "skill_name": "Project Management",
+    "category": "Management"
+  },
+  {
+    "skill_id": "SK10",
+    "skill_name": "Excel",
+    "category": "Analytics"
+  },
+  {
+    "skill_id": "SK11",
+    "skill_name": "Power BI",
+    "category": "Analytics"
+  },
+  {
+    "skill_id": "SK12",
+    "skill_name": "AWS",
+    "category": "Technical"
+  },
+  {
+    "skill_id": "SK13",
+    "skill_name": "Azure",
+    "category": "Technical"
+  },
+  {
+    "skill_id": "SK14",
+    "skill_name": "React",
+    "category": "Technical"
+  },
+  {
+    "skill_id": "SK15",
+    "skill_name": "DevOps",
+    "category": "Technical"
+  },
+  {
+    "skill_id": "SK16",
+    "skill_name": "Cybersecurity",
+    "category": "Technical"
+  },
+  {
+    "skill_id": "SK17",
+    "skill_name": "Financial Modeling",
+    "category": "Analytics"
+  },
+  {
+    "skill_id": "SK18",
+    "skill_name": "Negotiation",
+    "category": "Soft Skills"
+  }
+]

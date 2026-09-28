@@ -1,0 +1,3072 @@
+[
+  {
+    "training_id": "TRN00001",
+    "employee_id": "EMP001",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 93.1
+  },
+  {
+    "training_id": "TRN00002",
+    "employee_id": "EMP002",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 88.2
+  },
+  {
+    "training_id": "TRN00003",
+    "employee_id": "EMP003",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 93.9
+  },
+  {
+    "training_id": "TRN00004",
+    "employee_id": "EMP003",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 89.0
+  },
+  {
+    "training_id": "TRN00005",
+    "employee_id": "EMP004",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 79.7
+  },
+  {
+    "training_id": "TRN00006",
+    "employee_id": "EMP005",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 88.6
+  },
+  {
+    "training_id": "TRN00007",
+    "employee_id": "EMP005",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 78.4
+  },
+  {
+    "training_id": "TRN00008",
+    "employee_id": "EMP006",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 75.3
+  },
+  {
+    "training_id": "TRN00009",
+    "employee_id": "EMP006",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 85.0
+  },
+  {
+    "training_id": "TRN00010",
+    "employee_id": "EMP007",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 82.6
+  },
+  {
+    "training_id": "TRN00011",
+    "employee_id": "EMP008",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 84.2
+  },
+  {
+    "training_id": "TRN00012",
+    "employee_id": "EMP009",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 80.2
+  },
+  {
+    "training_id": "TRN00013",
+    "employee_id": "EMP009",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 91.2
+  },
+  {
+    "training_id": "TRN00014",
+    "employee_id": "EMP010",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 80.2
+  },
+  {
+    "training_id": "TRN00015",
+    "employee_id": "EMP010",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 94.6
+  },
+  {
+    "training_id": "TRN00016",
+    "employee_id": "EMP011",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 96.8
+  },
+  {
+    "training_id": "TRN00017",
+    "employee_id": "EMP012",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 92.6
+  },
+  {
+    "training_id": "TRN00018",
+    "employee_id": "EMP013",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 76.0
+  },
+  {
+    "training_id": "TRN00019",
+    "employee_id": "EMP014",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 94.0
+  },
+  {
+    "training_id": "TRN00020",
+    "employee_id": "EMP014",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 77.8
+  },
+  {
+    "training_id": "TRN00021",
+    "employee_id": "EMP015",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 91.9
+  },
+  {
+    "training_id": "TRN00022",
+    "employee_id": "EMP016",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 94.4
+  },
+  {
+    "training_id": "TRN00023",
+    "employee_id": "EMP016",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 94.5
+  },
+  {
+    "training_id": "TRN00024",
+    "employee_id": "EMP017",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 70.8
+  },
+  {
+    "training_id": "TRN00025",
+    "employee_id": "EMP017",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 78.8
+  },
+  {
+    "training_id": "TRN00026",
+    "employee_id": "EMP018",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 94.6
+  },
+  {
+    "training_id": "TRN00027",
+    "employee_id": "EMP019",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 83.6
+  },
+  {
+    "training_id": "TRN00028",
+    "employee_id": "EMP019",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 77.1
+  },
+  {
+    "training_id": "TRN00029",
+    "employee_id": "EMP020",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 76.1
+  },
+  {
+    "training_id": "TRN00030",
+    "employee_id": "EMP021",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 92.0
+  },
+  {
+    "training_id": "TRN00031",
+    "employee_id": "EMP021",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 90.2
+  },
+  {
+    "training_id": "TRN00032",
+    "employee_id": "EMP022",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 95.9
+  },
+  {
+    "training_id": "TRN00033",
+    "employee_id": "EMP022",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 84.0
+  },
+  {
+    "training_id": "TRN00034",
+    "employee_id": "EMP023",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 96.0
+  },
+  {
+    "training_id": "TRN00035",
+    "employee_id": "EMP023",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 76.2
+  },
+  {
+    "training_id": "TRN00036",
+    "employee_id": "EMP024",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 97.3
+  },
+  {
+    "training_id": "TRN00037",
+    "employee_id": "EMP024",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 74.7
+  },
+  {
+    "training_id": "TRN00038",
+    "employee_id": "EMP025",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 85.1
+  },
+  {
+    "training_id": "TRN00039",
+    "employee_id": "EMP025",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 94.4
+  },
+  {
+    "training_id": "TRN00040",
+    "employee_id": "EMP026",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 88.0
+  },
+  {
+    "training_id": "TRN00041",
+    "employee_id": "EMP027",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 75.6
+  },
+  {
+    "training_id": "TRN00042",
+    "employee_id": "EMP028",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 83.8
+  },
+  {
+    "training_id": "TRN00043",
+    "employee_id": "EMP029",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 81.3
+  },
+  {
+    "training_id": "TRN00044",
+    "employee_id": "EMP029",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 83.2
+  },
+  {
+    "training_id": "TRN00045",
+    "employee_id": "EMP030",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 82.0
+  },
+  {
+    "training_id": "TRN00046",
+    "employee_id": "EMP030",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 77.8
+  },
+  {
+    "training_id": "TRN00047",
+    "employee_id": "EMP031",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 93.5
+  },
+  {
+    "training_id": "TRN00048",
+    "employee_id": "EMP032",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 97.2
+  },
+  {
+    "training_id": "TRN00049",
+    "employee_id": "EMP033",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 71.3
+  },
+  {
+    "training_id": "TRN00050",
+    "employee_id": "EMP033",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 92.1
+  },
+  {
+    "training_id": "TRN00051",
+    "employee_id": "EMP034",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 72.9
+  },
+  {
+    "training_id": "TRN00052",
+    "employee_id": "EMP035",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 93.6
+  },
+  {
+    "training_id": "TRN00053",
+    "employee_id": "EMP035",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 73.9
+  },
+  {
+    "training_id": "TRN00054",
+    "employee_id": "EMP036",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 84.1
+  },
+  {
+    "training_id": "TRN00055",
+    "employee_id": "EMP036",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 81.5
+  },
+  {
+    "training_id": "TRN00056",
+    "employee_id": "EMP037",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 90.2
+  },
+  {
+    "training_id": "TRN00057",
+    "employee_id": "EMP037",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 95.4
+  },
+  {
+    "training_id": "TRN00058",
+    "employee_id": "EMP038",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 94.3
+  },
+  {
+    "training_id": "TRN00059",
+    "employee_id": "EMP038",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 87.0
+  },
+  {
+    "training_id": "TRN00060",
+    "employee_id": "EMP039",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 85.7
+  },
+  {
+    "training_id": "TRN00061",
+    "employee_id": "EMP040",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 89.2
+  },
+  {
+    "training_id": "TRN00062",
+    "employee_id": "EMP041",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 97.7
+  },
+  {
+    "training_id": "TRN00063",
+    "employee_id": "EMP042",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 87.7
+  },
+  {
+    "training_id": "TRN00064",
+    "employee_id": "EMP043",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 96.9
+  },
+  {
+    "training_id": "TRN00065",
+    "employee_id": "EMP044",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 87.5
+  },
+  {
+    "training_id": "TRN00066",
+    "employee_id": "EMP045",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 72.6
+  },
+  {
+    "training_id": "TRN00067",
+    "employee_id": "EMP046",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 89.0
+  },
+  {
+    "training_id": "TRN00068",
+    "employee_id": "EMP046",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 79.2
+  },
+  {
+    "training_id": "TRN00069",
+    "employee_id": "EMP047",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 95.1
+  },
+  {
+    "training_id": "TRN00070",
+    "employee_id": "EMP048",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 89.6
+  },
+  {
+    "training_id": "TRN00071",
+    "employee_id": "EMP048",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 97.1
+  },
+  {
+    "training_id": "TRN00072",
+    "employee_id": "EMP049",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 76.6
+  },
+  {
+    "training_id": "TRN00073",
+    "employee_id": "EMP049",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 87.1
+  },
+  {
+    "training_id": "TRN00074",
+    "employee_id": "EMP050",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 97.5
+  },
+  {
+    "training_id": "TRN00075",
+    "employee_id": "EMP051",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 82.9
+  },
+  {
+    "training_id": "TRN00076",
+    "employee_id": "EMP052",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 79.2
+  },
+  {
+    "training_id": "TRN00077",
+    "employee_id": "EMP052",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 70.8
+  },
+  {
+    "training_id": "TRN00078",
+    "employee_id": "EMP053",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 70.6
+  },
+  {
+    "training_id": "TRN00079",
+    "employee_id": "EMP053",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 72.8
+  },
+  {
+    "training_id": "TRN00080",
+    "employee_id": "EMP054",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 86.2
+  },
+  {
+    "training_id": "TRN00081",
+    "employee_id": "EMP055",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 74.5
+  },
+  {
+    "training_id": "TRN00082",
+    "employee_id": "EMP056",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 70.1
+  },
+  {
+    "training_id": "TRN00083",
+    "employee_id": "EMP057",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 76.3
+  },
+  {
+    "training_id": "TRN00084",
+    "employee_id": "EMP057",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 71.4
+  },
+  {
+    "training_id": "TRN00085",
+    "employee_id": "EMP058",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 90.1
+  },
+  {
+    "training_id": "TRN00086",
+    "employee_id": "EMP059",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 75.1
+  },
+  {
+    "training_id": "TRN00087",
+    "employee_id": "EMP059",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 84.9
+  },
+  {
+    "training_id": "TRN00088",
+    "employee_id": "EMP060",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 78.6
+  },
+  {
+    "training_id": "TRN00089",
+    "employee_id": "EMP061",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 83.3
+  },
+  {
+    "training_id": "TRN00090",
+    "employee_id": "EMP062",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 71.3
+  },
+  {
+    "training_id": "TRN00091",
+    "employee_id": "EMP063",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 71.1
+  },
+  {
+    "training_id": "TRN00092",
+    "employee_id": "EMP064",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 71.2
+  },
+  {
+    "training_id": "TRN00093",
+    "employee_id": "EMP065",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 94.1
+  },
+  {
+    "training_id": "TRN00094",
+    "employee_id": "EMP065",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 82.0
+  },
+  {
+    "training_id": "TRN00095",
+    "employee_id": "EMP066",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 84.8
+  },
+  {
+    "training_id": "TRN00096",
+    "employee_id": "EMP067",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 92.2
+  },
+  {
+    "training_id": "TRN00097",
+    "employee_id": "EMP068",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 85.7
+  },
+  {
+    "training_id": "TRN00098",
+    "employee_id": "EMP068",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 77.1
+  },
+  {
+    "training_id": "TRN00099",
+    "employee_id": "EMP069",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 93.9
+  },
+  {
+    "training_id": "TRN00100",
+    "employee_id": "EMP070",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 85.3
+  },
+  {
+    "training_id": "TRN00101",
+    "employee_id": "EMP070",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 73.3
+  },
+  {
+    "training_id": "TRN00102",
+    "employee_id": "EMP071",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 88.3
+  },
+  {
+    "training_id": "TRN00103",
+    "employee_id": "EMP072",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 95.8
+  },
+  {
+    "training_id": "TRN00104",
+    "employee_id": "EMP072",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 89.3
+  },
+  {
+    "training_id": "TRN00105",
+    "employee_id": "EMP073",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 72.7
+  },
+  {
+    "training_id": "TRN00106",
+    "employee_id": "EMP074",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 70.7
+  },
+  {
+    "training_id": "TRN00107",
+    "employee_id": "EMP075",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 93.5
+  },
+  {
+    "training_id": "TRN00108",
+    "employee_id": "EMP075",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 95.3
+  },
+  {
+    "training_id": "TRN00109",
+    "employee_id": "EMP076",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 74.8
+  },
+  {
+    "training_id": "TRN00110",
+    "employee_id": "EMP077",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 96.4
+  },
+  {
+    "training_id": "TRN00111",
+    "employee_id": "EMP077",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 73.5
+  },
+  {
+    "training_id": "TRN00112",
+    "employee_id": "EMP078",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 89.9
+  },
+  {
+    "training_id": "TRN00113",
+    "employee_id": "EMP079",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 89.3
+  },
+  {
+    "training_id": "TRN00114",
+    "employee_id": "EMP080",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 72.6
+  },
+  {
+    "training_id": "TRN00115",
+    "employee_id": "EMP080",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 90.5
+  },
+  {
+    "training_id": "TRN00116",
+    "employee_id": "EMP081",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 83.8
+  },
+  {
+    "training_id": "TRN00117",
+    "employee_id": "EMP081",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 70.7
+  },
+  {
+    "training_id": "TRN00118",
+    "employee_id": "EMP082",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 74.0
+  },
+  {
+    "training_id": "TRN00119",
+    "employee_id": "EMP083",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 86.5
+  },
+  {
+    "training_id": "TRN00120",
+    "employee_id": "EMP084",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 93.7
+  },
+  {
+    "training_id": "TRN00121",
+    "employee_id": "EMP084",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 84.4
+  },
+  {
+    "training_id": "TRN00122",
+    "employee_id": "EMP085",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 89.0
+  },
+  {
+    "training_id": "TRN00123",
+    "employee_id": "EMP085",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 90.2
+  },
+  {
+    "training_id": "TRN00124",
+    "employee_id": "EMP086",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 70.9
+  },
+  {
+    "training_id": "TRN00125",
+    "employee_id": "EMP086",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 81.5
+  },
+  {
+    "training_id": "TRN00126",
+    "employee_id": "EMP087",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 87.2
+  },
+  {
+    "training_id": "TRN00127",
+    "employee_id": "EMP088",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 75.8
+  },
+  {
+    "training_id": "TRN00128",
+    "employee_id": "EMP089",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 82.5
+  },
+  {
+    "training_id": "TRN00129",
+    "employee_id": "EMP090",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 76.1
+  },
+  {
+    "training_id": "TRN00130",
+    "employee_id": "EMP091",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 88.2
+  },
+  {
+    "training_id": "TRN00131",
+    "employee_id": "EMP091",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 71.9
+  },
+  {
+    "training_id": "TRN00132",
+    "employee_id": "EMP092",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 97.4
+  },
+  {
+    "training_id": "TRN00133",
+    "employee_id": "EMP093",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 77.8
+  },
+  {
+    "training_id": "TRN00134",
+    "employee_id": "EMP093",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 70.8
+  },
+  {
+    "training_id": "TRN00135",
+    "employee_id": "EMP094",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 78.9
+  },
+  {
+    "training_id": "TRN00136",
+    "employee_id": "EMP094",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 77.6
+  },
+  {
+    "training_id": "TRN00137",
+    "employee_id": "EMP095",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 88.4
+  },
+  {
+    "training_id": "TRN00138",
+    "employee_id": "EMP095",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 93.0
+  },
+  {
+    "training_id": "TRN00139",
+    "employee_id": "EMP096",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 92.4
+  },
+  {
+    "training_id": "TRN00140",
+    "employee_id": "EMP097",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 76.4
+  },
+  {
+    "training_id": "TRN00141",
+    "employee_id": "EMP097",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 73.0
+  },
+  {
+    "training_id": "TRN00142",
+    "employee_id": "EMP098",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 70.1
+  },
+  {
+    "training_id": "TRN00143",
+    "employee_id": "EMP098",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 75.8
+  },
+  {
+    "training_id": "TRN00144",
+    "employee_id": "EMP099",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 75.2
+  },
+  {
+    "training_id": "TRN00145",
+    "employee_id": "EMP100",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 87.5
+  },
+  {
+    "training_id": "TRN00146",
+    "employee_id": "EMP100",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 79.1
+  },
+  {
+    "training_id": "TRN00147",
+    "employee_id": "EMP101",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 86.0
+  },
+  {
+    "training_id": "TRN00148",
+    "employee_id": "EMP101",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 78.2
+  },
+  {
+    "training_id": "TRN00149",
+    "employee_id": "EMP102",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 96.8
+  },
+  {
+    "training_id": "TRN00150",
+    "employee_id": "EMP102",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 89.9
+  },
+  {
+    "training_id": "TRN00151",
+    "employee_id": "EMP103",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 95.8
+  },
+  {
+    "training_id": "TRN00152",
+    "employee_id": "EMP103",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 95.7
+  },
+  {
+    "training_id": "TRN00153",
+    "employee_id": "EMP104",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 95.4
+  },
+  {
+    "training_id": "TRN00154",
+    "employee_id": "EMP104",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 75.9
+  },
+  {
+    "training_id": "TRN00155",
+    "employee_id": "EMP105",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 76.0
+  },
+  {
+    "training_id": "TRN00156",
+    "employee_id": "EMP106",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 83.4
+  },
+  {
+    "training_id": "TRN00157",
+    "employee_id": "EMP107",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 74.5
+  },
+  {
+    "training_id": "TRN00158",
+    "employee_id": "EMP108",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 71.6
+  },
+  {
+    "training_id": "TRN00159",
+    "employee_id": "EMP108",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 84.7
+  },
+  {
+    "training_id": "TRN00160",
+    "employee_id": "EMP109",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 73.9
+  },
+  {
+    "training_id": "TRN00161",
+    "employee_id": "EMP109",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 77.4
+  },
+  {
+    "training_id": "TRN00162",
+    "employee_id": "EMP110",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 77.8
+  },
+  {
+    "training_id": "TRN00163",
+    "employee_id": "EMP111",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 97.8
+  },
+  {
+    "training_id": "TRN00164",
+    "employee_id": "EMP112",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 74.7
+  },
+  {
+    "training_id": "TRN00165",
+    "employee_id": "EMP113",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 77.9
+  },
+  {
+    "training_id": "TRN00166",
+    "employee_id": "EMP113",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 72.4
+  },
+  {
+    "training_id": "TRN00167",
+    "employee_id": "EMP114",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 80.3
+  },
+  {
+    "training_id": "TRN00168",
+    "employee_id": "EMP115",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 95.6
+  },
+  {
+    "training_id": "TRN00169",
+    "employee_id": "EMP115",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 76.0
+  },
+  {
+    "training_id": "TRN00170",
+    "employee_id": "EMP116",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 71.2
+  },
+  {
+    "training_id": "TRN00171",
+    "employee_id": "EMP116",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 97.2
+  },
+  {
+    "training_id": "TRN00172",
+    "employee_id": "EMP117",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 82.5
+  },
+  {
+    "training_id": "TRN00173",
+    "employee_id": "EMP118",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 93.8
+  },
+  {
+    "training_id": "TRN00174",
+    "employee_id": "EMP119",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 95.6
+  },
+  {
+    "training_id": "TRN00175",
+    "employee_id": "EMP119",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 83.2
+  },
+  {
+    "training_id": "TRN00176",
+    "employee_id": "EMP120",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 73.2
+  },
+  {
+    "training_id": "TRN00177",
+    "employee_id": "EMP120",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 90.3
+  },
+  {
+    "training_id": "TRN00178",
+    "employee_id": "EMP121",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 75.3
+  },
+  {
+    "training_id": "TRN00179",
+    "employee_id": "EMP121",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 88.1
+  },
+  {
+    "training_id": "TRN00180",
+    "employee_id": "EMP122",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 78.7
+  },
+  {
+    "training_id": "TRN00181",
+    "employee_id": "EMP122",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 81.1
+  },
+  {
+    "training_id": "TRN00182",
+    "employee_id": "EMP123",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 84.9
+  },
+  {
+    "training_id": "TRN00183",
+    "employee_id": "EMP124",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 94.7
+  },
+  {
+    "training_id": "TRN00184",
+    "employee_id": "EMP125",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 72.7
+  },
+  {
+    "training_id": "TRN00185",
+    "employee_id": "EMP125",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 88.4
+  },
+  {
+    "training_id": "TRN00186",
+    "employee_id": "EMP126",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 76.0
+  },
+  {
+    "training_id": "TRN00187",
+    "employee_id": "EMP127",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 95.1
+  },
+  {
+    "training_id": "TRN00188",
+    "employee_id": "EMP128",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 84.0
+  },
+  {
+    "training_id": "TRN00189",
+    "employee_id": "EMP128",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 86.0
+  },
+  {
+    "training_id": "TRN00190",
+    "employee_id": "EMP129",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 86.6
+  },
+  {
+    "training_id": "TRN00191",
+    "employee_id": "EMP129",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 93.8
+  },
+  {
+    "training_id": "TRN00192",
+    "employee_id": "EMP130",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 92.3
+  },
+  {
+    "training_id": "TRN00193",
+    "employee_id": "EMP130",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 79.8
+  },
+  {
+    "training_id": "TRN00194",
+    "employee_id": "EMP131",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 77.4
+  },
+  {
+    "training_id": "TRN00195",
+    "employee_id": "EMP131",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 97.5
+  },
+  {
+    "training_id": "TRN00196",
+    "employee_id": "EMP132",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 74.3
+  },
+  {
+    "training_id": "TRN00197",
+    "employee_id": "EMP132",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 91.5
+  },
+  {
+    "training_id": "TRN00198",
+    "employee_id": "EMP133",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 76.2
+  },
+  {
+    "training_id": "TRN00199",
+    "employee_id": "EMP134",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 74.2
+  },
+  {
+    "training_id": "TRN00200",
+    "employee_id": "EMP134",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 78.8
+  },
+  {
+    "training_id": "TRN00201",
+    "employee_id": "EMP135",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 97.6
+  },
+  {
+    "training_id": "TRN00202",
+    "employee_id": "EMP135",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 88.7
+  },
+  {
+    "training_id": "TRN00203",
+    "employee_id": "EMP136",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 97.9
+  },
+  {
+    "training_id": "TRN00204",
+    "employee_id": "EMP136",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 86.7
+  },
+  {
+    "training_id": "TRN00205",
+    "employee_id": "EMP137",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 80.6
+  },
+  {
+    "training_id": "TRN00206",
+    "employee_id": "EMP137",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 88.2
+  },
+  {
+    "training_id": "TRN00207",
+    "employee_id": "EMP138",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 78.9
+  },
+  {
+    "training_id": "TRN00208",
+    "employee_id": "EMP138",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 96.1
+  },
+  {
+    "training_id": "TRN00209",
+    "employee_id": "EMP139",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 70.4
+  },
+  {
+    "training_id": "TRN00210",
+    "employee_id": "EMP139",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 95.3
+  },
+  {
+    "training_id": "TRN00211",
+    "employee_id": "EMP140",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 85.5
+  },
+  {
+    "training_id": "TRN00212",
+    "employee_id": "EMP140",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 93.6
+  },
+  {
+    "training_id": "TRN00213",
+    "employee_id": "EMP141",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 71.7
+  },
+  {
+    "training_id": "TRN00214",
+    "employee_id": "EMP141",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 72.9
+  },
+  {
+    "training_id": "TRN00215",
+    "employee_id": "EMP142",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 76.8
+  },
+  {
+    "training_id": "TRN00216",
+    "employee_id": "EMP142",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 87.6
+  },
+  {
+    "training_id": "TRN00217",
+    "employee_id": "EMP143",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 93.1
+  },
+  {
+    "training_id": "TRN00218",
+    "employee_id": "EMP143",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 72.3
+  },
+  {
+    "training_id": "TRN00219",
+    "employee_id": "EMP144",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 91.7
+  },
+  {
+    "training_id": "TRN00220",
+    "employee_id": "EMP145",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 70.8
+  },
+  {
+    "training_id": "TRN00221",
+    "employee_id": "EMP146",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 79.4
+  },
+  {
+    "training_id": "TRN00222",
+    "employee_id": "EMP147",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 92.3
+  },
+  {
+    "training_id": "TRN00223",
+    "employee_id": "EMP147",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 80.4
+  },
+  {
+    "training_id": "TRN00224",
+    "employee_id": "EMP148",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 74.8
+  },
+  {
+    "training_id": "TRN00225",
+    "employee_id": "EMP149",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 86.1
+  },
+  {
+    "training_id": "TRN00226",
+    "employee_id": "EMP149",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 89.8
+  },
+  {
+    "training_id": "TRN00227",
+    "employee_id": "EMP150",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 95.9
+  },
+  {
+    "training_id": "TRN00228",
+    "employee_id": "EMP150",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 85.8
+  },
+  {
+    "training_id": "TRN00229",
+    "employee_id": "EMP151",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 80.4
+  },
+  {
+    "training_id": "TRN00230",
+    "employee_id": "EMP151",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 75.8
+  },
+  {
+    "training_id": "TRN00231",
+    "employee_id": "EMP152",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 90.0
+  },
+  {
+    "training_id": "TRN00232",
+    "employee_id": "EMP152",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 79.1
+  },
+  {
+    "training_id": "TRN00233",
+    "employee_id": "EMP153",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 71.8
+  },
+  {
+    "training_id": "TRN00234",
+    "employee_id": "EMP153",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 84.4
+  },
+  {
+    "training_id": "TRN00235",
+    "employee_id": "EMP154",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 89.5
+  },
+  {
+    "training_id": "TRN00236",
+    "employee_id": "EMP154",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 85.4
+  },
+  {
+    "training_id": "TRN00237",
+    "employee_id": "EMP155",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 87.0
+  },
+  {
+    "training_id": "TRN00238",
+    "employee_id": "EMP156",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 87.4
+  },
+  {
+    "training_id": "TRN00239",
+    "employee_id": "EMP157",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 76.6
+  },
+  {
+    "training_id": "TRN00240",
+    "employee_id": "EMP158",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 82.5
+  },
+  {
+    "training_id": "TRN00241",
+    "employee_id": "EMP158",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 96.7
+  },
+  {
+    "training_id": "TRN00242",
+    "employee_id": "EMP159",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 90.4
+  },
+  {
+    "training_id": "TRN00243",
+    "employee_id": "EMP159",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 83.0
+  },
+  {
+    "training_id": "TRN00244",
+    "employee_id": "EMP160",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 96.8
+  },
+  {
+    "training_id": "TRN00245",
+    "employee_id": "EMP160",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 77.1
+  },
+  {
+    "training_id": "TRN00246",
+    "employee_id": "EMP161",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 89.1
+  },
+  {
+    "training_id": "TRN00247",
+    "employee_id": "EMP161",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 85.1
+  },
+  {
+    "training_id": "TRN00248",
+    "employee_id": "EMP162",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 92.2
+  },
+  {
+    "training_id": "TRN00249",
+    "employee_id": "EMP163",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 95.4
+  },
+  {
+    "training_id": "TRN00250",
+    "employee_id": "EMP164",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 76.9
+  },
+  {
+    "training_id": "TRN00251",
+    "employee_id": "EMP164",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 87.0
+  },
+  {
+    "training_id": "TRN00252",
+    "employee_id": "EMP165",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 76.9
+  },
+  {
+    "training_id": "TRN00253",
+    "employee_id": "EMP166",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 77.3
+  },
+  {
+    "training_id": "TRN00254",
+    "employee_id": "EMP166",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 88.1
+  },
+  {
+    "training_id": "TRN00255",
+    "employee_id": "EMP167",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 95.8
+  },
+  {
+    "training_id": "TRN00256",
+    "employee_id": "EMP167",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 82.4
+  },
+  {
+    "training_id": "TRN00257",
+    "employee_id": "EMP168",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 94.2
+  },
+  {
+    "training_id": "TRN00258",
+    "employee_id": "EMP169",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 90.9
+  },
+  {
+    "training_id": "TRN00259",
+    "employee_id": "EMP170",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 81.7
+  },
+  {
+    "training_id": "TRN00260",
+    "employee_id": "EMP170",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 73.5
+  },
+  {
+    "training_id": "TRN00261",
+    "employee_id": "EMP171",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 97.5
+  },
+  {
+    "training_id": "TRN00262",
+    "employee_id": "EMP172",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 83.6
+  },
+  {
+    "training_id": "TRN00263",
+    "employee_id": "EMP172",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 88.9
+  },
+  {
+    "training_id": "TRN00264",
+    "employee_id": "EMP173",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 74.7
+  },
+  {
+    "training_id": "TRN00265",
+    "employee_id": "EMP173",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 90.9
+  },
+  {
+    "training_id": "TRN00266",
+    "employee_id": "EMP174",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 84.1
+  },
+  {
+    "training_id": "TRN00267",
+    "employee_id": "EMP175",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 82.5
+  },
+  {
+    "training_id": "TRN00268",
+    "employee_id": "EMP176",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 71.6
+  },
+  {
+    "training_id": "TRN00269",
+    "employee_id": "EMP177",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 92.1
+  },
+  {
+    "training_id": "TRN00270",
+    "employee_id": "EMP177",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 80.9
+  },
+  {
+    "training_id": "TRN00271",
+    "employee_id": "EMP178",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 76.2
+  },
+  {
+    "training_id": "TRN00272",
+    "employee_id": "EMP179",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 97.9
+  },
+  {
+    "training_id": "TRN00273",
+    "employee_id": "EMP180",
+    "training_name": "Data Analytics with Power BI & SQL",
+    "skill": "Power BI",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 97.1
+  },
+  {
+    "training_id": "TRN00274",
+    "employee_id": "EMP180",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 79.6
+  },
+  {
+    "training_id": "TRN00275",
+    "employee_id": "EMP181",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 87.9
+  },
+  {
+    "training_id": "TRN00276",
+    "employee_id": "EMP181",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 86.9
+  },
+  {
+    "training_id": "TRN00277",
+    "employee_id": "EMP182",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 93.0
+  },
+  {
+    "training_id": "TRN00278",
+    "employee_id": "EMP183",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 86.6
+  },
+  {
+    "training_id": "TRN00279",
+    "employee_id": "EMP183",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 86.6
+  },
+  {
+    "training_id": "TRN00280",
+    "employee_id": "EMP184",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 87.9
+  },
+  {
+    "training_id": "TRN00281",
+    "employee_id": "EMP184",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 97.6
+  },
+  {
+    "training_id": "TRN00282",
+    "employee_id": "EMP185",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 91.9
+  },
+  {
+    "training_id": "TRN00283",
+    "employee_id": "EMP185",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 96.3
+  },
+  {
+    "training_id": "TRN00284",
+    "employee_id": "EMP186",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 75.8
+  },
+  {
+    "training_id": "TRN00285",
+    "employee_id": "EMP187",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 96.2
+  },
+  {
+    "training_id": "TRN00286",
+    "employee_id": "EMP187",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 96.3
+  },
+  {
+    "training_id": "TRN00287",
+    "employee_id": "EMP188",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 84.1
+  },
+  {
+    "training_id": "TRN00288",
+    "employee_id": "EMP188",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 86.6
+  },
+  {
+    "training_id": "TRN00289",
+    "employee_id": "EMP189",
+    "training_name": "Modern Cloud Architecture with AWS",
+    "skill": "AWS",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 79.3
+  },
+  {
+    "training_id": "TRN00290",
+    "employee_id": "EMP190",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 74.9
+  },
+  {
+    "training_id": "TRN00291",
+    "employee_id": "EMP190",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 92.7
+  },
+  {
+    "training_id": "TRN00292",
+    "employee_id": "EMP191",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 87.3
+  },
+  {
+    "training_id": "TRN00293",
+    "employee_id": "EMP192",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 70.8
+  },
+  {
+    "training_id": "TRN00294",
+    "employee_id": "EMP193",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 76.7
+  },
+  {
+    "training_id": "TRN00295",
+    "employee_id": "EMP193",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 97.3
+  },
+  {
+    "training_id": "TRN00296",
+    "employee_id": "EMP194",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 94.5
+  },
+  {
+    "training_id": "TRN00297",
+    "employee_id": "EMP195",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 89.6
+  },
+  {
+    "training_id": "TRN00298",
+    "employee_id": "EMP195",
+    "training_name": "Strategic Leadership & Communication",
+    "skill": "Communication",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 88.3
+  },
+  {
+    "training_id": "TRN00299",
+    "employee_id": "EMP196",
+    "training_name": "Full Stack React & Modern UI",
+    "skill": "React",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 93.2
+  },
+  {
+    "training_id": "TRN00300",
+    "employee_id": "EMP196",
+    "training_name": "Applied Machine Learning at Scale",
+    "skill": "Machine Learning",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 88.3
+  },
+  {
+    "training_id": "TRN00301",
+    "employee_id": "EMP197",
+    "training_name": "Financial Analysis & Forecasting",
+    "skill": "Financial Modeling",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 80.0
+  },
+  {
+    "training_id": "TRN00302",
+    "employee_id": "EMP197",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 89.1
+  },
+  {
+    "training_id": "TRN00303",
+    "employee_id": "EMP198",
+    "training_name": "Agile Project Delivery Masterclass",
+    "skill": "Project Management",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 91.2
+  },
+  {
+    "training_id": "TRN00304",
+    "employee_id": "EMP199",
+    "training_name": "Kubernetes & DevOps Pipelines",
+    "skill": "DevOps",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 91.3
+  },
+  {
+    "training_id": "TRN00305",
+    "employee_id": "EMP199",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 91.8
+  },
+  {
+    "training_id": "TRN00306",
+    "employee_id": "EMP200",
+    "training_name": "Enterprise Cybersecurity Fundamentals",
+    "skill": "Cybersecurity",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 82.6
+  },
+  {
+    "training_id": "TRN00307",
+    "employee_id": "EMP200",
+    "training_name": "Advanced Python & Microservices",
+    "skill": "Python",
+    "completion_status": "Completed",
+    "start_date": "2025-11-01",
+    "completion_date": "2025-11-30",
+    "score": 82.8
+  }
+]

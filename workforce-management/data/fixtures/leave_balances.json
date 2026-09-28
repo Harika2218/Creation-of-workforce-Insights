@@ -1,0 +1,7346 @@
+[
+  {
+    "balance_id": "BAL00001",
+    "employee_id": "EMP001",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 5.0,
+    "remaining_days": 13.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00002",
+    "employee_id": "EMP001",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00003",
+    "employee_id": "EMP001",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 1.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00004",
+    "employee_id": "EMP001",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 1.0,
+    "remaining_days": 4.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00005",
+    "employee_id": "EMP002",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00006",
+    "employee_id": "EMP002",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00007",
+    "employee_id": "EMP002",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 10.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00008",
+    "employee_id": "EMP002",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00009",
+    "employee_id": "EMP003",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00010",
+    "employee_id": "EMP003",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 4.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00011",
+    "employee_id": "EMP003",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00012",
+    "employee_id": "EMP003",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 1.0,
+    "remaining_days": 4.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00013",
+    "employee_id": "EMP004",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00014",
+    "employee_id": "EMP004",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00015",
+    "employee_id": "EMP004",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00016",
+    "employee_id": "EMP004",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00017",
+    "employee_id": "EMP005",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00018",
+    "employee_id": "EMP005",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00019",
+    "employee_id": "EMP005",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00020",
+    "employee_id": "EMP005",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00021",
+    "employee_id": "EMP006",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00022",
+    "employee_id": "EMP006",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00023",
+    "employee_id": "EMP006",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 3.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00024",
+    "employee_id": "EMP006",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00025",
+    "employee_id": "EMP007",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 3.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00026",
+    "employee_id": "EMP007",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 4.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00027",
+    "employee_id": "EMP007",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00028",
+    "employee_id": "EMP007",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00029",
+    "employee_id": "EMP008",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00030",
+    "employee_id": "EMP008",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00031",
+    "employee_id": "EMP008",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00032",
+    "employee_id": "EMP008",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 2.0,
+    "remaining_days": 3.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00033",
+    "employee_id": "EMP009",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 3.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00034",
+    "employee_id": "EMP009",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00035",
+    "employee_id": "EMP009",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 5.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00036",
+    "employee_id": "EMP009",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 2.0,
+    "remaining_days": 3.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00037",
+    "employee_id": "EMP010",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 1.0,
+    "remaining_days": 17.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00038",
+    "employee_id": "EMP010",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00039",
+    "employee_id": "EMP010",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00040",
+    "employee_id": "EMP010",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00041",
+    "employee_id": "EMP011",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00042",
+    "employee_id": "EMP011",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00043",
+    "employee_id": "EMP011",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00044",
+    "employee_id": "EMP011",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00045",
+    "employee_id": "EMP012",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00046",
+    "employee_id": "EMP012",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00047",
+    "employee_id": "EMP012",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00048",
+    "employee_id": "EMP012",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00049",
+    "employee_id": "EMP013",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00050",
+    "employee_id": "EMP013",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00051",
+    "employee_id": "EMP013",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00052",
+    "employee_id": "EMP013",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00053",
+    "employee_id": "EMP014",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00054",
+    "employee_id": "EMP014",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00055",
+    "employee_id": "EMP014",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00056",
+    "employee_id": "EMP014",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00057",
+    "employee_id": "EMP015",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 2.0,
+    "remaining_days": 16.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00058",
+    "employee_id": "EMP015",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00059",
+    "employee_id": "EMP015",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00060",
+    "employee_id": "EMP015",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00061",
+    "employee_id": "EMP016",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 2.0,
+    "remaining_days": 16.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00062",
+    "employee_id": "EMP016",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 7.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00063",
+    "employee_id": "EMP016",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00064",
+    "employee_id": "EMP016",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00065",
+    "employee_id": "EMP017",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00066",
+    "employee_id": "EMP017",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00067",
+    "employee_id": "EMP017",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 2.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00068",
+    "employee_id": "EMP017",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00069",
+    "employee_id": "EMP018",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00070",
+    "employee_id": "EMP018",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 4.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00071",
+    "employee_id": "EMP018",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00072",
+    "employee_id": "EMP018",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00073",
+    "employee_id": "EMP019",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 5.0,
+    "remaining_days": 13.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00074",
+    "employee_id": "EMP019",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00075",
+    "employee_id": "EMP019",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 8.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00076",
+    "employee_id": "EMP019",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00077",
+    "employee_id": "EMP020",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00078",
+    "employee_id": "EMP020",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 2.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00079",
+    "employee_id": "EMP020",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 2.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00080",
+    "employee_id": "EMP020",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00081",
+    "employee_id": "EMP021",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 5.0,
+    "remaining_days": 13.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00082",
+    "employee_id": "EMP021",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00083",
+    "employee_id": "EMP021",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 6.0,
+    "remaining_days": 4.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00084",
+    "employee_id": "EMP021",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00085",
+    "employee_id": "EMP022",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00086",
+    "employee_id": "EMP022",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00087",
+    "employee_id": "EMP022",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00088",
+    "employee_id": "EMP022",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 4.0,
+    "remaining_days": 1.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00089",
+    "employee_id": "EMP022",
+    "leave_type": "Maternity/Paternity Leave",
+    "allocated_days": 90.0,
+    "used_days": 2.0,
+    "remaining_days": 88.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00090",
+    "employee_id": "EMP023",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 5.0,
+    "remaining_days": 13.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00091",
+    "employee_id": "EMP023",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00092",
+    "employee_id": "EMP023",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00093",
+    "employee_id": "EMP023",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00094",
+    "employee_id": "EMP024",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00095",
+    "employee_id": "EMP024",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00096",
+    "employee_id": "EMP024",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00097",
+    "employee_id": "EMP024",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 2.0,
+    "remaining_days": 3.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00098",
+    "employee_id": "EMP025",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00099",
+    "employee_id": "EMP025",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 4.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00100",
+    "employee_id": "EMP025",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00101",
+    "employee_id": "EMP025",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00102",
+    "employee_id": "EMP025",
+    "leave_type": "Maternity/Paternity Leave",
+    "allocated_days": 15.0,
+    "used_days": 0.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00103",
+    "employee_id": "EMP026",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 2.0,
+    "remaining_days": 16.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00104",
+    "employee_id": "EMP026",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00105",
+    "employee_id": "EMP026",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 5.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00106",
+    "employee_id": "EMP026",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 3.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00107",
+    "employee_id": "EMP027",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00108",
+    "employee_id": "EMP027",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00109",
+    "employee_id": "EMP027",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00110",
+    "employee_id": "EMP027",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00111",
+    "employee_id": "EMP028",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00112",
+    "employee_id": "EMP028",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00113",
+    "employee_id": "EMP028",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 3.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00114",
+    "employee_id": "EMP028",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 2.0,
+    "remaining_days": 3.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00115",
+    "employee_id": "EMP028",
+    "leave_type": "Maternity/Paternity Leave",
+    "allocated_days": 90.0,
+    "used_days": 0.0,
+    "remaining_days": 90.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00116",
+    "employee_id": "EMP029",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00117",
+    "employee_id": "EMP029",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00118",
+    "employee_id": "EMP029",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00119",
+    "employee_id": "EMP029",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 4.0,
+    "remaining_days": 1.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00120",
+    "employee_id": "EMP030",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00121",
+    "employee_id": "EMP030",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00122",
+    "employee_id": "EMP030",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 1.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00123",
+    "employee_id": "EMP030",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 2.0,
+    "remaining_days": 3.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00124",
+    "employee_id": "EMP031",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 6.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00125",
+    "employee_id": "EMP031",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00126",
+    "employee_id": "EMP031",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00127",
+    "employee_id": "EMP031",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00128",
+    "employee_id": "EMP032",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00129",
+    "employee_id": "EMP032",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00130",
+    "employee_id": "EMP032",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00131",
+    "employee_id": "EMP032",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 1.0,
+    "remaining_days": 4.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00132",
+    "employee_id": "EMP033",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00133",
+    "employee_id": "EMP033",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00134",
+    "employee_id": "EMP033",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00135",
+    "employee_id": "EMP033",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 1.0,
+    "remaining_days": 4.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00136",
+    "employee_id": "EMP033",
+    "leave_type": "Maternity/Paternity Leave",
+    "allocated_days": 15.0,
+    "used_days": 0.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00137",
+    "employee_id": "EMP034",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 6.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00138",
+    "employee_id": "EMP034",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00139",
+    "employee_id": "EMP034",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00140",
+    "employee_id": "EMP034",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00141",
+    "employee_id": "EMP035",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00142",
+    "employee_id": "EMP035",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 2.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00143",
+    "employee_id": "EMP035",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 2.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00144",
+    "employee_id": "EMP035",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00145",
+    "employee_id": "EMP036",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00146",
+    "employee_id": "EMP036",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00147",
+    "employee_id": "EMP036",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00148",
+    "employee_id": "EMP036",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 3.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00149",
+    "employee_id": "EMP037",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00150",
+    "employee_id": "EMP037",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00151",
+    "employee_id": "EMP037",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00152",
+    "employee_id": "EMP037",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 4.0,
+    "remaining_days": 1.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00153",
+    "employee_id": "EMP038",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00154",
+    "employee_id": "EMP038",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00155",
+    "employee_id": "EMP038",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00156",
+    "employee_id": "EMP038",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00157",
+    "employee_id": "EMP039",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00158",
+    "employee_id": "EMP039",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00159",
+    "employee_id": "EMP039",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 3.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00160",
+    "employee_id": "EMP039",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00161",
+    "employee_id": "EMP040",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 1.0,
+    "remaining_days": 17.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00162",
+    "employee_id": "EMP040",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00163",
+    "employee_id": "EMP040",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00164",
+    "employee_id": "EMP040",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 3.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00165",
+    "employee_id": "EMP041",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 4.0,
+    "remaining_days": 14.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00166",
+    "employee_id": "EMP041",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00167",
+    "employee_id": "EMP041",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 3.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00168",
+    "employee_id": "EMP041",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00169",
+    "employee_id": "EMP042",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 3.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00170",
+    "employee_id": "EMP042",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00171",
+    "employee_id": "EMP042",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00172",
+    "employee_id": "EMP042",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00173",
+    "employee_id": "EMP043",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 9.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00174",
+    "employee_id": "EMP043",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00175",
+    "employee_id": "EMP043",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00176",
+    "employee_id": "EMP043",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00177",
+    "employee_id": "EMP043",
+    "leave_type": "Maternity/Paternity Leave",
+    "allocated_days": 15.0,
+    "used_days": 5.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00178",
+    "employee_id": "EMP044",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00179",
+    "employee_id": "EMP044",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 2.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00180",
+    "employee_id": "EMP044",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00181",
+    "employee_id": "EMP044",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 4.0,
+    "remaining_days": 1.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00182",
+    "employee_id": "EMP045",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00183",
+    "employee_id": "EMP045",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00184",
+    "employee_id": "EMP045",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00185",
+    "employee_id": "EMP045",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 2.0,
+    "remaining_days": 3.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00186",
+    "employee_id": "EMP045",
+    "leave_type": "Maternity/Paternity Leave",
+    "allocated_days": 15.0,
+    "used_days": 0.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00187",
+    "employee_id": "EMP046",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00188",
+    "employee_id": "EMP046",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00189",
+    "employee_id": "EMP046",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00190",
+    "employee_id": "EMP046",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00191",
+    "employee_id": "EMP047",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00192",
+    "employee_id": "EMP047",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00193",
+    "employee_id": "EMP047",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00194",
+    "employee_id": "EMP047",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00195",
+    "employee_id": "EMP048",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00196",
+    "employee_id": "EMP048",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 7.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00197",
+    "employee_id": "EMP048",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 1.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00198",
+    "employee_id": "EMP048",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00199",
+    "employee_id": "EMP049",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 3.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00200",
+    "employee_id": "EMP049",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00201",
+    "employee_id": "EMP049",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00202",
+    "employee_id": "EMP049",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 1.0,
+    "remaining_days": 4.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00203",
+    "employee_id": "EMP050",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00204",
+    "employee_id": "EMP050",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00205",
+    "employee_id": "EMP050",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00206",
+    "employee_id": "EMP050",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 4.0,
+    "remaining_days": 1.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00207",
+    "employee_id": "EMP051",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 6.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00208",
+    "employee_id": "EMP051",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00209",
+    "employee_id": "EMP051",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00210",
+    "employee_id": "EMP051",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00211",
+    "employee_id": "EMP052",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00212",
+    "employee_id": "EMP052",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00213",
+    "employee_id": "EMP052",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 3.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00214",
+    "employee_id": "EMP052",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 3.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00215",
+    "employee_id": "EMP053",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00216",
+    "employee_id": "EMP053",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 4.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00217",
+    "employee_id": "EMP053",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00218",
+    "employee_id": "EMP053",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00219",
+    "employee_id": "EMP054",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 3.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00220",
+    "employee_id": "EMP054",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00221",
+    "employee_id": "EMP054",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00222",
+    "employee_id": "EMP054",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00223",
+    "employee_id": "EMP055",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 7.0,
+    "remaining_days": 11.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00224",
+    "employee_id": "EMP055",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00225",
+    "employee_id": "EMP055",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00226",
+    "employee_id": "EMP055",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00227",
+    "employee_id": "EMP056",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00228",
+    "employee_id": "EMP056",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00229",
+    "employee_id": "EMP056",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00230",
+    "employee_id": "EMP056",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00231",
+    "employee_id": "EMP057",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 6.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00232",
+    "employee_id": "EMP057",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00233",
+    "employee_id": "EMP057",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00234",
+    "employee_id": "EMP057",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00235",
+    "employee_id": "EMP058",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 1.0,
+    "remaining_days": 17.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00236",
+    "employee_id": "EMP058",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00237",
+    "employee_id": "EMP058",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 5.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00238",
+    "employee_id": "EMP058",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 1.0,
+    "remaining_days": 4.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00239",
+    "employee_id": "EMP059",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00240",
+    "employee_id": "EMP059",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 4.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00241",
+    "employee_id": "EMP059",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00242",
+    "employee_id": "EMP059",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00243",
+    "employee_id": "EMP060",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00244",
+    "employee_id": "EMP060",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00245",
+    "employee_id": "EMP060",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00246",
+    "employee_id": "EMP060",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00247",
+    "employee_id": "EMP061",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00248",
+    "employee_id": "EMP061",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00249",
+    "employee_id": "EMP061",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 2.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00250",
+    "employee_id": "EMP061",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00251",
+    "employee_id": "EMP062",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 3.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00252",
+    "employee_id": "EMP062",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00253",
+    "employee_id": "EMP062",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 5.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00254",
+    "employee_id": "EMP062",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00255",
+    "employee_id": "EMP063",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 5.0,
+    "remaining_days": 13.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00256",
+    "employee_id": "EMP063",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 1.0,
+    "remaining_days": 11.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00257",
+    "employee_id": "EMP063",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00258",
+    "employee_id": "EMP063",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 2.0,
+    "remaining_days": 3.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00259",
+    "employee_id": "EMP064",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 4.0,
+    "remaining_days": 14.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00260",
+    "employee_id": "EMP064",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00261",
+    "employee_id": "EMP064",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 5.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00262",
+    "employee_id": "EMP064",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 3.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00263",
+    "employee_id": "EMP065",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00264",
+    "employee_id": "EMP065",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 1.0,
+    "remaining_days": 11.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00265",
+    "employee_id": "EMP065",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00266",
+    "employee_id": "EMP065",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 3.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00267",
+    "employee_id": "EMP066",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00268",
+    "employee_id": "EMP066",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00269",
+    "employee_id": "EMP066",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00270",
+    "employee_id": "EMP066",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00271",
+    "employee_id": "EMP067",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00272",
+    "employee_id": "EMP067",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00273",
+    "employee_id": "EMP067",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00274",
+    "employee_id": "EMP067",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00275",
+    "employee_id": "EMP067",
+    "leave_type": "Maternity/Paternity Leave",
+    "allocated_days": 15.0,
+    "used_days": 0.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00276",
+    "employee_id": "EMP068",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 4.0,
+    "remaining_days": 14.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00277",
+    "employee_id": "EMP068",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 4.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00278",
+    "employee_id": "EMP068",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00279",
+    "employee_id": "EMP068",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00280",
+    "employee_id": "EMP069",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 4.0,
+    "remaining_days": 14.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00281",
+    "employee_id": "EMP069",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00282",
+    "employee_id": "EMP069",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 2.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00283",
+    "employee_id": "EMP069",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00284",
+    "employee_id": "EMP069",
+    "leave_type": "Maternity/Paternity Leave",
+    "allocated_days": 15.0,
+    "used_days": 7.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00285",
+    "employee_id": "EMP070",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 3.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00286",
+    "employee_id": "EMP070",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00287",
+    "employee_id": "EMP070",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 5.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00288",
+    "employee_id": "EMP070",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00289",
+    "employee_id": "EMP071",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 4.0,
+    "remaining_days": 14.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00290",
+    "employee_id": "EMP071",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00291",
+    "employee_id": "EMP071",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00292",
+    "employee_id": "EMP071",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 2.0,
+    "remaining_days": 3.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00293",
+    "employee_id": "EMP072",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00294",
+    "employee_id": "EMP072",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 2.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00295",
+    "employee_id": "EMP072",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00296",
+    "employee_id": "EMP072",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00297",
+    "employee_id": "EMP073",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 1.0,
+    "remaining_days": 17.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00298",
+    "employee_id": "EMP073",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 1.0,
+    "remaining_days": 11.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00299",
+    "employee_id": "EMP073",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00300",
+    "employee_id": "EMP073",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 1.0,
+    "remaining_days": 4.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00301",
+    "employee_id": "EMP074",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00302",
+    "employee_id": "EMP074",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 4.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00303",
+    "employee_id": "EMP074",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00304",
+    "employee_id": "EMP074",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00305",
+    "employee_id": "EMP075",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 3.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00306",
+    "employee_id": "EMP075",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 1.0,
+    "remaining_days": 11.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00307",
+    "employee_id": "EMP075",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 5.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00308",
+    "employee_id": "EMP075",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00309",
+    "employee_id": "EMP076",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 5.0,
+    "remaining_days": 13.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00310",
+    "employee_id": "EMP076",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00311",
+    "employee_id": "EMP076",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 3.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00312",
+    "employee_id": "EMP076",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 3.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00313",
+    "employee_id": "EMP077",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00314",
+    "employee_id": "EMP077",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00315",
+    "employee_id": "EMP077",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 2.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00316",
+    "employee_id": "EMP077",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00317",
+    "employee_id": "EMP078",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00318",
+    "employee_id": "EMP078",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00319",
+    "employee_id": "EMP078",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00320",
+    "employee_id": "EMP078",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00321",
+    "employee_id": "EMP079",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 5.0,
+    "remaining_days": 13.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00322",
+    "employee_id": "EMP079",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00323",
+    "employee_id": "EMP079",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00324",
+    "employee_id": "EMP079",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 4.0,
+    "remaining_days": 1.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00325",
+    "employee_id": "EMP080",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00326",
+    "employee_id": "EMP080",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00327",
+    "employee_id": "EMP080",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 2.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00328",
+    "employee_id": "EMP080",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 3.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00329",
+    "employee_id": "EMP081",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00330",
+    "employee_id": "EMP081",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 10.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00331",
+    "employee_id": "EMP081",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00332",
+    "employee_id": "EMP081",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 2.0,
+    "remaining_days": 3.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00333",
+    "employee_id": "EMP082",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00334",
+    "employee_id": "EMP082",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00335",
+    "employee_id": "EMP082",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00336",
+    "employee_id": "EMP082",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00337",
+    "employee_id": "EMP083",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00338",
+    "employee_id": "EMP083",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 6.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00339",
+    "employee_id": "EMP083",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00340",
+    "employee_id": "EMP083",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00341",
+    "employee_id": "EMP084",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00342",
+    "employee_id": "EMP084",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00343",
+    "employee_id": "EMP084",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 3.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00344",
+    "employee_id": "EMP084",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00345",
+    "employee_id": "EMP085",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 1.0,
+    "remaining_days": 17.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00346",
+    "employee_id": "EMP085",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00347",
+    "employee_id": "EMP085",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00348",
+    "employee_id": "EMP085",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00349",
+    "employee_id": "EMP086",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00350",
+    "employee_id": "EMP086",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00351",
+    "employee_id": "EMP086",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00352",
+    "employee_id": "EMP086",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00353",
+    "employee_id": "EMP087",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00354",
+    "employee_id": "EMP087",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 9.0,
+    "remaining_days": 3.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00355",
+    "employee_id": "EMP087",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00356",
+    "employee_id": "EMP087",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00357",
+    "employee_id": "EMP088",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00358",
+    "employee_id": "EMP088",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 2.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00359",
+    "employee_id": "EMP088",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00360",
+    "employee_id": "EMP088",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00361",
+    "employee_id": "EMP089",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 4.0,
+    "remaining_days": 14.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00362",
+    "employee_id": "EMP089",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00363",
+    "employee_id": "EMP089",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00364",
+    "employee_id": "EMP089",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00365",
+    "employee_id": "EMP090",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 2.0,
+    "remaining_days": 16.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00366",
+    "employee_id": "EMP090",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 2.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00367",
+    "employee_id": "EMP090",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00368",
+    "employee_id": "EMP090",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 4.0,
+    "remaining_days": 1.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00369",
+    "employee_id": "EMP091",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 5.0,
+    "remaining_days": 13.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00370",
+    "employee_id": "EMP091",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00371",
+    "employee_id": "EMP091",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00372",
+    "employee_id": "EMP091",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00373",
+    "employee_id": "EMP092",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 1.0,
+    "remaining_days": 17.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00374",
+    "employee_id": "EMP092",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00375",
+    "employee_id": "EMP092",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00376",
+    "employee_id": "EMP092",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00377",
+    "employee_id": "EMP093",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00378",
+    "employee_id": "EMP093",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00379",
+    "employee_id": "EMP093",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00380",
+    "employee_id": "EMP093",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00381",
+    "employee_id": "EMP093",
+    "leave_type": "Maternity/Paternity Leave",
+    "allocated_days": 15.0,
+    "used_days": 1.0,
+    "remaining_days": 14.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00382",
+    "employee_id": "EMP094",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 3.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00383",
+    "employee_id": "EMP094",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 6.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00384",
+    "employee_id": "EMP094",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00385",
+    "employee_id": "EMP094",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 1.0,
+    "remaining_days": 4.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00386",
+    "employee_id": "EMP095",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00387",
+    "employee_id": "EMP095",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00388",
+    "employee_id": "EMP095",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 2.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00389",
+    "employee_id": "EMP095",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 3.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00390",
+    "employee_id": "EMP096",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00391",
+    "employee_id": "EMP096",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00392",
+    "employee_id": "EMP096",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00393",
+    "employee_id": "EMP096",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 2.0,
+    "remaining_days": 3.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00394",
+    "employee_id": "EMP097",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00395",
+    "employee_id": "EMP097",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 2.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00396",
+    "employee_id": "EMP097",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00397",
+    "employee_id": "EMP097",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00398",
+    "employee_id": "EMP098",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 4.0,
+    "remaining_days": 14.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00399",
+    "employee_id": "EMP098",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 6.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00400",
+    "employee_id": "EMP098",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00401",
+    "employee_id": "EMP098",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00402",
+    "employee_id": "EMP099",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 4.0,
+    "remaining_days": 14.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00403",
+    "employee_id": "EMP099",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00404",
+    "employee_id": "EMP099",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00405",
+    "employee_id": "EMP099",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00406",
+    "employee_id": "EMP100",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 1.0,
+    "remaining_days": 17.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00407",
+    "employee_id": "EMP100",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00408",
+    "employee_id": "EMP100",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00409",
+    "employee_id": "EMP100",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00410",
+    "employee_id": "EMP101",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 8.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00411",
+    "employee_id": "EMP101",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00412",
+    "employee_id": "EMP101",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00413",
+    "employee_id": "EMP101",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00414",
+    "employee_id": "EMP102",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 2.0,
+    "remaining_days": 16.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00415",
+    "employee_id": "EMP102",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00416",
+    "employee_id": "EMP102",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00417",
+    "employee_id": "EMP102",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 1.0,
+    "remaining_days": 4.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00418",
+    "employee_id": "EMP103",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 5.0,
+    "remaining_days": 13.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00419",
+    "employee_id": "EMP103",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00420",
+    "employee_id": "EMP103",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00421",
+    "employee_id": "EMP103",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00422",
+    "employee_id": "EMP104",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00423",
+    "employee_id": "EMP104",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00424",
+    "employee_id": "EMP104",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00425",
+    "employee_id": "EMP104",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00426",
+    "employee_id": "EMP105",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00427",
+    "employee_id": "EMP105",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00428",
+    "employee_id": "EMP105",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00429",
+    "employee_id": "EMP105",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00430",
+    "employee_id": "EMP105",
+    "leave_type": "Maternity/Paternity Leave",
+    "allocated_days": 15.0,
+    "used_days": 0.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00431",
+    "employee_id": "EMP106",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00432",
+    "employee_id": "EMP106",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00433",
+    "employee_id": "EMP106",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00434",
+    "employee_id": "EMP106",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 3.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00435",
+    "employee_id": "EMP107",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 3.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00436",
+    "employee_id": "EMP107",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00437",
+    "employee_id": "EMP107",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 5.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00438",
+    "employee_id": "EMP107",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00439",
+    "employee_id": "EMP108",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00440",
+    "employee_id": "EMP108",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00441",
+    "employee_id": "EMP108",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00442",
+    "employee_id": "EMP108",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00443",
+    "employee_id": "EMP109",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00444",
+    "employee_id": "EMP109",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00445",
+    "employee_id": "EMP109",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 2.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00446",
+    "employee_id": "EMP109",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 1.0,
+    "remaining_days": 4.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00447",
+    "employee_id": "EMP110",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 5.0,
+    "remaining_days": 13.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00448",
+    "employee_id": "EMP110",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00449",
+    "employee_id": "EMP110",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00450",
+    "employee_id": "EMP110",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 4.0,
+    "remaining_days": 1.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00451",
+    "employee_id": "EMP111",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 9.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00452",
+    "employee_id": "EMP111",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00453",
+    "employee_id": "EMP111",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 3.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00454",
+    "employee_id": "EMP111",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00455",
+    "employee_id": "EMP112",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00456",
+    "employee_id": "EMP112",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00457",
+    "employee_id": "EMP112",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00458",
+    "employee_id": "EMP112",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00459",
+    "employee_id": "EMP113",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 1.0,
+    "remaining_days": 17.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00460",
+    "employee_id": "EMP113",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00461",
+    "employee_id": "EMP113",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00462",
+    "employee_id": "EMP113",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00463",
+    "employee_id": "EMP113",
+    "leave_type": "Maternity/Paternity Leave",
+    "allocated_days": 15.0,
+    "used_days": 0.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00464",
+    "employee_id": "EMP114",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00465",
+    "employee_id": "EMP114",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00466",
+    "employee_id": "EMP114",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 1.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00467",
+    "employee_id": "EMP114",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00468",
+    "employee_id": "EMP115",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00469",
+    "employee_id": "EMP115",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00470",
+    "employee_id": "EMP115",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00471",
+    "employee_id": "EMP115",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 4.0,
+    "remaining_days": 1.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00472",
+    "employee_id": "EMP116",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00473",
+    "employee_id": "EMP116",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 1.0,
+    "remaining_days": 11.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00474",
+    "employee_id": "EMP116",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 2.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00475",
+    "employee_id": "EMP116",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 3.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00476",
+    "employee_id": "EMP117",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00477",
+    "employee_id": "EMP117",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00478",
+    "employee_id": "EMP117",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 3.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00479",
+    "employee_id": "EMP117",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00480",
+    "employee_id": "EMP118",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00481",
+    "employee_id": "EMP118",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00482",
+    "employee_id": "EMP118",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00483",
+    "employee_id": "EMP118",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00484",
+    "employee_id": "EMP119",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00485",
+    "employee_id": "EMP119",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00486",
+    "employee_id": "EMP119",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 5.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00487",
+    "employee_id": "EMP119",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 4.0,
+    "remaining_days": 1.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00488",
+    "employee_id": "EMP120",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 4.0,
+    "remaining_days": 14.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00489",
+    "employee_id": "EMP120",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00490",
+    "employee_id": "EMP120",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 5.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00491",
+    "employee_id": "EMP120",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00492",
+    "employee_id": "EMP121",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 5.0,
+    "remaining_days": 13.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00493",
+    "employee_id": "EMP121",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00494",
+    "employee_id": "EMP121",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00495",
+    "employee_id": "EMP121",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 2.0,
+    "remaining_days": 3.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00496",
+    "employee_id": "EMP121",
+    "leave_type": "Maternity/Paternity Leave",
+    "allocated_days": 15.0,
+    "used_days": 4.0,
+    "remaining_days": 11.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00497",
+    "employee_id": "EMP122",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00498",
+    "employee_id": "EMP122",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00499",
+    "employee_id": "EMP122",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 3.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00500",
+    "employee_id": "EMP122",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 3.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00501",
+    "employee_id": "EMP123",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00502",
+    "employee_id": "EMP123",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00503",
+    "employee_id": "EMP123",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00504",
+    "employee_id": "EMP123",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 4.0,
+    "remaining_days": 1.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00505",
+    "employee_id": "EMP124",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00506",
+    "employee_id": "EMP124",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00507",
+    "employee_id": "EMP124",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00508",
+    "employee_id": "EMP124",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00509",
+    "employee_id": "EMP125",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00510",
+    "employee_id": "EMP125",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00511",
+    "employee_id": "EMP125",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00512",
+    "employee_id": "EMP125",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00513",
+    "employee_id": "EMP126",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00514",
+    "employee_id": "EMP126",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 4.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00515",
+    "employee_id": "EMP126",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 7.0,
+    "remaining_days": 3.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00516",
+    "employee_id": "EMP126",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00517",
+    "employee_id": "EMP127",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 4.0,
+    "remaining_days": 14.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00518",
+    "employee_id": "EMP127",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 4.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00519",
+    "employee_id": "EMP127",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00520",
+    "employee_id": "EMP127",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00521",
+    "employee_id": "EMP128",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 1.0,
+    "remaining_days": 17.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00522",
+    "employee_id": "EMP128",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00523",
+    "employee_id": "EMP128",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00524",
+    "employee_id": "EMP128",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00525",
+    "employee_id": "EMP129",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 6.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00526",
+    "employee_id": "EMP129",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00527",
+    "employee_id": "EMP129",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 3.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00528",
+    "employee_id": "EMP129",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00529",
+    "employee_id": "EMP130",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00530",
+    "employee_id": "EMP130",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00531",
+    "employee_id": "EMP130",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00532",
+    "employee_id": "EMP130",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 2.0,
+    "remaining_days": 3.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00533",
+    "employee_id": "EMP131",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 5.0,
+    "remaining_days": 13.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00534",
+    "employee_id": "EMP131",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00535",
+    "employee_id": "EMP131",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00536",
+    "employee_id": "EMP131",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00537",
+    "employee_id": "EMP132",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00538",
+    "employee_id": "EMP132",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 1.0,
+    "remaining_days": 11.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00539",
+    "employee_id": "EMP132",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00540",
+    "employee_id": "EMP132",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00541",
+    "employee_id": "EMP133",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 1.0,
+    "remaining_days": 17.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00542",
+    "employee_id": "EMP133",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00543",
+    "employee_id": "EMP133",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00544",
+    "employee_id": "EMP133",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 2.0,
+    "remaining_days": 3.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00545",
+    "employee_id": "EMP134",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 6.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00546",
+    "employee_id": "EMP134",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00547",
+    "employee_id": "EMP134",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 3.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00548",
+    "employee_id": "EMP134",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00549",
+    "employee_id": "EMP135",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 5.0,
+    "remaining_days": 13.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00550",
+    "employee_id": "EMP135",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00551",
+    "employee_id": "EMP135",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00552",
+    "employee_id": "EMP135",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00553",
+    "employee_id": "EMP136",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 3.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00554",
+    "employee_id": "EMP136",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 6.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00555",
+    "employee_id": "EMP136",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 1.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00556",
+    "employee_id": "EMP136",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00557",
+    "employee_id": "EMP137",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 2.0,
+    "remaining_days": 16.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00558",
+    "employee_id": "EMP137",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00559",
+    "employee_id": "EMP137",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 5.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00560",
+    "employee_id": "EMP137",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00561",
+    "employee_id": "EMP138",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00562",
+    "employee_id": "EMP138",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00563",
+    "employee_id": "EMP138",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 2.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00564",
+    "employee_id": "EMP138",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 4.0,
+    "remaining_days": 1.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00565",
+    "employee_id": "EMP139",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 5.0,
+    "remaining_days": 13.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00566",
+    "employee_id": "EMP139",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00567",
+    "employee_id": "EMP139",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00568",
+    "employee_id": "EMP139",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00569",
+    "employee_id": "EMP140",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00570",
+    "employee_id": "EMP140",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00571",
+    "employee_id": "EMP140",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00572",
+    "employee_id": "EMP140",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 3.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00573",
+    "employee_id": "EMP141",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00574",
+    "employee_id": "EMP141",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00575",
+    "employee_id": "EMP141",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 5.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00576",
+    "employee_id": "EMP141",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 1.0,
+    "remaining_days": 4.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00577",
+    "employee_id": "EMP142",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00578",
+    "employee_id": "EMP142",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00579",
+    "employee_id": "EMP142",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 5.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00580",
+    "employee_id": "EMP142",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 3.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00581",
+    "employee_id": "EMP143",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00582",
+    "employee_id": "EMP143",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00583",
+    "employee_id": "EMP143",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 5.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00584",
+    "employee_id": "EMP143",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 2.0,
+    "remaining_days": 3.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00585",
+    "employee_id": "EMP144",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 2.0,
+    "remaining_days": 16.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00586",
+    "employee_id": "EMP144",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00587",
+    "employee_id": "EMP144",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00588",
+    "employee_id": "EMP144",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 3.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00589",
+    "employee_id": "EMP145",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00590",
+    "employee_id": "EMP145",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00591",
+    "employee_id": "EMP145",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00592",
+    "employee_id": "EMP145",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 3.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00593",
+    "employee_id": "EMP146",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00594",
+    "employee_id": "EMP146",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00595",
+    "employee_id": "EMP146",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00596",
+    "employee_id": "EMP146",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00597",
+    "employee_id": "EMP147",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00598",
+    "employee_id": "EMP147",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00599",
+    "employee_id": "EMP147",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 1.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00600",
+    "employee_id": "EMP147",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00601",
+    "employee_id": "EMP148",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 5.0,
+    "remaining_days": 13.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00602",
+    "employee_id": "EMP148",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00603",
+    "employee_id": "EMP148",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 6.0,
+    "remaining_days": 4.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00604",
+    "employee_id": "EMP148",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00605",
+    "employee_id": "EMP149",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 1.0,
+    "remaining_days": 17.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00606",
+    "employee_id": "EMP149",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00607",
+    "employee_id": "EMP149",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00608",
+    "employee_id": "EMP149",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00609",
+    "employee_id": "EMP150",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 3.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00610",
+    "employee_id": "EMP150",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00611",
+    "employee_id": "EMP150",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00612",
+    "employee_id": "EMP150",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00613",
+    "employee_id": "EMP151",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00614",
+    "employee_id": "EMP151",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00615",
+    "employee_id": "EMP151",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00616",
+    "employee_id": "EMP151",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00617",
+    "employee_id": "EMP152",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 2.0,
+    "remaining_days": 16.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00618",
+    "employee_id": "EMP152",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00619",
+    "employee_id": "EMP152",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 2.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00620",
+    "employee_id": "EMP152",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 3.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00621",
+    "employee_id": "EMP153",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 1.0,
+    "remaining_days": 17.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00622",
+    "employee_id": "EMP153",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 1.0,
+    "remaining_days": 11.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00623",
+    "employee_id": "EMP153",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00624",
+    "employee_id": "EMP153",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 4.0,
+    "remaining_days": 1.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00625",
+    "employee_id": "EMP154",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 3.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00626",
+    "employee_id": "EMP154",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00627",
+    "employee_id": "EMP154",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00628",
+    "employee_id": "EMP154",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 1.0,
+    "remaining_days": 4.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00629",
+    "employee_id": "EMP155",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00630",
+    "employee_id": "EMP155",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00631",
+    "employee_id": "EMP155",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 3.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00632",
+    "employee_id": "EMP155",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00633",
+    "employee_id": "EMP156",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00634",
+    "employee_id": "EMP156",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00635",
+    "employee_id": "EMP156",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00636",
+    "employee_id": "EMP156",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 3.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00637",
+    "employee_id": "EMP157",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 2.0,
+    "remaining_days": 16.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00638",
+    "employee_id": "EMP157",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00639",
+    "employee_id": "EMP157",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00640",
+    "employee_id": "EMP157",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00641",
+    "employee_id": "EMP158",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00642",
+    "employee_id": "EMP158",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00643",
+    "employee_id": "EMP158",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00644",
+    "employee_id": "EMP158",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 1.0,
+    "remaining_days": 4.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00645",
+    "employee_id": "EMP158",
+    "leave_type": "Maternity/Paternity Leave",
+    "allocated_days": 90.0,
+    "used_days": 0.0,
+    "remaining_days": 90.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00646",
+    "employee_id": "EMP159",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00647",
+    "employee_id": "EMP159",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00648",
+    "employee_id": "EMP159",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00649",
+    "employee_id": "EMP159",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 1.0,
+    "remaining_days": 4.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00650",
+    "employee_id": "EMP160",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00651",
+    "employee_id": "EMP160",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 1.0,
+    "remaining_days": 11.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00652",
+    "employee_id": "EMP160",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00653",
+    "employee_id": "EMP160",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 4.0,
+    "remaining_days": 1.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00654",
+    "employee_id": "EMP161",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 4.0,
+    "remaining_days": 14.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00655",
+    "employee_id": "EMP161",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00656",
+    "employee_id": "EMP161",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 1.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00657",
+    "employee_id": "EMP161",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00658",
+    "employee_id": "EMP162",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 4.0,
+    "remaining_days": 14.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00659",
+    "employee_id": "EMP162",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00660",
+    "employee_id": "EMP162",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 5.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00661",
+    "employee_id": "EMP162",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00662",
+    "employee_id": "EMP163",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00663",
+    "employee_id": "EMP163",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00664",
+    "employee_id": "EMP163",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00665",
+    "employee_id": "EMP163",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00666",
+    "employee_id": "EMP164",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 5.0,
+    "remaining_days": 13.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00667",
+    "employee_id": "EMP164",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 1.0,
+    "remaining_days": 11.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00668",
+    "employee_id": "EMP164",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00669",
+    "employee_id": "EMP164",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00670",
+    "employee_id": "EMP165",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00671",
+    "employee_id": "EMP165",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00672",
+    "employee_id": "EMP165",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00673",
+    "employee_id": "EMP165",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00674",
+    "employee_id": "EMP165",
+    "leave_type": "Maternity/Paternity Leave",
+    "allocated_days": 15.0,
+    "used_days": 0.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00675",
+    "employee_id": "EMP166",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 5.0,
+    "remaining_days": 13.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00676",
+    "employee_id": "EMP166",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00677",
+    "employee_id": "EMP166",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00678",
+    "employee_id": "EMP166",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00679",
+    "employee_id": "EMP167",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00680",
+    "employee_id": "EMP167",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00681",
+    "employee_id": "EMP167",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00682",
+    "employee_id": "EMP167",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 2.0,
+    "remaining_days": 3.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00683",
+    "employee_id": "EMP168",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 5.0,
+    "remaining_days": 13.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00684",
+    "employee_id": "EMP168",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 1.0,
+    "remaining_days": 11.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00685",
+    "employee_id": "EMP168",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 1.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00686",
+    "employee_id": "EMP168",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00687",
+    "employee_id": "EMP169",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00688",
+    "employee_id": "EMP169",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00689",
+    "employee_id": "EMP169",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 3.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00690",
+    "employee_id": "EMP169",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 4.0,
+    "remaining_days": 1.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00691",
+    "employee_id": "EMP170",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00692",
+    "employee_id": "EMP170",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00693",
+    "employee_id": "EMP170",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00694",
+    "employee_id": "EMP170",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00695",
+    "employee_id": "EMP171",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00696",
+    "employee_id": "EMP171",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 6.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00697",
+    "employee_id": "EMP171",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00698",
+    "employee_id": "EMP171",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 4.0,
+    "remaining_days": 1.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00699",
+    "employee_id": "EMP172",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 2.0,
+    "remaining_days": 16.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00700",
+    "employee_id": "EMP172",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00701",
+    "employee_id": "EMP172",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00702",
+    "employee_id": "EMP172",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00703",
+    "employee_id": "EMP173",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 2.0,
+    "remaining_days": 16.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00704",
+    "employee_id": "EMP173",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00705",
+    "employee_id": "EMP173",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 5.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00706",
+    "employee_id": "EMP173",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00707",
+    "employee_id": "EMP174",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00708",
+    "employee_id": "EMP174",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 4.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00709",
+    "employee_id": "EMP174",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 5.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00710",
+    "employee_id": "EMP174",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00711",
+    "employee_id": "EMP175",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 2.0,
+    "remaining_days": 16.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00712",
+    "employee_id": "EMP175",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00713",
+    "employee_id": "EMP175",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 2.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00714",
+    "employee_id": "EMP175",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00715",
+    "employee_id": "EMP176",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00716",
+    "employee_id": "EMP176",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00717",
+    "employee_id": "EMP176",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00718",
+    "employee_id": "EMP176",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00719",
+    "employee_id": "EMP177",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00720",
+    "employee_id": "EMP177",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00721",
+    "employee_id": "EMP177",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 3.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00722",
+    "employee_id": "EMP177",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 2.0,
+    "remaining_days": 3.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00723",
+    "employee_id": "EMP178",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 1.0,
+    "remaining_days": 17.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00724",
+    "employee_id": "EMP178",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 4.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00725",
+    "employee_id": "EMP178",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00726",
+    "employee_id": "EMP178",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00727",
+    "employee_id": "EMP179",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 1.0,
+    "remaining_days": 17.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00728",
+    "employee_id": "EMP179",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00729",
+    "employee_id": "EMP179",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 9.0,
+    "remaining_days": 1.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00730",
+    "employee_id": "EMP179",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00731",
+    "employee_id": "EMP180",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 1.0,
+    "remaining_days": 17.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00732",
+    "employee_id": "EMP180",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 4.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00733",
+    "employee_id": "EMP180",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00734",
+    "employee_id": "EMP180",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00735",
+    "employee_id": "EMP181",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 4.0,
+    "remaining_days": 14.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00736",
+    "employee_id": "EMP181",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00737",
+    "employee_id": "EMP181",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00738",
+    "employee_id": "EMP181",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00739",
+    "employee_id": "EMP182",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00740",
+    "employee_id": "EMP182",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00741",
+    "employee_id": "EMP182",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00742",
+    "employee_id": "EMP182",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00743",
+    "employee_id": "EMP183",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00744",
+    "employee_id": "EMP183",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00745",
+    "employee_id": "EMP183",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 6.0,
+    "remaining_days": 4.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00746",
+    "employee_id": "EMP183",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00747",
+    "employee_id": "EMP184",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00748",
+    "employee_id": "EMP184",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00749",
+    "employee_id": "EMP184",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00750",
+    "employee_id": "EMP184",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00751",
+    "employee_id": "EMP185",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00752",
+    "employee_id": "EMP185",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00753",
+    "employee_id": "EMP185",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00754",
+    "employee_id": "EMP185",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00755",
+    "employee_id": "EMP186",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 9.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00756",
+    "employee_id": "EMP186",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00757",
+    "employee_id": "EMP186",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 3.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00758",
+    "employee_id": "EMP186",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00759",
+    "employee_id": "EMP186",
+    "leave_type": "Maternity/Paternity Leave",
+    "allocated_days": 90.0,
+    "used_days": 1.0,
+    "remaining_days": 89.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00760",
+    "employee_id": "EMP187",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00761",
+    "employee_id": "EMP187",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 1.0,
+    "remaining_days": 11.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00762",
+    "employee_id": "EMP187",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00763",
+    "employee_id": "EMP187",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00764",
+    "employee_id": "EMP188",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 4.0,
+    "remaining_days": 14.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00765",
+    "employee_id": "EMP188",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00766",
+    "employee_id": "EMP188",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00767",
+    "employee_id": "EMP188",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00768",
+    "employee_id": "EMP189",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00769",
+    "employee_id": "EMP189",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00770",
+    "employee_id": "EMP189",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00771",
+    "employee_id": "EMP189",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00772",
+    "employee_id": "EMP190",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 5.0,
+    "remaining_days": 13.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00773",
+    "employee_id": "EMP190",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00774",
+    "employee_id": "EMP190",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00775",
+    "employee_id": "EMP190",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00776",
+    "employee_id": "EMP191",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00777",
+    "employee_id": "EMP191",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00778",
+    "employee_id": "EMP191",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00779",
+    "employee_id": "EMP191",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00780",
+    "employee_id": "EMP192",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00781",
+    "employee_id": "EMP192",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 4.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00782",
+    "employee_id": "EMP192",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00783",
+    "employee_id": "EMP192",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00784",
+    "employee_id": "EMP193",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00785",
+    "employee_id": "EMP193",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00786",
+    "employee_id": "EMP193",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00787",
+    "employee_id": "EMP193",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 5.0,
+    "remaining_days": 0.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00788",
+    "employee_id": "EMP194",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 2.0,
+    "remaining_days": 16.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00789",
+    "employee_id": "EMP194",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 3.0,
+    "remaining_days": 9.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00790",
+    "employee_id": "EMP194",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 5.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00791",
+    "employee_id": "EMP194",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 3.0,
+    "remaining_days": 2.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00792",
+    "employee_id": "EMP195",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 4.0,
+    "remaining_days": 14.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00793",
+    "employee_id": "EMP195",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00794",
+    "employee_id": "EMP195",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00795",
+    "employee_id": "EMP195",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 1.0,
+    "remaining_days": 4.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00796",
+    "employee_id": "EMP196",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00797",
+    "employee_id": "EMP196",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 2.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00798",
+    "employee_id": "EMP196",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 4.0,
+    "remaining_days": 6.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00799",
+    "employee_id": "EMP196",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00800",
+    "employee_id": "EMP197",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 4.0,
+    "remaining_days": 14.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00801",
+    "employee_id": "EMP197",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 0.0,
+    "remaining_days": 12.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00802",
+    "employee_id": "EMP197",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00803",
+    "employee_id": "EMP197",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00804",
+    "employee_id": "EMP197",
+    "leave_type": "Maternity/Paternity Leave",
+    "allocated_days": 15.0,
+    "used_days": 0.0,
+    "remaining_days": 15.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00805",
+    "employee_id": "EMP198",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00806",
+    "employee_id": "EMP198",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 4.0,
+    "remaining_days": 8.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00807",
+    "employee_id": "EMP198",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 3.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00808",
+    "employee_id": "EMP198",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 1.0,
+    "remaining_days": 4.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00809",
+    "employee_id": "EMP199",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00810",
+    "employee_id": "EMP199",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 2.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00811",
+    "employee_id": "EMP199",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00812",
+    "employee_id": "EMP199",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00813",
+    "employee_id": "EMP200",
+    "leave_type": "Annual Leave",
+    "allocated_days": 18.0,
+    "used_days": 0.0,
+    "remaining_days": 18.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00814",
+    "employee_id": "EMP200",
+    "leave_type": "Sick Leave",
+    "allocated_days": 12.0,
+    "used_days": 5.0,
+    "remaining_days": 7.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00815",
+    "employee_id": "EMP200",
+    "leave_type": "Casual Leave",
+    "allocated_days": 10.0,
+    "used_days": 0.0,
+    "remaining_days": 10.0,
+    "year": 2026
+  },
+  {
+    "balance_id": "BAL00816",
+    "employee_id": "EMP200",
+    "leave_type": "Emergency Leave",
+    "allocated_days": 5.0,
+    "used_days": 0.0,
+    "remaining_days": 5.0,
+    "year": 2026
+  }
+]

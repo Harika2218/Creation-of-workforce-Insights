@@ -1,0 +1,34 @@
+[
+  {
+    "shift_id": "SH01",
+    "shift_name": "General Shift",
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "grace_period_mins": 15,
+    "is_rotational": 0
+  },
+  {
+    "shift_id": "SH02",
+    "shift_name": "Morning Shift",
+    "start_time": "06:00",
+    "end_time": "15:00",
+    "grace_period_mins": 15,
+    "is_rotational": 1
+  },
+  {
+    "shift_id": "SH03",
+    "shift_name": "Evening Shift",
+    "start_time": "13:00",
+    "end_time": "21:30",
+    "grace_period_mins": 15,
+    "is_rotational": 1
+  },
+  {
+    "shift_id": "SH04",
+    "shift_name": "Night Shift",
+    "start_time": "22:00",
+    "end_time": "07:00",
+    "grace_period_mins": 15,
+    "is_rotational": 1
+  }
+]

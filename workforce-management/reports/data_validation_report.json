@@ -1,0 +1,277 @@
+{
+  "timestamp": "2026-09-28T08:12:23.407502",
+  "database_file": "C:\\Users\\evuri\\Downloads\\HR_Automation\\data\\hr_automation.db",
+  "overall_status": "PASSED",
+  "total_checks": 32,
+  "passed_checks": 32,
+  "failed_checks": 0,
+  "summary_metrics": {
+    "total_employees": 200,
+    "total_departments": 9,
+    "total_locations": 5,
+    "total_attendance_records": 24600,
+    "total_leave_requests": 573,
+    "total_payroll_records": 1200,
+    "total_timesheets": 4000,
+    "total_performance_reviews": 200,
+    "total_user_accounts": 204,
+    "attendance_anomalies_flagged": 307
+  },
+  "categories": {
+    "Foreign Key & Database Constraints": {
+      "name": "Foreign Key & Database Constraints",
+      "passed": 1,
+      "failed": 0,
+      "checks": [
+        {
+          "check_name": "SQLite Foreign Key Check",
+          "status": "PASSED",
+          "details": "No foreign key violations detected.",
+          "sample_data": null
+        }
+      ]
+    },
+    "Employee Validation": {
+      "name": "Employee Validation",
+      "passed": 8,
+      "failed": 0,
+      "checks": [
+        {
+          "check_name": "Exactly 200 Employees Count",
+          "status": "PASSED",
+          "details": "Found 200 employees. Required: EXACTLY 200.",
+          "sample_data": null
+        },
+        {
+          "check_name": "Unique Employee IDs Sequence (EMP001 to EMP200)",
+          "status": "PASSED",
+          "details": "Employee IDs match standard sequence EMP001 through EMP200 without gaps or extras.",
+          "sample_data": null
+        },
+        {
+          "check_name": "Unique Corporate Emails",
+          "status": "PASSED",
+          "details": "200 unique emails found across 200 employees.",
+          "sample_data": null
+        },
+        {
+          "check_name": "Valid Department IDs Assigned",
+          "status": "PASSED",
+          "details": "All employees mapped to valid departments. Invalid count: 0.",
+          "sample_data": null
+        },
+        {
+          "check_name": "Valid Office Locations Assigned",
+          "status": "PASSED",
+          "details": "All employees assigned to recognized office locations. Invalid count: 0.",
+          "sample_data": null
+        },
+        {
+          "check_name": "No Employee Manages Themselves",
+          "status": "PASSED",
+          "details": "Zero self-referencing managers found.",
+          "sample_data": null
+        },
+        {
+          "check_name": "Manager IDs Exist in Employees Table",
+          "status": "PASSED",
+          "details": "All managers are verified active employees in the table.",
+          "sample_data": null
+        },
+        {
+          "check_name": "Acyclic Manager Hierarchy (No Reporting Loops)",
+          "status": "PASSED",
+          "details": "The reporting structure forms a valid tree topology rooted at the CEO.",
+          "sample_data": null
+        }
+      ]
+    },
+    "Organization Structure": {
+      "name": "Organization Structure",
+      "passed": 3,
+      "failed": 0,
+      "checks": [
+        {
+          "check_name": "9 Functional Departments Configured",
+          "status": "PASSED",
+          "details": "Found 9 departments (Engineering, Data Science, HR, Finance, Marketing, Sales, Operations, IT, Customer Support).",
+          "sample_data": null
+        },
+        {
+          "check_name": "5 Office Hub Locations Configured",
+          "status": "PASSED",
+          "details": "Found 5 office hubs (Hyderabad, Bengaluru, Chennai, Pune, Mumbai) with geofencing coordinates.",
+          "sample_data": null
+        },
+        {
+          "check_name": "4 Working Shifts Configured",
+          "status": "PASSED",
+          "details": "Found 4 shifts (General, Morning, Evening, Night).",
+          "sample_data": null
+        }
+      ]
+    },
+    "Attendance Data Validation": {
+      "name": "Attendance Data Validation",
+      "passed": 5,
+      "failed": 0,
+      "checks": [
+        {
+          "check_name": "6-Month Attendance Records Generated",
+          "status": "PASSED",
+          "details": "Total attendance rows: 24600 (~6 months for 200 employees).",
+          "sample_data": null
+        },
+        {
+          "check_name": "All Attendance Records Link to Valid Employees",
+          "status": "PASSED",
+          "details": "Invalid employee references in attendance: 0.",
+          "sample_data": null
+        },
+        {
+          "check_name": "Check-out Later Than Check-in (Standard Shifts)",
+          "status": "PASSED",
+          "details": "Invalid check-out timestamps: 0.",
+          "sample_data": null
+        },
+        {
+          "check_name": "Overtime Hours Within Plausible Range (0 to 12 hrs)",
+          "status": "PASSED",
+          "details": "Rows with impossible overtime: 0.",
+          "sample_data": null
+        },
+        {
+          "check_name": "Realistic Synthetic Anomaly Flags Embedded",
+          "status": "PASSED",
+          "details": "Detected 307 simulated anomaly cases (1.25%) for AI detection benchmarking.",
+          "sample_data": null
+        }
+      ]
+    },
+    "Leave Management Validation": {
+      "name": "Leave Management Validation",
+      "passed": 3,
+      "failed": 0,
+      "checks": [
+        {
+          "check_name": "Leave Balances Consistency (Allocated = Used + Remaining)",
+          "status": "PASSED",
+          "details": "Mismatched balances: 0.",
+          "sample_data": null
+        },
+        {
+          "check_name": "Leave Requests Date Consistency (Start <= End)",
+          "status": "PASSED",
+          "details": "Invalid date requests: 0.",
+          "sample_data": null
+        },
+        {
+          "check_name": "Leave Approvers Are Valid Employees",
+          "status": "PASSED",
+          "details": "Invalid approvers: 0.",
+          "sample_data": null
+        }
+      ]
+    },
+    "Payroll Calculations Validation": {
+      "name": "Payroll Calculations Validation",
+      "passed": 4,
+      "failed": 0,
+      "checks": [
+        {
+          "check_name": "Payroll Records Generated (6 Months x 200 Employees)",
+          "status": "PASSED",
+          "details": "Total payroll rows: 1200 (Required: 1,200).",
+          "sample_data": null
+        },
+        {
+          "check_name": "Gross Salary Exact Formula Verification",
+          "status": "PASSED",
+          "details": "Gross salary calculation discrepancies: 0.",
+          "sample_data": null
+        },
+        {
+          "check_name": "Net Salary Exact Formula Verification",
+          "status": "PASSED",
+          "details": "Net salary calculation discrepancies: 0.",
+          "sample_data": null
+        },
+        {
+          "check_name": "Zero Negative Salaries",
+          "status": "PASSED",
+          "details": "Negative or zero net salary instances: 0.",
+          "sample_data": null
+        }
+      ]
+    },
+    "Timesheet Data Validation": {
+      "name": "Timesheet Data Validation",
+      "passed": 3,
+      "failed": 0,
+      "checks": [
+        {
+          "check_name": "Active Timesheets Generated",
+          "status": "PASSED",
+          "details": "Total timesheet entries: 4000.",
+          "sample_data": null
+        },
+        {
+          "check_name": "Timesheet Hours Consistency (Billable + Non-Billable = Total)",
+          "status": "PASSED",
+          "details": "Timesheets with hour discrepancies: 0.",
+          "sample_data": null
+        },
+        {
+          "check_name": "Timesheet Hours Bound Limits (0 to 24 hrs)",
+          "status": "PASSED",
+          "details": "Out of bounds timesheets: 0.",
+          "sample_data": null
+        }
+      ]
+    },
+    "Talent & Performance Validation": {
+      "name": "Talent & Performance Validation",
+      "passed": 4,
+      "failed": 0,
+      "checks": [
+        {
+          "check_name": "Performance Appraisals for All 200 Employees",
+          "status": "PASSED",
+          "details": "Total reviews: 200 (One per employee).",
+          "sample_data": null
+        },
+        {
+          "check_name": "KPI & Productivity Scores Range (0 to 100)",
+          "status": "PASSED",
+          "details": "Score anomalies: 0.",
+          "sample_data": null
+        },
+        {
+          "check_name": "All Employees Have Mapped Skills",
+          "status": "PASSED",
+          "details": "200 employees have verified skill proficiency profiles.",
+          "sample_data": null
+        },
+        {
+          "check_name": "AI Skill Gap Training Recommendations Generated",
+          "status": "PASSED",
+          "details": "Total personalized training recommendations: 200.",
+          "sample_data": null
+        }
+      ]
+    },
+    "Authentication & Demo Accounts": {
+      "name": "Authentication & Demo Accounts",
+      "passed": 1,
+      "failed": 0,
+      "checks": [
+        {
+          "check_name": "All 4 Demo Accounts Created & Active",
+          "status": "PASSED",
+          "details": "Found 4 / 4 required demo credentials (admin, manager, hr, employee).",
+          "sample_data": null
+        }
+      ]
+    }
+  }
+}

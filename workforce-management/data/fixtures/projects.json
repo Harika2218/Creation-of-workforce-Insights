@@ -1,0 +1,82 @@
+[
+  {
+    "project_id": "PRJ01",
+    "project_name": "Project Alpha",
+    "client_name": "Apex Global Financials",
+    "department_id": "DEP01",
+    "start_date": "2025-06-01",
+    "end_date": "2026-08-31",
+    "status": "Active",
+    "budget": 18500000.0
+  },
+  {
+    "project_id": "PRJ02",
+    "project_name": "Project Beta",
+    "client_name": "Nexis Health Systems",
+    "department_id": "DEP02",
+    "start_date": "2025-08-15",
+    "end_date": "2026-05-30",
+    "status": "Active",
+    "budget": 14200000.0
+  },
+  {
+    "project_id": "PRJ03",
+    "project_name": "Project Gamma",
+    "client_name": "Titan Retail Cloud",
+    "department_id": "DEP01",
+    "start_date": "2025-04-01",
+    "end_date": "2026-03-31",
+    "status": "Active",
+    "budget": 21000000.0
+  },
+  {
+    "project_id": "PRJ04",
+    "project_name": "Project Delta",
+    "client_name": "Vanguard Telecom",
+    "department_id": "DEP08",
+    "start_date": "2025-09-01",
+    "end_date": "2026-11-15",
+    "status": "Active",
+    "budget": 12000000.0
+  },
+  {
+    "project_id": "PRJ05",
+    "project_name": "Project Omega",
+    "client_name": "OmniCorp Logistics",
+    "department_id": "DEP07",
+    "start_date": "2025-07-01",
+    "end_date": "2026-06-30",
+    "status": "Active",
+    "budget": 16000000.0
+  },
+  {
+    "project_id": "PRJ06",
+    "project_name": "Project Horizon",
+    "client_name": "Starlight Media",
+    "department_id": "DEP05",
+    "start_date": "2025-10-01",
+    "end_date": "2026-09-30",
+    "status": "Active",
+    "budget": 9500000.0
+  },
+  {
+    "project_id": "PRJ07",
+    "project_name": "Project Pulse",
+    "client_name": "Quantum Automations",
+    "department_id": "DEP02",
+    "start_date": "2025-11-01",
+    "end_date": "2026-10-31",
+    "status": "Active",
+    "budget": 13800000.0
+  },
+  {
+    "project_id": "PRJ08",
+    "project_name": "Internal Platform v3",
+    "client_name": "Internal Corp",
+    "department_id": "DEP01",
+    "start_date": "2025-01-01",
+    "end_date": "2026-12-31",
+    "status": "Active",
+    "budget": 25000000.0
+  }
+]

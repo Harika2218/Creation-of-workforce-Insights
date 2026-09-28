@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-09-27T10:01:30.784539+00:00",
+  "concurrency": 8,
+  "total_requests": 150,
+  "total_duration_seconds": 0.92,
+  "requests_per_second": 162.64,
+  "successful_requests": 150,
+  "failed_requests": 0,
+  "error_rate_percent": 0.0,
+  "latency_ms": {
+    "avg": 48.2,
+    "min": 24.78,
+    "max": 118.32,
+    "p50": 45.56,
+    "p95": 84.43,
+    "p99": 112.17
+  },
+  "status_distribution": {
+    "200": 150
+  }
+}

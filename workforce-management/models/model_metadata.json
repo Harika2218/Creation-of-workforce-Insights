@@ -1,0 +1,73 @@
+{
+  "system": "HRvantage AI Workforce Intelligence",
+  "version": "1.0.0",
+  "evaluated_at": "2026-09-23 18:01:34",
+  "fairness_safeguards": {
+    "protected_attributes_excluded": [
+      "gender",
+      "date_of_birth",
+      "address",
+      "marital_status",
+      "religion"
+    ],
+    "data_leakage_checks": "PASSED - strict temporal separation on training feature windows",
+    "decision_support_principle": "All models output probabilistic scores with disclaimers; no autonomous employment actions."
+  },
+  "models": {
+    "absenteeism": {
+      "model_version": "absenteeism_v1.0.0",
+      "samples_trained": 150,
+      "samples_tested": 50,
+      "accuracy": 0.72,
+      "precision": 0.5714,
+      "recall": 0.2667,
+      "f1_score": 0.3636,
+      "roc_auc": 0.5124,
+      "feature_importances": {
+        "attendance_rate_30d": 0.1286,
+        "late_count_30d": 0.1156,
+        "avg_late_minutes_30d": 0.2148,
+        "overtime_hours_30d": 0.194,
+        "recent_absences_30d": 0.071,
+        "unplanned_leaves_30d": 0.0572,
+        "avg_duration_hours_30d": 0.2188
+      }
+    },
+    "attrition": {
+      "model_version": "attrition_v1.0.0",
+      "samples_trained": 150,
+      "samples_tested": 50,
+      "accuracy": 0.98,
+      "precision": 1.0,
+      "recall": 0.9375,
+      "f1_score": 0.9677,
+      "roc_auc": 0.9688,
+      "feature_importances": {
+        "tenure_years": 0.0,
+        "attendance_rate": 1.0,
+        "total_overtime_hours": 0.0,
+        "avg_late_minutes": 0.0,
+        "kpi_score": 0.0,
+        "goal_completion": 0.0,
+        "productivity_score": 0.0,
+        "salary_log": 0.0,
+        "experience_years": 0.0,
+        "leave_days_taken": 0.0
+      }
+    },
+    "attendance_anomaly": {
+      "model_version": "anomaly_iforest_v1.0.0",
+      "total_records_analyzed": 5000,
+      "anomalies_detected": 150,
+      "anomaly_rate": 0.03,
+      "contamination_threshold": 0.03,
+      "mean_anomaly_score": -0.4067
+    },
+    "workforce_forecasting": {
+      "model_version": "forecaster_v1.0.0",
+      "departments_forecasted": 9,
+      "target_period": "Q3-2026",
+      "methodology": "Exponential Smoothing & Project Pipeline Scaling"
+    }
+  }
+}

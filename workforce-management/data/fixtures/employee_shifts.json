@@ -1,0 +1,1402 @@
+[
+  {
+    "schedule_id": "SCH0001",
+    "employee_id": "EMP001",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0002",
+    "employee_id": "EMP002",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0003",
+    "employee_id": "EMP003",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0004",
+    "employee_id": "EMP004",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0005",
+    "employee_id": "EMP005",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0006",
+    "employee_id": "EMP006",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0007",
+    "employee_id": "EMP007",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0008",
+    "employee_id": "EMP008",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0009",
+    "employee_id": "EMP009",
+    "shift_id": "SH03",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0010",
+    "employee_id": "EMP010",
+    "shift_id": "SH03",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0011",
+    "employee_id": "EMP011",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0012",
+    "employee_id": "EMP012",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0013",
+    "employee_id": "EMP013",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0014",
+    "employee_id": "EMP014",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0015",
+    "employee_id": "EMP015",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0016",
+    "employee_id": "EMP016",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0017",
+    "employee_id": "EMP017",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0018",
+    "employee_id": "EMP018",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0019",
+    "employee_id": "EMP019",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0020",
+    "employee_id": "EMP020",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0021",
+    "employee_id": "EMP021",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0022",
+    "employee_id": "EMP022",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0023",
+    "employee_id": "EMP023",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0024",
+    "employee_id": "EMP024",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0025",
+    "employee_id": "EMP025",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0026",
+    "employee_id": "EMP026",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0027",
+    "employee_id": "EMP027",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0028",
+    "employee_id": "EMP028",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0029",
+    "employee_id": "EMP029",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0030",
+    "employee_id": "EMP030",
+    "shift_id": "SH03",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0031",
+    "employee_id": "EMP031",
+    "shift_id": "SH03",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0032",
+    "employee_id": "EMP032",
+    "shift_id": "SH04",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0033",
+    "employee_id": "EMP033",
+    "shift_id": "SH04",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0034",
+    "employee_id": "EMP034",
+    "shift_id": "SH04",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0035",
+    "employee_id": "EMP035",
+    "shift_id": "SH02",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0036",
+    "employee_id": "EMP036",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0037",
+    "employee_id": "EMP037",
+    "shift_id": "SH03",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0038",
+    "employee_id": "EMP038",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0039",
+    "employee_id": "EMP039",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0040",
+    "employee_id": "EMP040",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0041",
+    "employee_id": "EMP041",
+    "shift_id": "SH04",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0042",
+    "employee_id": "EMP042",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0043",
+    "employee_id": "EMP043",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0044",
+    "employee_id": "EMP044",
+    "shift_id": "SH04",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0045",
+    "employee_id": "EMP045",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0046",
+    "employee_id": "EMP046",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0047",
+    "employee_id": "EMP047",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0048",
+    "employee_id": "EMP048",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0049",
+    "employee_id": "EMP049",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0050",
+    "employee_id": "EMP050",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0051",
+    "employee_id": "EMP051",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0052",
+    "employee_id": "EMP052",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0053",
+    "employee_id": "EMP053",
+    "shift_id": "SH04",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0054",
+    "employee_id": "EMP054",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0055",
+    "employee_id": "EMP055",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0056",
+    "employee_id": "EMP056",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0057",
+    "employee_id": "EMP057",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0058",
+    "employee_id": "EMP058",
+    "shift_id": "SH03",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0059",
+    "employee_id": "EMP059",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0060",
+    "employee_id": "EMP060",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0061",
+    "employee_id": "EMP061",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0062",
+    "employee_id": "EMP062",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0063",
+    "employee_id": "EMP063",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0064",
+    "employee_id": "EMP064",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0065",
+    "employee_id": "EMP065",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0066",
+    "employee_id": "EMP066",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0067",
+    "employee_id": "EMP067",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0068",
+    "employee_id": "EMP068",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0069",
+    "employee_id": "EMP069",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0070",
+    "employee_id": "EMP070",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0071",
+    "employee_id": "EMP071",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0072",
+    "employee_id": "EMP072",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0073",
+    "employee_id": "EMP073",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0074",
+    "employee_id": "EMP074",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0075",
+    "employee_id": "EMP075",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0076",
+    "employee_id": "EMP076",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0077",
+    "employee_id": "EMP077",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0078",
+    "employee_id": "EMP078",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0079",
+    "employee_id": "EMP079",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0080",
+    "employee_id": "EMP080",
+    "shift_id": "SH04",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0081",
+    "employee_id": "EMP081",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0082",
+    "employee_id": "EMP082",
+    "shift_id": "SH02",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0083",
+    "employee_id": "EMP083",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0084",
+    "employee_id": "EMP084",
+    "shift_id": "SH02",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0085",
+    "employee_id": "EMP085",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0086",
+    "employee_id": "EMP086",
+    "shift_id": "SH03",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0087",
+    "employee_id": "EMP087",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0088",
+    "employee_id": "EMP088",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0089",
+    "employee_id": "EMP089",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0090",
+    "employee_id": "EMP090",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0091",
+    "employee_id": "EMP091",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0092",
+    "employee_id": "EMP092",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0093",
+    "employee_id": "EMP093",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0094",
+    "employee_id": "EMP094",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0095",
+    "employee_id": "EMP095",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0096",
+    "employee_id": "EMP096",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0097",
+    "employee_id": "EMP097",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0098",
+    "employee_id": "EMP098",
+    "shift_id": "SH04",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0099",
+    "employee_id": "EMP099",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0100",
+    "employee_id": "EMP100",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0101",
+    "employee_id": "EMP101",
+    "shift_id": "SH03",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0102",
+    "employee_id": "EMP102",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0103",
+    "employee_id": "EMP103",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0104",
+    "employee_id": "EMP104",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0105",
+    "employee_id": "EMP105",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0106",
+    "employee_id": "EMP106",
+    "shift_id": "SH03",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0107",
+    "employee_id": "EMP107",
+    "shift_id": "SH02",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0108",
+    "employee_id": "EMP108",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0109",
+    "employee_id": "EMP109",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0110",
+    "employee_id": "EMP110",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0111",
+    "employee_id": "EMP111",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0112",
+    "employee_id": "EMP112",
+    "shift_id": "SH03",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0113",
+    "employee_id": "EMP113",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0114",
+    "employee_id": "EMP114",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0115",
+    "employee_id": "EMP115",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0116",
+    "employee_id": "EMP116",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0117",
+    "employee_id": "EMP117",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0118",
+    "employee_id": "EMP118",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0119",
+    "employee_id": "EMP119",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0120",
+    "employee_id": "EMP120",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0121",
+    "employee_id": "EMP121",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0122",
+    "employee_id": "EMP122",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0123",
+    "employee_id": "EMP123",
+    "shift_id": "SH04",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0124",
+    "employee_id": "EMP124",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0125",
+    "employee_id": "EMP125",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0126",
+    "employee_id": "EMP126",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0127",
+    "employee_id": "EMP127",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0128",
+    "employee_id": "EMP128",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0129",
+    "employee_id": "EMP129",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0130",
+    "employee_id": "EMP130",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0131",
+    "employee_id": "EMP131",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0132",
+    "employee_id": "EMP132",
+    "shift_id": "SH03",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0133",
+    "employee_id": "EMP133",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0134",
+    "employee_id": "EMP134",
+    "shift_id": "SH02",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0135",
+    "employee_id": "EMP135",
+    "shift_id": "SH04",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0136",
+    "employee_id": "EMP136",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0137",
+    "employee_id": "EMP137",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0138",
+    "employee_id": "EMP138",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0139",
+    "employee_id": "EMP139",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0140",
+    "employee_id": "EMP140",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0141",
+    "employee_id": "EMP141",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0142",
+    "employee_id": "EMP142",
+    "shift_id": "SH03",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0143",
+    "employee_id": "EMP143",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0144",
+    "employee_id": "EMP144",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0145",
+    "employee_id": "EMP145",
+    "shift_id": "SH03",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0146",
+    "employee_id": "EMP146",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0147",
+    "employee_id": "EMP147",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0148",
+    "employee_id": "EMP148",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0149",
+    "employee_id": "EMP149",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0150",
+    "employee_id": "EMP150",
+    "shift_id": "SH02",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0151",
+    "employee_id": "EMP151",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0152",
+    "employee_id": "EMP152",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0153",
+    "employee_id": "EMP153",
+    "shift_id": "SH03",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0154",
+    "employee_id": "EMP154",
+    "shift_id": "SH02",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0155",
+    "employee_id": "EMP155",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0156",
+    "employee_id": "EMP156",
+    "shift_id": "SH02",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0157",
+    "employee_id": "EMP157",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0158",
+    "employee_id": "EMP158",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0159",
+    "employee_id": "EMP159",
+    "shift_id": "SH04",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0160",
+    "employee_id": "EMP160",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0161",
+    "employee_id": "EMP161",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0162",
+    "employee_id": "EMP162",
+    "shift_id": "SH02",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0163",
+    "employee_id": "EMP163",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0164",
+    "employee_id": "EMP164",
+    "shift_id": "SH02",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0165",
+    "employee_id": "EMP165",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0166",
+    "employee_id": "EMP166",
+    "shift_id": "SH02",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0167",
+    "employee_id": "EMP167",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0168",
+    "employee_id": "EMP168",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0169",
+    "employee_id": "EMP169",
+    "shift_id": "SH03",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0170",
+    "employee_id": "EMP170",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0171",
+    "employee_id": "EMP171",
+    "shift_id": "SH02",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0172",
+    "employee_id": "EMP172",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0173",
+    "employee_id": "EMP173",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0174",
+    "employee_id": "EMP174",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0175",
+    "employee_id": "EMP175",
+    "shift_id": "SH02",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0176",
+    "employee_id": "EMP176",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0177",
+    "employee_id": "EMP177",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0178",
+    "employee_id": "EMP178",
+    "shift_id": "SH02",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0179",
+    "employee_id": "EMP179",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0180",
+    "employee_id": "EMP180",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0181",
+    "employee_id": "EMP181",
+    "shift_id": "SH02",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0182",
+    "employee_id": "EMP182",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0183",
+    "employee_id": "EMP183",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0184",
+    "employee_id": "EMP184",
+    "shift_id": "SH03",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0185",
+    "employee_id": "EMP185",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0186",
+    "employee_id": "EMP186",
+    "shift_id": "SH02",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0187",
+    "employee_id": "EMP187",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0188",
+    "employee_id": "EMP188",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0189",
+    "employee_id": "EMP189",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0190",
+    "employee_id": "EMP190",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0191",
+    "employee_id": "EMP191",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0192",
+    "employee_id": "EMP192",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0193",
+    "employee_id": "EMP193",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0194",
+    "employee_id": "EMP194",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0195",
+    "employee_id": "EMP195",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0196",
+    "employee_id": "EMP196",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0197",
+    "employee_id": "EMP197",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0198",
+    "employee_id": "EMP198",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0199",
+    "employee_id": "EMP199",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  },
+  {
+    "schedule_id": "SCH0200",
+    "employee_id": "EMP200",
+    "shift_id": "SH01",
+    "effective_from": "2025-09-01",
+    "effective_to": "2026-12-31"
+  }
+]

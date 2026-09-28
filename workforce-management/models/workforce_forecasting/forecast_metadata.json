@@ -1,0 +1,6 @@
+{
+  "model_version": "forecaster_v1.0.0",
+  "departments_forecasted": 9,
+  "forecast_period": "Q3-2026",
+  "methodology": "Exponential Smoothing & Project Pipeline Scaling"
+}

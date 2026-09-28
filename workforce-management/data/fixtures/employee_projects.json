@@ -1,0 +1,1982 @@
+[
+  {
+    "assignment_id": "ASG0001",
+    "employee_id": "EMP001",
+    "project_id": "PRJ05",
+    "role": "Chief Executive Officer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0002",
+    "employee_id": "EMP002",
+    "project_id": "PRJ08",
+    "role": "Vice President of Engineering",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0003",
+    "employee_id": "EMP003",
+    "project_id": "PRJ07",
+    "role": "Head of AI & Data Science",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0004",
+    "employee_id": "EMP004",
+    "project_id": "PRJ08",
+    "role": "Chief Human Resources Officer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0005",
+    "employee_id": "EMP005",
+    "project_id": "PRJ08",
+    "role": "Chief Financial Officer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0006",
+    "employee_id": "EMP006",
+    "project_id": "PRJ06",
+    "role": "Chief Marketing Officer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0007",
+    "employee_id": "EMP007",
+    "project_id": "PRJ08",
+    "role": "Head of Global Sales",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0008",
+    "employee_id": "EMP008",
+    "project_id": "PRJ05",
+    "role": "Chief Operating Officer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0009",
+    "employee_id": "EMP009",
+    "project_id": "PRJ04",
+    "role": "Head of Enterprise IT & Security",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0010",
+    "employee_id": "EMP010",
+    "project_id": "PRJ08",
+    "role": "Director of Customer Success",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0011",
+    "employee_id": "EMP011",
+    "project_id": "PRJ01",
+    "role": "Engineering Manager - Backend",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0012",
+    "employee_id": "EMP012",
+    "project_id": "PRJ01",
+    "role": "Engineering Manager - Frontend",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0013",
+    "employee_id": "EMP013",
+    "project_id": "PRJ03",
+    "role": "Engineering Manager - Cloud DevOps",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0014",
+    "employee_id": "EMP014",
+    "project_id": "PRJ01",
+    "role": "QA & Test Automation Manager",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0015",
+    "employee_id": "EMP015",
+    "project_id": "PRJ01",
+    "role": "Staff Architect Lead",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0016",
+    "employee_id": "EMP015",
+    "project_id": "PRJ03",
+    "role": "Staff Architect Lead",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0017",
+    "employee_id": "EMP016",
+    "project_id": "PRJ03",
+    "role": "Mobile Development Lead",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0018",
+    "employee_id": "EMP017",
+    "project_id": "PRJ07",
+    "role": "Lead Machine Learning Scientist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0019",
+    "employee_id": "EMP018",
+    "project_id": "PRJ07",
+    "role": "Data Engineering Lead",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0020",
+    "employee_id": "EMP018",
+    "project_id": "PRJ02",
+    "role": "Data Engineering Lead",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0021",
+    "employee_id": "EMP019",
+    "project_id": "PRJ07",
+    "role": "BI & Analytics Manager",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0022",
+    "employee_id": "EMP020",
+    "project_id": "PRJ08",
+    "role": "Talent Acquisition Manager",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0023",
+    "employee_id": "EMP021",
+    "project_id": "PRJ08",
+    "role": "HR Operations & Payroll Lead",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0024",
+    "employee_id": "EMP022",
+    "project_id": "PRJ08",
+    "role": "Financial Controller",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0025",
+    "employee_id": "EMP023",
+    "project_id": "PRJ08",
+    "role": "Corporate Tax & Audit Manager",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0026",
+    "employee_id": "EMP024",
+    "project_id": "PRJ06",
+    "role": "Digital Marketing Lead",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0027",
+    "employee_id": "EMP025",
+    "project_id": "PRJ06",
+    "role": "Product Marketing Manager",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0028",
+    "employee_id": "EMP026",
+    "project_id": "PRJ08",
+    "role": "Enterprise Sales Lead - North & West",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0029",
+    "employee_id": "EMP027",
+    "project_id": "PRJ08",
+    "role": "Enterprise Sales Lead - South",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0030",
+    "employee_id": "EMP028",
+    "project_id": "PRJ08",
+    "role": "Inside Sales & Business Dev Manager",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0031",
+    "employee_id": "EMP029",
+    "project_id": "PRJ05",
+    "role": "Workplace Operations Manager",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0032",
+    "employee_id": "EMP030",
+    "project_id": "PRJ05",
+    "role": "Procurement & Vendor Manager",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0033",
+    "employee_id": "EMP031",
+    "project_id": "PRJ04",
+    "role": "IT Infrastructure Lead",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0034",
+    "employee_id": "EMP032",
+    "project_id": "PRJ04",
+    "role": "Information Security Officer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0035",
+    "employee_id": "EMP033",
+    "project_id": "PRJ08",
+    "role": "Technical Support Team Lead - Tier 1",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0036",
+    "employee_id": "EMP034",
+    "project_id": "PRJ08",
+    "role": "Technical Support Team Lead - Tier 2",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0037",
+    "employee_id": "EMP035",
+    "project_id": "PRJ08",
+    "role": "Customer Onboarding Lead",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0038",
+    "employee_id": "EMP036",
+    "project_id": "PRJ03",
+    "role": "Software Engineer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0039",
+    "employee_id": "EMP036",
+    "project_id": "PRJ08",
+    "role": "Software Engineer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0040",
+    "employee_id": "EMP037",
+    "project_id": "PRJ05",
+    "role": "Operations Analyst",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0041",
+    "employee_id": "EMP038",
+    "project_id": "PRJ03",
+    "role": "Backend Developer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0042",
+    "employee_id": "EMP039",
+    "project_id": "PRJ03",
+    "role": "DevOps Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0043",
+    "employee_id": "EMP040",
+    "project_id": "PRJ08",
+    "role": "Financial Analyst",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0044",
+    "employee_id": "EMP041",
+    "project_id": "PRJ08",
+    "role": "Technical Support Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0045",
+    "employee_id": "EMP042",
+    "project_id": "PRJ08",
+    "role": "Sales Operations Analyst",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0046",
+    "employee_id": "EMP043",
+    "project_id": "PRJ02",
+    "role": "Data Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0047",
+    "employee_id": "EMP044",
+    "project_id": "PRJ08",
+    "role": "Customer Support Representative",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0048",
+    "employee_id": "EMP045",
+    "project_id": "PRJ06",
+    "role": "Marketing Specialist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0049",
+    "employee_id": "EMP046",
+    "project_id": "PRJ03",
+    "role": "DevOps Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0050",
+    "employee_id": "EMP047",
+    "project_id": "PRJ05",
+    "role": "Procurement Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0051",
+    "employee_id": "EMP048",
+    "project_id": "PRJ03",
+    "role": "Cloud Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0052",
+    "employee_id": "EMP049",
+    "project_id": "PRJ02",
+    "role": "AI Research Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0053",
+    "employee_id": "EMP050",
+    "project_id": "PRJ06",
+    "role": "Marketing Specialist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0054",
+    "employee_id": "EMP051",
+    "project_id": "PRJ08",
+    "role": "Accountant",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0055",
+    "employee_id": "EMP052",
+    "project_id": "PRJ01",
+    "role": "Backend Developer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0056",
+    "employee_id": "EMP053",
+    "project_id": "PRJ08",
+    "role": "Technical Support Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0057",
+    "employee_id": "EMP054",
+    "project_id": "PRJ08",
+    "role": "Sales Operations Analyst",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0058",
+    "employee_id": "EMP055",
+    "project_id": "PRJ04",
+    "role": "Systems Administrator",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0059",
+    "employee_id": "EMP056",
+    "project_id": "PRJ08",
+    "role": "Talent Acquisition Specialist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0060",
+    "employee_id": "EMP057",
+    "project_id": "PRJ06",
+    "role": "SEO Analyst",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0061",
+    "employee_id": "EMP058",
+    "project_id": "PRJ04",
+    "role": "IT Support Specialist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0062",
+    "employee_id": "EMP059",
+    "project_id": "PRJ08",
+    "role": "Billing Specialist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0063",
+    "employee_id": "EMP060",
+    "project_id": "PRJ01",
+    "role": "DevOps Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0064",
+    "employee_id": "EMP061",
+    "project_id": "PRJ08",
+    "role": "Accountant",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0065",
+    "employee_id": "EMP062",
+    "project_id": "PRJ06",
+    "role": "SEO Analyst",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0066",
+    "employee_id": "EMP063",
+    "project_id": "PRJ08",
+    "role": "Client Relationship Manager",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0067",
+    "employee_id": "EMP064",
+    "project_id": "PRJ07",
+    "role": "AI Research Associate",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0068",
+    "employee_id": "EMP064",
+    "project_id": "PRJ02",
+    "role": "AI Research Associate",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0069",
+    "employee_id": "EMP065",
+    "project_id": "PRJ07",
+    "role": "Data Scientist",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0070",
+    "employee_id": "EMP065",
+    "project_id": "PRJ02",
+    "role": "Data Scientist",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0071",
+    "employee_id": "EMP066",
+    "project_id": "PRJ07",
+    "role": "Machine Learning Engineer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0072",
+    "employee_id": "EMP066",
+    "project_id": "PRJ02",
+    "role": "Machine Learning Engineer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0073",
+    "employee_id": "EMP067",
+    "project_id": "PRJ02",
+    "role": "Data Analyst",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0074",
+    "employee_id": "EMP067",
+    "project_id": "PRJ07",
+    "role": "Data Analyst",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0075",
+    "employee_id": "EMP068",
+    "project_id": "PRJ08",
+    "role": "Payroll Accountant",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0076",
+    "employee_id": "EMP069",
+    "project_id": "PRJ06",
+    "role": "Graphic Designer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0077",
+    "employee_id": "EMP070",
+    "project_id": "PRJ08",
+    "role": "Financial Analyst",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0078",
+    "employee_id": "EMP071",
+    "project_id": "PRJ01",
+    "role": "Software Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0079",
+    "employee_id": "EMP072",
+    "project_id": "PRJ01",
+    "role": "Frontend Developer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0080",
+    "employee_id": "EMP073",
+    "project_id": "PRJ08",
+    "role": "Backend Developer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0081",
+    "employee_id": "EMP073",
+    "project_id": "PRJ03",
+    "role": "Backend Developer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0082",
+    "employee_id": "EMP074",
+    "project_id": "PRJ08",
+    "role": "Billing Specialist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0083",
+    "employee_id": "EMP075",
+    "project_id": "PRJ08",
+    "role": "Financial Analyst",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0084",
+    "employee_id": "EMP076",
+    "project_id": "PRJ08",
+    "role": "Talent Acquisition Specialist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0085",
+    "employee_id": "EMP077",
+    "project_id": "PRJ01",
+    "role": "Senior Software Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0086",
+    "employee_id": "EMP078",
+    "project_id": "PRJ04",
+    "role": "IT Support Specialist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0087",
+    "employee_id": "EMP079",
+    "project_id": "PRJ07",
+    "role": "AI Research Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0088",
+    "employee_id": "EMP080",
+    "project_id": "PRJ04",
+    "role": "Systems Administrator",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0089",
+    "employee_id": "EMP081",
+    "project_id": "PRJ08",
+    "role": "DevOps Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0090",
+    "employee_id": "EMP082",
+    "project_id": "PRJ08",
+    "role": "Client Success Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0091",
+    "employee_id": "EMP083",
+    "project_id": "PRJ01",
+    "role": "Cloud Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0092",
+    "employee_id": "EMP084",
+    "project_id": "PRJ08",
+    "role": "Customer Support Representative",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0093",
+    "employee_id": "EMP085",
+    "project_id": "PRJ06",
+    "role": "Marketing Specialist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0094",
+    "employee_id": "EMP086",
+    "project_id": "PRJ04",
+    "role": "Network Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0095",
+    "employee_id": "EMP087",
+    "project_id": "PRJ02",
+    "role": "Data Analyst",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0096",
+    "employee_id": "EMP087",
+    "project_id": "PRJ07",
+    "role": "Data Analyst",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0097",
+    "employee_id": "EMP088",
+    "project_id": "PRJ08",
+    "role": "DevOps Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0098",
+    "employee_id": "EMP089",
+    "project_id": "PRJ08",
+    "role": "Business Development Representative",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0099",
+    "employee_id": "EMP090",
+    "project_id": "PRJ07",
+    "role": "Data Scientist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0100",
+    "employee_id": "EMP091",
+    "project_id": "PRJ03",
+    "role": "Senior Software Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0101",
+    "employee_id": "EMP092",
+    "project_id": "PRJ08",
+    "role": "Software Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0102",
+    "employee_id": "EMP093",
+    "project_id": "PRJ08",
+    "role": "Payroll Accountant",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0103",
+    "employee_id": "EMP094",
+    "project_id": "PRJ02",
+    "role": "AI Research Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0104",
+    "employee_id": "EMP095",
+    "project_id": "PRJ08",
+    "role": "DevOps Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0105",
+    "employee_id": "EMP096",
+    "project_id": "PRJ08",
+    "role": "Accountant",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0106",
+    "employee_id": "EMP097",
+    "project_id": "PRJ08",
+    "role": "Cloud Engineer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0107",
+    "employee_id": "EMP097",
+    "project_id": "PRJ03",
+    "role": "Cloud Engineer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0108",
+    "employee_id": "EMP098",
+    "project_id": "PRJ08",
+    "role": "Client Success Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0109",
+    "employee_id": "EMP099",
+    "project_id": "PRJ03",
+    "role": "Software Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0110",
+    "employee_id": "EMP100",
+    "project_id": "PRJ08",
+    "role": "Frontend Developer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0111",
+    "employee_id": "EMP101",
+    "project_id": "PRJ08",
+    "role": "Technical Support Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0112",
+    "employee_id": "EMP102",
+    "project_id": "PRJ08",
+    "role": "HR Generalist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0113",
+    "employee_id": "EMP103",
+    "project_id": "PRJ08",
+    "role": "Client Relationship Manager",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0114",
+    "employee_id": "EMP104",
+    "project_id": "PRJ03",
+    "role": "Cloud Engineer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0115",
+    "employee_id": "EMP104",
+    "project_id": "PRJ01",
+    "role": "Cloud Engineer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0116",
+    "employee_id": "EMP105",
+    "project_id": "PRJ05",
+    "role": "Operations Analyst",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0117",
+    "employee_id": "EMP106",
+    "project_id": "PRJ08",
+    "role": "Client Success Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0118",
+    "employee_id": "EMP107",
+    "project_id": "PRJ04",
+    "role": "Cybersecurity Analyst",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0119",
+    "employee_id": "EMP108",
+    "project_id": "PRJ06",
+    "role": "Growth Marketing Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0120",
+    "employee_id": "EMP109",
+    "project_id": "PRJ08",
+    "role": "Business Development Representative",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0121",
+    "employee_id": "EMP110",
+    "project_id": "PRJ01",
+    "role": "QA Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0122",
+    "employee_id": "EMP111",
+    "project_id": "PRJ06",
+    "role": "Content Strategist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0123",
+    "employee_id": "EMP112",
+    "project_id": "PRJ04",
+    "role": "Cybersecurity Analyst",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0124",
+    "employee_id": "EMP113",
+    "project_id": "PRJ01",
+    "role": "Software Engineer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0125",
+    "employee_id": "EMP113",
+    "project_id": "PRJ03",
+    "role": "Software Engineer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0126",
+    "employee_id": "EMP114",
+    "project_id": "PRJ03",
+    "role": "Frontend Developer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0127",
+    "employee_id": "EMP115",
+    "project_id": "PRJ07",
+    "role": "Data Scientist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0128",
+    "employee_id": "EMP116",
+    "project_id": "PRJ02",
+    "role": "Machine Learning Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0129",
+    "employee_id": "EMP117",
+    "project_id": "PRJ02",
+    "role": "Data Analyst",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0130",
+    "employee_id": "EMP118",
+    "project_id": "PRJ03",
+    "role": "Cloud Engineer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0131",
+    "employee_id": "EMP118",
+    "project_id": "PRJ01",
+    "role": "Cloud Engineer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0132",
+    "employee_id": "EMP119",
+    "project_id": "PRJ02",
+    "role": "AI Research Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0133",
+    "employee_id": "EMP120",
+    "project_id": "PRJ08",
+    "role": "Account Executive",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0134",
+    "employee_id": "EMP121",
+    "project_id": "PRJ01",
+    "role": "Frontend Developer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0135",
+    "employee_id": "EMP122",
+    "project_id": "PRJ05",
+    "role": "Facilities Specialist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0136",
+    "employee_id": "EMP123",
+    "project_id": "PRJ04",
+    "role": "IT Support Specialist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0137",
+    "employee_id": "EMP124",
+    "project_id": "PRJ02",
+    "role": "AI Research Associate",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0138",
+    "employee_id": "EMP124",
+    "project_id": "PRJ07",
+    "role": "AI Research Associate",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0139",
+    "employee_id": "EMP125",
+    "project_id": "PRJ08",
+    "role": "HR Business Partner",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0140",
+    "employee_id": "EMP126",
+    "project_id": "PRJ08",
+    "role": "Sales Operations Analyst",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0141",
+    "employee_id": "EMP127",
+    "project_id": "PRJ08",
+    "role": "Software Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0142",
+    "employee_id": "EMP128",
+    "project_id": "PRJ03",
+    "role": "Frontend Developer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0143",
+    "employee_id": "EMP129",
+    "project_id": "PRJ08",
+    "role": "Employee Experience Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0144",
+    "employee_id": "EMP130",
+    "project_id": "PRJ02",
+    "role": "Data Scientist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0145",
+    "employee_id": "EMP131",
+    "project_id": "PRJ08",
+    "role": "Accountant",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0146",
+    "employee_id": "EMP132",
+    "project_id": "PRJ05",
+    "role": "Workplace Coordinator",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0147",
+    "employee_id": "EMP133",
+    "project_id": "PRJ08",
+    "role": "Technical Support Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0148",
+    "employee_id": "EMP134",
+    "project_id": "PRJ04",
+    "role": "Cloud Ops Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0149",
+    "employee_id": "EMP135",
+    "project_id": "PRJ08",
+    "role": "Support Specialist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0150",
+    "employee_id": "EMP136",
+    "project_id": "PRJ03",
+    "role": "Backend Developer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0151",
+    "employee_id": "EMP136",
+    "project_id": "PRJ01",
+    "role": "Backend Developer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0152",
+    "employee_id": "EMP137",
+    "project_id": "PRJ08",
+    "role": "Business Development Representative",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0153",
+    "employee_id": "EMP138",
+    "project_id": "PRJ06",
+    "role": "Growth Marketing Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0154",
+    "employee_id": "EMP139",
+    "project_id": "PRJ08",
+    "role": "Client Relationship Manager",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0155",
+    "employee_id": "EMP140",
+    "project_id": "PRJ01",
+    "role": "Senior Software Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0156",
+    "employee_id": "EMP141",
+    "project_id": "PRJ08",
+    "role": "Talent Acquisition Specialist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0157",
+    "employee_id": "EMP142",
+    "project_id": "PRJ08",
+    "role": "Client Success Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0158",
+    "employee_id": "EMP143",
+    "project_id": "PRJ08",
+    "role": "Backend Developer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0159",
+    "employee_id": "EMP143",
+    "project_id": "PRJ03",
+    "role": "Backend Developer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0160",
+    "employee_id": "EMP144",
+    "project_id": "PRJ08",
+    "role": "DevOps Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0161",
+    "employee_id": "EMP145",
+    "project_id": "PRJ08",
+    "role": "Technical Support Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0162",
+    "employee_id": "EMP146",
+    "project_id": "PRJ08",
+    "role": "Sales Operations Analyst",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0163",
+    "employee_id": "EMP147",
+    "project_id": "PRJ08",
+    "role": "Client Relationship Manager",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0164",
+    "employee_id": "EMP148",
+    "project_id": "PRJ08",
+    "role": "Software Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0165",
+    "employee_id": "EMP149",
+    "project_id": "PRJ03",
+    "role": "Frontend Developer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0166",
+    "employee_id": "EMP150",
+    "project_id": "PRJ08",
+    "role": "Client Success Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0167",
+    "employee_id": "EMP151",
+    "project_id": "PRJ02",
+    "role": "Machine Learning Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0168",
+    "employee_id": "EMP152",
+    "project_id": "PRJ03",
+    "role": "QA Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0169",
+    "employee_id": "EMP153",
+    "project_id": "PRJ05",
+    "role": "Operations Analyst",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0170",
+    "employee_id": "EMP154",
+    "project_id": "PRJ04",
+    "role": "Cloud Ops Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0171",
+    "employee_id": "EMP155",
+    "project_id": "PRJ08",
+    "role": "Client Relationship Manager",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0172",
+    "employee_id": "EMP156",
+    "project_id": "PRJ04",
+    "role": "Network Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0173",
+    "employee_id": "EMP157",
+    "project_id": "PRJ08",
+    "role": "Business Development Representative",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0174",
+    "employee_id": "EMP158",
+    "project_id": "PRJ06",
+    "role": "Growth Marketing Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0175",
+    "employee_id": "EMP159",
+    "project_id": "PRJ05",
+    "role": "Procurement Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0176",
+    "employee_id": "EMP160",
+    "project_id": "PRJ08",
+    "role": "HR Business Partner",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0177",
+    "employee_id": "EMP161",
+    "project_id": "PRJ01",
+    "role": "Senior Software Engineer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0178",
+    "employee_id": "EMP161",
+    "project_id": "PRJ03",
+    "role": "Senior Software Engineer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0179",
+    "employee_id": "EMP162",
+    "project_id": "PRJ08",
+    "role": "Client Success Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0180",
+    "employee_id": "EMP163",
+    "project_id": "PRJ06",
+    "role": "Growth Marketing Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0181",
+    "employee_id": "EMP164",
+    "project_id": "PRJ08",
+    "role": "Customer Support Representative",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0182",
+    "employee_id": "EMP165",
+    "project_id": "PRJ02",
+    "role": "Data Scientist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0183",
+    "employee_id": "EMP166",
+    "project_id": "PRJ04",
+    "role": "Network Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0184",
+    "employee_id": "EMP167",
+    "project_id": "PRJ08",
+    "role": "HR Generalist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0185",
+    "employee_id": "EMP168",
+    "project_id": "PRJ01",
+    "role": "Senior Software Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0186",
+    "employee_id": "EMP169",
+    "project_id": "PRJ05",
+    "role": "Operations Analyst",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0187",
+    "employee_id": "EMP170",
+    "project_id": "PRJ08",
+    "role": "Frontend Developer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0188",
+    "employee_id": "EMP170",
+    "project_id": "PRJ03",
+    "role": "Frontend Developer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0189",
+    "employee_id": "EMP171",
+    "project_id": "PRJ05",
+    "role": "Procurement Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0190",
+    "employee_id": "EMP172",
+    "project_id": "PRJ07",
+    "role": "Data Analyst",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0191",
+    "employee_id": "EMP173",
+    "project_id": "PRJ03",
+    "role": "QA Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0192",
+    "employee_id": "EMP174",
+    "project_id": "PRJ08",
+    "role": "Sales Operations Analyst",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0193",
+    "employee_id": "EMP175",
+    "project_id": "PRJ08",
+    "role": "Support Specialist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0194",
+    "employee_id": "EMP176",
+    "project_id": "PRJ08",
+    "role": "Account Executive",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0195",
+    "employee_id": "EMP177",
+    "project_id": "PRJ08",
+    "role": "HR Generalist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0196",
+    "employee_id": "EMP178",
+    "project_id": "PRJ08",
+    "role": "Client Success Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0197",
+    "employee_id": "EMP179",
+    "project_id": "PRJ08",
+    "role": "Billing Specialist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0198",
+    "employee_id": "EMP180",
+    "project_id": "PRJ07",
+    "role": "Data Scientist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0199",
+    "employee_id": "EMP181",
+    "project_id": "PRJ04",
+    "role": "Network Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0200",
+    "employee_id": "EMP182",
+    "project_id": "PRJ01",
+    "role": "Senior Software Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0201",
+    "employee_id": "EMP183",
+    "project_id": "PRJ01",
+    "role": "Software Engineer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0202",
+    "employee_id": "EMP183",
+    "project_id": "PRJ03",
+    "role": "Software Engineer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0203",
+    "employee_id": "EMP184",
+    "project_id": "PRJ04",
+    "role": "Cloud Ops Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0204",
+    "employee_id": "EMP185",
+    "project_id": "PRJ02",
+    "role": "Data Scientist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0205",
+    "employee_id": "EMP186",
+    "project_id": "PRJ04",
+    "role": "Network Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0206",
+    "employee_id": "EMP187",
+    "project_id": "PRJ08",
+    "role": "Client Relationship Manager",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0207",
+    "employee_id": "EMP188",
+    "project_id": "PRJ06",
+    "role": "Growth Marketing Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0208",
+    "employee_id": "EMP189",
+    "project_id": "PRJ06",
+    "role": "Graphic Designer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0209",
+    "employee_id": "EMP190",
+    "project_id": "PRJ01",
+    "role": "Software Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0210",
+    "employee_id": "EMP191",
+    "project_id": "PRJ08",
+    "role": "Support Specialist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0211",
+    "employee_id": "EMP192",
+    "project_id": "PRJ08",
+    "role": "Account Executive",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0212",
+    "employee_id": "EMP193",
+    "project_id": "PRJ01",
+    "role": "DevOps Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0213",
+    "employee_id": "EMP194",
+    "project_id": "PRJ08",
+    "role": "QA Engineer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0214",
+    "employee_id": "EMP194",
+    "project_id": "PRJ01",
+    "role": "QA Engineer",
+    "allocation_percentage": 50.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0215",
+    "employee_id": "EMP195",
+    "project_id": "PRJ01",
+    "role": "Cloud Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0216",
+    "employee_id": "EMP196",
+    "project_id": "PRJ08",
+    "role": "Senior Software Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0217",
+    "employee_id": "EMP197",
+    "project_id": "PRJ01",
+    "role": "Software Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0218",
+    "employee_id": "EMP198",
+    "project_id": "PRJ05",
+    "role": "Facilities Specialist",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0219",
+    "employee_id": "EMP199",
+    "project_id": "PRJ05",
+    "role": "Procurement Associate",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  },
+  {
+    "assignment_id": "ASG0220",
+    "employee_id": "EMP200",
+    "project_id": "PRJ01",
+    "role": "DevOps Engineer",
+    "allocation_percentage": 100.0,
+    "start_date": "2025-10-01",
+    "end_date": "2026-06-30"
+  }
+]

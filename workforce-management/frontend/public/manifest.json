@@ -1,0 +1,61 @@
+{
+  "name": "HRvantage AI Workforce Management",
+  "short_name": "HRvantage",
+  "description": "AI-Powered Enterprise Workforce Management Automation System - Attendance, Shifts, Leaves, Timesheets, Payroll & RAG Chatbot",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0B0F19",
+  "theme_color": "#6366F1",
+  "categories": ["business", "productivity"],
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "48x48",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Clock In / Out",
+      "short_name": "Attendance",
+      "description": "Punch in or out with server-validated GPS geofencing",
+      "url": "/attendance",
+      "icons": [{ "src": "/icon-192.svg", "sizes": "192x192" }]
+    },
+    {
+      "name": "Apply Leave",
+      "short_name": "Leave",
+      "description": "Submit a leave application for manager approval",
+      "url": "/leave",
+      "icons": [{ "src": "/icon-192.svg", "sizes": "192x192" }]
+    },
+    {
+      "name": "AI HR Assistant",
+      "short_name": "Chatbot",
+      "description": "Ask HR policy questions to the enterprise RAG assistant",
+      "url": "/ai-assistant",
+      "icons": [{ "src": "/icon-192.svg", "sizes": "192x192" }]
+    },
+    {
+      "name": "My Shifts",
+      "short_name": "Shifts",
+      "description": "View schedule and request shift swaps",
+      "url": "/shifts",
+      "icons": [{ "src": "/icon-192.svg", "sizes": "192x192" }]
+    }
+  ]
+}

@@ -1,0 +1,1838 @@
+[
+  {
+    "user_id": "USR0001",
+    "employee_id": "EMP001",
+    "email": "admin@demo.com",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "ADMIN",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0002",
+    "employee_id": "EMP002",
+    "email": "manager@demo.com",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0003",
+    "employee_id": "EMP003",
+    "email": "hr@demo.com",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "HR",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0004",
+    "employee_id": "EMP050",
+    "email": "employee@demo.com",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0005",
+    "employee_id": "EMP001",
+    "email": "vikramaditya.singhania@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "ADMIN",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0006",
+    "employee_id": "EMP002",
+    "email": "aadhya.patel@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0007",
+    "employee_id": "EMP003",
+    "email": "vihaan.reddy@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0008",
+    "employee_id": "EMP004",
+    "email": "ananya.rao@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "HR",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0009",
+    "employee_id": "EMP005",
+    "email": "sai.nair@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0010",
+    "employee_id": "EMP006",
+    "email": "anika.iyer@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0011",
+    "employee_id": "EMP007",
+    "email": "ayaan.mukherjee@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0012",
+    "employee_id": "EMP008",
+    "email": "angel.chatterjee@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0013",
+    "employee_id": "EMP009",
+    "email": "ishaan.banerjee@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0014",
+    "employee_id": "EMP010",
+    "email": "myra.kulkarni@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0015",
+    "employee_id": "EMP011",
+    "email": "atharv.parikh@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0016",
+    "employee_id": "EMP012",
+    "email": "ira.ghosh@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0017",
+    "employee_id": "EMP013",
+    "email": "pranav.sen@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0018",
+    "employee_id": "EMP014",
+    "email": "avani.goud@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0019",
+    "employee_id": "EMP015",
+    "email": "aaryan.prabhu@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0020",
+    "employee_id": "EMP016",
+    "email": "prisha.jadhav@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0021",
+    "employee_id": "EMP017",
+    "email": "kabir.verma@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0022",
+    "employee_id": "EMP018",
+    "email": "anvi.rao@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0023",
+    "employee_id": "EMP019",
+    "email": "darsh.mukherjee@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0024",
+    "employee_id": "EMP020",
+    "email": "pooja.kulkarni@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "HR",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0025",
+    "employee_id": "EMP021",
+    "email": "rohan.bhat@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "HR",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0026",
+    "employee_id": "EMP022",
+    "email": "divya.pillai@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0027",
+    "employee_id": "EMP023",
+    "email": "vikram.mishra@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0028",
+    "employee_id": "EMP024",
+    "email": "anjali.shukla@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0029",
+    "employee_id": "EMP025",
+    "email": "naveen.kapoor@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0030",
+    "employee_id": "EMP026",
+    "email": "meera.sinha@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0031",
+    "employee_id": "EMP027",
+    "email": "suresh.shah@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0032",
+    "employee_id": "EMP028",
+    "email": "shreya.dalal@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0033",
+    "employee_id": "EMP029",
+    "email": "deepak.bose@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0034",
+    "employee_id": "EMP030",
+    "email": "pallavi.naidu@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0035",
+    "employee_id": "EMP031",
+    "email": "amit.shetty@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0036",
+    "employee_id": "EMP032",
+    "email": "tanvi.pawar@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0037",
+    "employee_id": "EMP033",
+    "email": "praveen.bhosale@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0038",
+    "employee_id": "EMP034",
+    "email": "rashmi.patel@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0039",
+    "employee_id": "EMP035",
+    "email": "harish.nair@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "MANAGER",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0040",
+    "employee_id": "EMP036",
+    "email": "komal.patel@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0041",
+    "employee_id": "EMP037",
+    "email": "varun.banerjee@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0042",
+    "employee_id": "EMP038",
+    "email": "aditi.pillai@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0043",
+    "employee_id": "EMP039",
+    "email": "kunal.chopra@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0044",
+    "employee_id": "EMP040",
+    "email": "preeti.mehta@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0045",
+    "employee_id": "EMP041",
+    "email": "mahesh.bose@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0046",
+    "employee_id": "EMP042",
+    "email": "monika.kamath@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0047",
+    "employee_id": "EMP043",
+    "email": "vishal.verma@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0048",
+    "employee_id": "EMP044",
+    "email": "suman.chatterjee@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0049",
+    "employee_id": "EMP045",
+    "email": "ashok.menon@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0050",
+    "employee_id": "EMP046",
+    "email": "archana.shukla@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0051",
+    "employee_id": "EMP047",
+    "email": "hemant.choudhury@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0052",
+    "employee_id": "EMP048",
+    "email": "jyoti.ghosh@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0053",
+    "employee_id": "EMP049",
+    "email": "tarun.shetty@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0054",
+    "employee_id": "EMP050",
+    "email": "saanvi.sharma@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0055",
+    "employee_id": "EMP051",
+    "email": "vivaan.mukherjee@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0056",
+    "employee_id": "EMP052",
+    "email": "aadhya.hegde@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0057",
+    "employee_id": "EMP053",
+    "email": "vihaan.trivedi@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0058",
+    "employee_id": "EMP054",
+    "email": "ananya.sinha@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0059",
+    "employee_id": "EMP055",
+    "email": "sai.das@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0060",
+    "employee_id": "EMP056",
+    "email": "anika.goud@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "HR",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0061",
+    "employee_id": "EMP057",
+    "email": "ayaan.bhosale@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0062",
+    "employee_id": "EMP058",
+    "email": "angel.iyer@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0063",
+    "employee_id": "EMP059",
+    "email": "ishaan.bhat@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0064",
+    "employee_id": "EMP060",
+    "email": "myra.pandey@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0065",
+    "employee_id": "EMP061",
+    "email": "atharv.saxena@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0066",
+    "employee_id": "EMP062",
+    "email": "ira.dalal@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0067",
+    "employee_id": "EMP063",
+    "email": "pranav.chowdary@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0068",
+    "employee_id": "EMP064",
+    "email": "avani.jadhav@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0069",
+    "employee_id": "EMP065",
+    "email": "aaryan.nair@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0070",
+    "employee_id": "EMP066",
+    "email": "prisha.joshi@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0071",
+    "employee_id": "EMP067",
+    "email": "kabir.mishra@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0072",
+    "employee_id": "EMP068",
+    "email": "anvi.bhatia@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0073",
+    "employee_id": "EMP069",
+    "email": "darsh.parikh@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0074",
+    "employee_id": "EMP070",
+    "email": "pooja.naidu@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0075",
+    "employee_id": "EMP071",
+    "email": "rohan.shinde@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0076",
+    "employee_id": "EMP072",
+    "email": "divya.rao@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0077",
+    "employee_id": "EMP073",
+    "email": "vikram.deshmukh@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0078",
+    "employee_id": "EMP074",
+    "email": "anjali.agarwal@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0079",
+    "employee_id": "EMP075",
+    "email": "naveen.kapoor75@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0080",
+    "employee_id": "EMP076",
+    "email": "meera.gala@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "HR",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0081",
+    "employee_id": "EMP077",
+    "email": "suresh.sen@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0082",
+    "employee_id": "EMP078",
+    "email": "shreya.pawar@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0083",
+    "employee_id": "EMP079",
+    "email": "deepak.reddy@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0084",
+    "employee_id": "EMP080",
+    "email": "pallavi.kulkarni@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0085",
+    "employee_id": "EMP081",
+    "email": "amit.gupta@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0086",
+    "employee_id": "EMP082",
+    "email": "tanvi.malhotra@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0087",
+    "employee_id": "EMP083",
+    "email": "praveen.shah@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0088",
+    "employee_id": "EMP084",
+    "email": "rashmi.dutta@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0089",
+    "employee_id": "EMP085",
+    "email": "harish.prabhu@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0090",
+    "employee_id": "EMP086",
+    "email": "komal.patel86@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0091",
+    "employee_id": "EMP087",
+    "email": "varun.banerjee87@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0092",
+    "employee_id": "EMP088",
+    "email": "aditi.pillai88@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0093",
+    "employee_id": "EMP089",
+    "email": "kunal.chopra89@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0094",
+    "employee_id": "EMP090",
+    "email": "preeti.mehta90@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0095",
+    "employee_id": "EMP091",
+    "email": "mahesh.bose91@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0096",
+    "employee_id": "EMP092",
+    "email": "monika.kamath92@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0097",
+    "employee_id": "EMP093",
+    "email": "vishal.verma93@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0098",
+    "employee_id": "EMP094",
+    "email": "suman.chatterjee94@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0099",
+    "employee_id": "EMP095",
+    "email": "ashok.menon95@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0100",
+    "employee_id": "EMP096",
+    "email": "archana.shukla96@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0101",
+    "employee_id": "EMP097",
+    "email": "hemant.choudhury97@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0102",
+    "employee_id": "EMP098",
+    "email": "jyoti.ghosh98@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0103",
+    "employee_id": "EMP099",
+    "email": "tarun.shetty99@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0104",
+    "employee_id": "EMP100",
+    "email": "saanvi.sharma100@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0105",
+    "employee_id": "EMP101",
+    "email": "vivaan.mukherjee101@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0106",
+    "employee_id": "EMP102",
+    "email": "aadhya.hegde102@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "HR",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0107",
+    "employee_id": "EMP103",
+    "email": "vihaan.trivedi103@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0108",
+    "employee_id": "EMP104",
+    "email": "ananya.sinha104@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0109",
+    "employee_id": "EMP105",
+    "email": "sai.das105@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0110",
+    "employee_id": "EMP106",
+    "email": "anika.goud106@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0111",
+    "employee_id": "EMP107",
+    "email": "ayaan.bhosale107@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0112",
+    "employee_id": "EMP108",
+    "email": "angel.iyer108@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0113",
+    "employee_id": "EMP109",
+    "email": "ishaan.bhat109@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0114",
+    "employee_id": "EMP110",
+    "email": "myra.pandey110@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0115",
+    "employee_id": "EMP111",
+    "email": "atharv.saxena111@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0116",
+    "employee_id": "EMP112",
+    "email": "ira.dalal112@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0117",
+    "employee_id": "EMP113",
+    "email": "pranav.chowdary113@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0118",
+    "employee_id": "EMP114",
+    "email": "avani.jadhav114@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0119",
+    "employee_id": "EMP115",
+    "email": "aaryan.nair115@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0120",
+    "employee_id": "EMP116",
+    "email": "prisha.joshi116@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0121",
+    "employee_id": "EMP117",
+    "email": "kabir.mishra117@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0122",
+    "employee_id": "EMP118",
+    "email": "anvi.bhatia118@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0123",
+    "employee_id": "EMP119",
+    "email": "darsh.parikh119@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0124",
+    "employee_id": "EMP120",
+    "email": "pooja.naidu120@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0125",
+    "employee_id": "EMP121",
+    "email": "rohan.shinde121@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0126",
+    "employee_id": "EMP122",
+    "email": "divya.rao122@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0127",
+    "employee_id": "EMP123",
+    "email": "vikram.deshmukh123@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0128",
+    "employee_id": "EMP124",
+    "email": "anjali.agarwal124@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0129",
+    "employee_id": "EMP125",
+    "email": "naveen.kapoor125@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "HR",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0130",
+    "employee_id": "EMP126",
+    "email": "meera.gala126@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0131",
+    "employee_id": "EMP127",
+    "email": "suresh.sen127@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0132",
+    "employee_id": "EMP128",
+    "email": "shreya.pawar128@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0133",
+    "employee_id": "EMP129",
+    "email": "deepak.reddy129@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "HR",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0134",
+    "employee_id": "EMP130",
+    "email": "pallavi.kulkarni130@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0135",
+    "employee_id": "EMP131",
+    "email": "amit.gupta131@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0136",
+    "employee_id": "EMP132",
+    "email": "tanvi.malhotra132@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0137",
+    "employee_id": "EMP133",
+    "email": "praveen.shah133@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0138",
+    "employee_id": "EMP134",
+    "email": "rashmi.dutta134@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0139",
+    "employee_id": "EMP135",
+    "email": "harish.prabhu135@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0140",
+    "employee_id": "EMP136",
+    "email": "komal.patel136@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0141",
+    "employee_id": "EMP137",
+    "email": "varun.banerjee137@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0142",
+    "employee_id": "EMP138",
+    "email": "aditi.pillai138@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0143",
+    "employee_id": "EMP139",
+    "email": "kunal.chopra139@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0144",
+    "employee_id": "EMP140",
+    "email": "preeti.mehta140@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0145",
+    "employee_id": "EMP141",
+    "email": "mahesh.bose141@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "HR",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0146",
+    "employee_id": "EMP142",
+    "email": "monika.kamath142@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0147",
+    "employee_id": "EMP143",
+    "email": "vishal.verma143@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0148",
+    "employee_id": "EMP144",
+    "email": "suman.chatterjee144@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0149",
+    "employee_id": "EMP145",
+    "email": "ashok.menon145@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0150",
+    "employee_id": "EMP146",
+    "email": "archana.shukla146@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0151",
+    "employee_id": "EMP147",
+    "email": "hemant.choudhury147@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0152",
+    "employee_id": "EMP148",
+    "email": "jyoti.ghosh148@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0153",
+    "employee_id": "EMP149",
+    "email": "tarun.shetty149@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0154",
+    "employee_id": "EMP150",
+    "email": "saanvi.sharma150@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0155",
+    "employee_id": "EMP151",
+    "email": "vivaan.mukherjee151@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0156",
+    "employee_id": "EMP152",
+    "email": "aadhya.hegde152@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0157",
+    "employee_id": "EMP153",
+    "email": "vihaan.trivedi153@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0158",
+    "employee_id": "EMP154",
+    "email": "ananya.sinha154@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0159",
+    "employee_id": "EMP155",
+    "email": "sai.das155@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0160",
+    "employee_id": "EMP156",
+    "email": "anika.goud156@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0161",
+    "employee_id": "EMP157",
+    "email": "ayaan.bhosale157@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0162",
+    "employee_id": "EMP158",
+    "email": "angel.iyer158@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0163",
+    "employee_id": "EMP159",
+    "email": "ishaan.bhat159@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0164",
+    "employee_id": "EMP160",
+    "email": "myra.pandey160@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "HR",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0165",
+    "employee_id": "EMP161",
+    "email": "atharv.saxena161@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0166",
+    "employee_id": "EMP162",
+    "email": "ira.dalal162@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0167",
+    "employee_id": "EMP163",
+    "email": "pranav.chowdary163@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0168",
+    "employee_id": "EMP164",
+    "email": "avani.jadhav164@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0169",
+    "employee_id": "EMP165",
+    "email": "aaryan.nair165@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0170",
+    "employee_id": "EMP166",
+    "email": "prisha.joshi166@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0171",
+    "employee_id": "EMP167",
+    "email": "kabir.mishra167@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "HR",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0172",
+    "employee_id": "EMP168",
+    "email": "anvi.bhatia168@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0173",
+    "employee_id": "EMP169",
+    "email": "darsh.parikh169@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0174",
+    "employee_id": "EMP170",
+    "email": "pooja.naidu170@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0175",
+    "employee_id": "EMP171",
+    "email": "rohan.shinde171@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0176",
+    "employee_id": "EMP172",
+    "email": "divya.rao172@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0177",
+    "employee_id": "EMP173",
+    "email": "vikram.deshmukh173@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0178",
+    "employee_id": "EMP174",
+    "email": "anjali.agarwal174@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0179",
+    "employee_id": "EMP175",
+    "email": "naveen.kapoor175@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0180",
+    "employee_id": "EMP176",
+    "email": "meera.gala176@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0181",
+    "employee_id": "EMP177",
+    "email": "suresh.sen177@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "HR",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0182",
+    "employee_id": "EMP178",
+    "email": "shreya.pawar178@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0183",
+    "employee_id": "EMP179",
+    "email": "deepak.reddy179@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0184",
+    "employee_id": "EMP180",
+    "email": "pallavi.kulkarni180@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0185",
+    "employee_id": "EMP181",
+    "email": "amit.gupta181@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0186",
+    "employee_id": "EMP182",
+    "email": "tanvi.malhotra182@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0187",
+    "employee_id": "EMP183",
+    "email": "praveen.shah183@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0188",
+    "employee_id": "EMP184",
+    "email": "rashmi.dutta184@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0189",
+    "employee_id": "EMP185",
+    "email": "harish.prabhu185@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0190",
+    "employee_id": "EMP186",
+    "email": "komal.patel186@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0191",
+    "employee_id": "EMP187",
+    "email": "varun.banerjee187@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0192",
+    "employee_id": "EMP188",
+    "email": "aditi.pillai188@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0193",
+    "employee_id": "EMP189",
+    "email": "kunal.chopra189@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0194",
+    "employee_id": "EMP190",
+    "email": "preeti.mehta190@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0195",
+    "employee_id": "EMP191",
+    "email": "mahesh.bose191@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0196",
+    "employee_id": "EMP192",
+    "email": "monika.kamath192@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0197",
+    "employee_id": "EMP193",
+    "email": "vishal.verma193@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0198",
+    "employee_id": "EMP194",
+    "email": "suman.chatterjee194@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0199",
+    "employee_id": "EMP195",
+    "email": "ashok.menon195@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0200",
+    "employee_id": "EMP196",
+    "email": "archana.shukla196@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0201",
+    "employee_id": "EMP197",
+    "email": "hemant.choudhury197@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0202",
+    "employee_id": "EMP198",
+    "email": "jyoti.ghosh198@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0203",
+    "employee_id": "EMP199",
+    "email": "tarun.shetty199@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  },
+  {
+    "user_id": "USR0204",
+    "employee_id": "EMP200",
+    "email": "saanvi.sharma200@innovatecorp.demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "EMPLOYEE",
+    "is_active": 1,
+    "created_at": "2025-01-01 00:00:00"
+  }
+]

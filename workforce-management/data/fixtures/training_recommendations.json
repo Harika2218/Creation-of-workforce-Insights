@@ -1,0 +1,1602 @@
+[
+  {
+    "recommendation_id": "REC00001",
+    "employee_id": "EMP001",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00002",
+    "employee_id": "EMP002",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00003",
+    "employee_id": "EMP003",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00004",
+    "employee_id": "EMP004",
+    "recommended_course": "Kubernetes & DevOps Pipelines",
+    "target_skill": "DevOps",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00005",
+    "employee_id": "EMP005",
+    "recommended_course": "Kubernetes & DevOps Pipelines",
+    "target_skill": "DevOps",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00006",
+    "employee_id": "EMP006",
+    "recommended_course": "Kubernetes & DevOps Pipelines",
+    "target_skill": "DevOps",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00007",
+    "employee_id": "EMP007",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00008",
+    "employee_id": "EMP008",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00009",
+    "employee_id": "EMP009",
+    "recommended_course": "Full Stack React & Modern UI",
+    "target_skill": "React",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00010",
+    "employee_id": "EMP010",
+    "recommended_course": "Agile Project Delivery Masterclass",
+    "target_skill": "Project Management",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00011",
+    "employee_id": "EMP011",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00012",
+    "employee_id": "EMP012",
+    "recommended_course": "Agile Project Delivery Masterclass",
+    "target_skill": "Project Management",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00013",
+    "employee_id": "EMP013",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00014",
+    "employee_id": "EMP014",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00015",
+    "employee_id": "EMP015",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00016",
+    "employee_id": "EMP016",
+    "recommended_course": "Kubernetes & DevOps Pipelines",
+    "target_skill": "DevOps",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00017",
+    "employee_id": "EMP017",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00018",
+    "employee_id": "EMP018",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00019",
+    "employee_id": "EMP019",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00020",
+    "employee_id": "EMP020",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00021",
+    "employee_id": "EMP021",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00022",
+    "employee_id": "EMP022",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00023",
+    "employee_id": "EMP023",
+    "recommended_course": "Strategic Leadership & Communication",
+    "target_skill": "Communication",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00024",
+    "employee_id": "EMP024",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00025",
+    "employee_id": "EMP025",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00026",
+    "employee_id": "EMP026",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00027",
+    "employee_id": "EMP027",
+    "recommended_course": "Strategic Leadership & Communication",
+    "target_skill": "Communication",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00028",
+    "employee_id": "EMP028",
+    "recommended_course": "Strategic Leadership & Communication",
+    "target_skill": "Communication",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00029",
+    "employee_id": "EMP029",
+    "recommended_course": "Applied Machine Learning at Scale",
+    "target_skill": "Machine Learning",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00030",
+    "employee_id": "EMP030",
+    "recommended_course": "Full Stack React & Modern UI",
+    "target_skill": "React",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00031",
+    "employee_id": "EMP031",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00032",
+    "employee_id": "EMP032",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00033",
+    "employee_id": "EMP033",
+    "recommended_course": "Applied Machine Learning at Scale",
+    "target_skill": "Machine Learning",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00034",
+    "employee_id": "EMP034",
+    "recommended_course": "Full Stack React & Modern UI",
+    "target_skill": "React",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00035",
+    "employee_id": "EMP035",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00036",
+    "employee_id": "EMP036",
+    "recommended_course": "Agile Project Delivery Masterclass",
+    "target_skill": "Project Management",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00037",
+    "employee_id": "EMP037",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00038",
+    "employee_id": "EMP038",
+    "recommended_course": "Strategic Leadership & Communication",
+    "target_skill": "Communication",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00039",
+    "employee_id": "EMP039",
+    "recommended_course": "Kubernetes & DevOps Pipelines",
+    "target_skill": "DevOps",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00040",
+    "employee_id": "EMP040",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00041",
+    "employee_id": "EMP041",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00042",
+    "employee_id": "EMP042",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00043",
+    "employee_id": "EMP043",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00044",
+    "employee_id": "EMP044",
+    "recommended_course": "Full Stack React & Modern UI",
+    "target_skill": "React",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00045",
+    "employee_id": "EMP045",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00046",
+    "employee_id": "EMP046",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00047",
+    "employee_id": "EMP047",
+    "recommended_course": "Full Stack React & Modern UI",
+    "target_skill": "React",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00048",
+    "employee_id": "EMP048",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00049",
+    "employee_id": "EMP049",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00050",
+    "employee_id": "EMP050",
+    "recommended_course": "Applied Machine Learning at Scale",
+    "target_skill": "Machine Learning",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00051",
+    "employee_id": "EMP051",
+    "recommended_course": "Applied Machine Learning at Scale",
+    "target_skill": "Machine Learning",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00052",
+    "employee_id": "EMP052",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00053",
+    "employee_id": "EMP053",
+    "recommended_course": "Strategic Leadership & Communication",
+    "target_skill": "Communication",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00054",
+    "employee_id": "EMP054",
+    "recommended_course": "Applied Machine Learning at Scale",
+    "target_skill": "Machine Learning",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00055",
+    "employee_id": "EMP055",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00056",
+    "employee_id": "EMP056",
+    "recommended_course": "Full Stack React & Modern UI",
+    "target_skill": "React",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00057",
+    "employee_id": "EMP057",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00058",
+    "employee_id": "EMP058",
+    "recommended_course": "Full Stack React & Modern UI",
+    "target_skill": "React",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00059",
+    "employee_id": "EMP059",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00060",
+    "employee_id": "EMP060",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00061",
+    "employee_id": "EMP061",
+    "recommended_course": "Agile Project Delivery Masterclass",
+    "target_skill": "Project Management",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00062",
+    "employee_id": "EMP062",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00063",
+    "employee_id": "EMP063",
+    "recommended_course": "Strategic Leadership & Communication",
+    "target_skill": "Communication",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00064",
+    "employee_id": "EMP064",
+    "recommended_course": "Agile Project Delivery Masterclass",
+    "target_skill": "Project Management",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00065",
+    "employee_id": "EMP065",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00066",
+    "employee_id": "EMP066",
+    "recommended_course": "Applied Machine Learning at Scale",
+    "target_skill": "Machine Learning",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00067",
+    "employee_id": "EMP067",
+    "recommended_course": "Agile Project Delivery Masterclass",
+    "target_skill": "Project Management",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00068",
+    "employee_id": "EMP068",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00069",
+    "employee_id": "EMP069",
+    "recommended_course": "Strategic Leadership & Communication",
+    "target_skill": "Communication",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00070",
+    "employee_id": "EMP070",
+    "recommended_course": "Agile Project Delivery Masterclass",
+    "target_skill": "Project Management",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00071",
+    "employee_id": "EMP071",
+    "recommended_course": "Applied Machine Learning at Scale",
+    "target_skill": "Machine Learning",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00072",
+    "employee_id": "EMP072",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00073",
+    "employee_id": "EMP073",
+    "recommended_course": "Agile Project Delivery Masterclass",
+    "target_skill": "Project Management",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00074",
+    "employee_id": "EMP074",
+    "recommended_course": "Applied Machine Learning at Scale",
+    "target_skill": "Machine Learning",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00075",
+    "employee_id": "EMP075",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00076",
+    "employee_id": "EMP076",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00077",
+    "employee_id": "EMP077",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00078",
+    "employee_id": "EMP078",
+    "recommended_course": "Kubernetes & DevOps Pipelines",
+    "target_skill": "DevOps",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00079",
+    "employee_id": "EMP079",
+    "recommended_course": "Full Stack React & Modern UI",
+    "target_skill": "React",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00080",
+    "employee_id": "EMP080",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00081",
+    "employee_id": "EMP081",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00082",
+    "employee_id": "EMP082",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00083",
+    "employee_id": "EMP083",
+    "recommended_course": "Kubernetes & DevOps Pipelines",
+    "target_skill": "DevOps",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00084",
+    "employee_id": "EMP084",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00085",
+    "employee_id": "EMP085",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00086",
+    "employee_id": "EMP086",
+    "recommended_course": "Agile Project Delivery Masterclass",
+    "target_skill": "Project Management",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00087",
+    "employee_id": "EMP087",
+    "recommended_course": "Full Stack React & Modern UI",
+    "target_skill": "React",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00088",
+    "employee_id": "EMP088",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00089",
+    "employee_id": "EMP089",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00090",
+    "employee_id": "EMP090",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00091",
+    "employee_id": "EMP091",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00092",
+    "employee_id": "EMP092",
+    "recommended_course": "Kubernetes & DevOps Pipelines",
+    "target_skill": "DevOps",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00093",
+    "employee_id": "EMP093",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00094",
+    "employee_id": "EMP094",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00095",
+    "employee_id": "EMP095",
+    "recommended_course": "Strategic Leadership & Communication",
+    "target_skill": "Communication",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00096",
+    "employee_id": "EMP096",
+    "recommended_course": "Applied Machine Learning at Scale",
+    "target_skill": "Machine Learning",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00097",
+    "employee_id": "EMP097",
+    "recommended_course": "Kubernetes & DevOps Pipelines",
+    "target_skill": "DevOps",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00098",
+    "employee_id": "EMP098",
+    "recommended_course": "Applied Machine Learning at Scale",
+    "target_skill": "Machine Learning",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00099",
+    "employee_id": "EMP099",
+    "recommended_course": "Agile Project Delivery Masterclass",
+    "target_skill": "Project Management",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00100",
+    "employee_id": "EMP100",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00101",
+    "employee_id": "EMP101",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00102",
+    "employee_id": "EMP102",
+    "recommended_course": "Kubernetes & DevOps Pipelines",
+    "target_skill": "DevOps",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00103",
+    "employee_id": "EMP103",
+    "recommended_course": "Full Stack React & Modern UI",
+    "target_skill": "React",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00104",
+    "employee_id": "EMP104",
+    "recommended_course": "Full Stack React & Modern UI",
+    "target_skill": "React",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00105",
+    "employee_id": "EMP105",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00106",
+    "employee_id": "EMP106",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00107",
+    "employee_id": "EMP107",
+    "recommended_course": "Full Stack React & Modern UI",
+    "target_skill": "React",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00108",
+    "employee_id": "EMP108",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00109",
+    "employee_id": "EMP109",
+    "recommended_course": "Agile Project Delivery Masterclass",
+    "target_skill": "Project Management",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00110",
+    "employee_id": "EMP110",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00111",
+    "employee_id": "EMP111",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00112",
+    "employee_id": "EMP112",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00113",
+    "employee_id": "EMP113",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00114",
+    "employee_id": "EMP114",
+    "recommended_course": "Agile Project Delivery Masterclass",
+    "target_skill": "Project Management",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00115",
+    "employee_id": "EMP115",
+    "recommended_course": "Applied Machine Learning at Scale",
+    "target_skill": "Machine Learning",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00116",
+    "employee_id": "EMP116",
+    "recommended_course": "Applied Machine Learning at Scale",
+    "target_skill": "Machine Learning",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00117",
+    "employee_id": "EMP117",
+    "recommended_course": "Full Stack React & Modern UI",
+    "target_skill": "React",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00118",
+    "employee_id": "EMP118",
+    "recommended_course": "Applied Machine Learning at Scale",
+    "target_skill": "Machine Learning",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00119",
+    "employee_id": "EMP119",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00120",
+    "employee_id": "EMP120",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00121",
+    "employee_id": "EMP121",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00122",
+    "employee_id": "EMP122",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00123",
+    "employee_id": "EMP123",
+    "recommended_course": "Kubernetes & DevOps Pipelines",
+    "target_skill": "DevOps",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00124",
+    "employee_id": "EMP124",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00125",
+    "employee_id": "EMP125",
+    "recommended_course": "Kubernetes & DevOps Pipelines",
+    "target_skill": "DevOps",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00126",
+    "employee_id": "EMP126",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00127",
+    "employee_id": "EMP127",
+    "recommended_course": "Strategic Leadership & Communication",
+    "target_skill": "Communication",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00128",
+    "employee_id": "EMP128",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00129",
+    "employee_id": "EMP129",
+    "recommended_course": "Kubernetes & DevOps Pipelines",
+    "target_skill": "DevOps",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00130",
+    "employee_id": "EMP130",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00131",
+    "employee_id": "EMP131",
+    "recommended_course": "Full Stack React & Modern UI",
+    "target_skill": "React",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00132",
+    "employee_id": "EMP132",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00133",
+    "employee_id": "EMP133",
+    "recommended_course": "Kubernetes & DevOps Pipelines",
+    "target_skill": "DevOps",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00134",
+    "employee_id": "EMP134",
+    "recommended_course": "Full Stack React & Modern UI",
+    "target_skill": "React",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00135",
+    "employee_id": "EMP135",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00136",
+    "employee_id": "EMP136",
+    "recommended_course": "Applied Machine Learning at Scale",
+    "target_skill": "Machine Learning",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00137",
+    "employee_id": "EMP137",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00138",
+    "employee_id": "EMP138",
+    "recommended_course": "Strategic Leadership & Communication",
+    "target_skill": "Communication",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00139",
+    "employee_id": "EMP139",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00140",
+    "employee_id": "EMP140",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00141",
+    "employee_id": "EMP141",
+    "recommended_course": "Full Stack React & Modern UI",
+    "target_skill": "React",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00142",
+    "employee_id": "EMP142",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00143",
+    "employee_id": "EMP143",
+    "recommended_course": "Strategic Leadership & Communication",
+    "target_skill": "Communication",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00144",
+    "employee_id": "EMP144",
+    "recommended_course": "Strategic Leadership & Communication",
+    "target_skill": "Communication",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00145",
+    "employee_id": "EMP145",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00146",
+    "employee_id": "EMP146",
+    "recommended_course": "Applied Machine Learning at Scale",
+    "target_skill": "Machine Learning",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00147",
+    "employee_id": "EMP147",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00148",
+    "employee_id": "EMP148",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00149",
+    "employee_id": "EMP149",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00150",
+    "employee_id": "EMP150",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00151",
+    "employee_id": "EMP151",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00152",
+    "employee_id": "EMP152",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00153",
+    "employee_id": "EMP153",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00154",
+    "employee_id": "EMP154",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00155",
+    "employee_id": "EMP155",
+    "recommended_course": "Full Stack React & Modern UI",
+    "target_skill": "React",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00156",
+    "employee_id": "EMP156",
+    "recommended_course": "Kubernetes & DevOps Pipelines",
+    "target_skill": "DevOps",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00157",
+    "employee_id": "EMP157",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00158",
+    "employee_id": "EMP158",
+    "recommended_course": "Strategic Leadership & Communication",
+    "target_skill": "Communication",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00159",
+    "employee_id": "EMP159",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00160",
+    "employee_id": "EMP160",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00161",
+    "employee_id": "EMP161",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00162",
+    "employee_id": "EMP162",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00163",
+    "employee_id": "EMP163",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00164",
+    "employee_id": "EMP164",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00165",
+    "employee_id": "EMP165",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00166",
+    "employee_id": "EMP166",
+    "recommended_course": "Strategic Leadership & Communication",
+    "target_skill": "Communication",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00167",
+    "employee_id": "EMP167",
+    "recommended_course": "Strategic Leadership & Communication",
+    "target_skill": "Communication",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00168",
+    "employee_id": "EMP168",
+    "recommended_course": "Kubernetes & DevOps Pipelines",
+    "target_skill": "DevOps",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00169",
+    "employee_id": "EMP169",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00170",
+    "employee_id": "EMP170",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00171",
+    "employee_id": "EMP171",
+    "recommended_course": "Full Stack React & Modern UI",
+    "target_skill": "React",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00172",
+    "employee_id": "EMP172",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00173",
+    "employee_id": "EMP173",
+    "recommended_course": "Agile Project Delivery Masterclass",
+    "target_skill": "Project Management",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00174",
+    "employee_id": "EMP174",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00175",
+    "employee_id": "EMP175",
+    "recommended_course": "Strategic Leadership & Communication",
+    "target_skill": "Communication",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00176",
+    "employee_id": "EMP176",
+    "recommended_course": "Full Stack React & Modern UI",
+    "target_skill": "React",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00177",
+    "employee_id": "EMP177",
+    "recommended_course": "Applied Machine Learning at Scale",
+    "target_skill": "Machine Learning",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00178",
+    "employee_id": "EMP178",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00179",
+    "employee_id": "EMP179",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00180",
+    "employee_id": "EMP180",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00181",
+    "employee_id": "EMP181",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00182",
+    "employee_id": "EMP182",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00183",
+    "employee_id": "EMP183",
+    "recommended_course": "Kubernetes & DevOps Pipelines",
+    "target_skill": "DevOps",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00184",
+    "employee_id": "EMP184",
+    "recommended_course": "Applied Machine Learning at Scale",
+    "target_skill": "Machine Learning",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00185",
+    "employee_id": "EMP185",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00186",
+    "employee_id": "EMP186",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00187",
+    "employee_id": "EMP187",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00188",
+    "employee_id": "EMP188",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00189",
+    "employee_id": "EMP189",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00190",
+    "employee_id": "EMP190",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00191",
+    "employee_id": "EMP191",
+    "recommended_course": "Data Analytics with Power BI & SQL",
+    "target_skill": "Power BI",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00192",
+    "employee_id": "EMP192",
+    "recommended_course": "Agile Project Delivery Masterclass",
+    "target_skill": "Project Management",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00193",
+    "employee_id": "EMP193",
+    "recommended_course": "Kubernetes & DevOps Pipelines",
+    "target_skill": "DevOps",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00194",
+    "employee_id": "EMP194",
+    "recommended_course": "Advanced Python & Microservices",
+    "target_skill": "Python",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00195",
+    "employee_id": "EMP195",
+    "recommended_course": "Applied Machine Learning at Scale",
+    "target_skill": "Machine Learning",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00196",
+    "employee_id": "EMP196",
+    "recommended_course": "Kubernetes & DevOps Pipelines",
+    "target_skill": "DevOps",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00197",
+    "employee_id": "EMP197",
+    "recommended_course": "Modern Cloud Architecture with AWS",
+    "target_skill": "AWS",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00198",
+    "employee_id": "EMP198",
+    "recommended_course": "Enterprise Cybersecurity Fundamentals",
+    "target_skill": "Cybersecurity",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00199",
+    "employee_id": "EMP199",
+    "recommended_course": "Agile Project Delivery Masterclass",
+    "target_skill": "Project Management",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  },
+  {
+    "recommendation_id": "REC00200",
+    "employee_id": "EMP200",
+    "recommended_course": "Financial Analysis & Forecasting",
+    "target_skill": "Financial Modeling",
+    "reason": "AI Skill Gap Analysis: Recommended for career progression and upcoming project requirements.",
+    "created_at": "2026-01-10 10:00:00"
+  }
+]

@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-09-27T15:37:48.400379",
+  "database_name": "hr_automation",
+  "overall_status": "PASSED",
+  "total_checks": 28,
+  "passed_checks": 28,
+  "failed_checks": 0,
+  "categories": {
+    "Employee Integrity": {
+      "name": "Employee Integrity",
+      "passed": 6,
+      "failed": 0,
+      "checks": [
+        {
+          "check_name": "Exactly 200 Employees Count",
+          "status": "PASSED",
+          "details": "Total employee documents: 200. Required: EXACTLY 200."
+        },
+        {
+          "check_name": "EMP001 (CEO) Exists",
+          "status": "PASSED",
+          "details": "Found EMP001: Vikramaditya"
+        },
+        {
+          "check_name": "EMP200 Exists",
+          "status": "PASSED",
+          "details": "Found EMP200: Saanvi"
+        },
+        {
+          "check_name": "EMP201 Does NOT Exist",
+          "status": "PASSED",
+          "details": "Verified no EMP201 or excess employees exist."
+        },
+        {
+          "check_name": "Strict Sequence EMP001 to EMP200",
+          "status": "PASSED",
+          "details": "Employee ID set matches 1:1 with sequential EMP001 to EMP200."
+        },
+        {
+          "check_name": "Unique Corporate Emails",
+          "status": "PASSED",
+          "details": "Found 200 unique emails across 200 employees."
+        }
+      ]
+    },
+    "Relational Reference Integrity": {
+      "name": "Relational Reference Integrity",
+      "passed": 4,
+      "failed": 0,
+      "checks": [
+        {
+          "check_name": "All Employees Map to Valid Departments",
+          "status": "PASSED",
+          "details": "Invalid department references: 0"
+        },
+        {
+          "check_name": "All Employees Map to Valid Locations",
+          "status": "PASSED",
+          "details": "Invalid location references: 0"
+        },
+        {
+          "check_name": "No Employee Manages Themselves",
+          "status": "PASSED",
+          "details": "Self-managed count: 0"
+        },
+        {
+          "check_name": "Managers Exist in Employees Collection",
+          "status": "PASSED",
+          "details": "Invalid manager references: 0"
+        }
+      ]
+    },
+    "Attendance Management": {
+      "name": "Attendance Management",
+      "passed": 5,
+      "failed": 0,
+      "checks": [
+        {
+          "check_name": "6-Month Attendance Rows Count",
+          "status": "PASSED",
+          "details": "Total attendance records: 24,600"
+        },
+        {
+          "check_name": "All Attendance Links to Valid Employees",
+          "status": "PASSED",
+          "details": "Orphan attendance records: 0"
+        },
+        {
+          "check_name": "Check-out Chronologically After Check-in",
+          "status": "PASSED",
+          "details": "Invalid check-out records: 0"
+        },
+        {
+          "check_name": "Overtime Hours Bound (0 to 12 hrs)",
+          "status": "PASSED",
+          "details": "Out of bounds overtime rows: 0"
+        },
+        {
+          "check_name": "Anomaly Catalog Synchronization",
+          "status": "PASSED",
+          "details": "Flagged attendance anomalies: 307, Dedicated anomaly records: 307"
+        }
+      ]
+    },
+    "Leave Management": {
+      "name": "Leave Management",
+      "passed": 3,
+      "failed": 0,
+      "checks": [
+        {
+          "check_name": "Leave Balances Generated",
+          "status": "PASSED",
+          "details": "Total balance records: 816"
+        },
+        {
+          "check_name": "Balance Formula Consistency (Allocated = Used + Remaining)",
+          "status": "PASSED",
+          "details": "Mismatched leave balances: 0"
+        },
+        {
+          "check_name": "Leave Requests Date Consistency (Start <= End)",
+          "status": "PASSED",
+          "details": "Invalid request dates: 0"
+        }
+      ]
+    },
+    "Payroll Calculations": {
+      "name": "Payroll Calculations",
+      "passed": 4,
+      "failed": 0,
+      "checks": [
+        {
+          "check_name": "Payroll Records Generated (6 Months x 200 Employees)",
+          "status": "PASSED",
+          "details": "Total payroll records: 1200 (Required: 1,200)"
+        },
+        {
+          "check_name": "Gross Salary Exact Formula Verification",
+          "status": "PASSED",
+          "details": "Discrepancies in gross salary calculation: 0"
+        },
+        {
+          "check_name": "Net Salary Exact Formula Verification",
+          "status": "PASSED",
+          "details": "Discrepancies in net salary calculation: 0"
+        },
+        {
+          "check_name": "Zero Negative Salaries",
+          "status": "PASSED",
+          "details": "Non-positive net salary records: 0"
+        }
+      ]
+    },
+    "Timesheet Management": {
+      "name": "Timesheet Management",
+      "passed": 3,
+      "failed": 0,
+      "checks": [
+        {
+          "check_name": "Active Timesheets Generated",
+          "status": "PASSED",
+          "details": "Total timesheet documents: 4000"
+        },
+        {
+          "check_name": "Timesheet Hours Consistency (Billable + Non-Billable = Total)",
+          "status": "PASSED",
+          "details": "Timesheets with hour sum mismatch: 0"
+        },
+        {
+          "check_name": "Timesheet Hours Limits (0 to 24 hrs)",
+          "status": "PASSED",
+          "details": "Out of bounds timesheet hours: 0"
+        }
+      ]
+    },
+    "Talent & Performance": {
+      "name": "Talent & Performance",
+      "passed": 2,
+      "failed": 0,
+      "checks": [
+        {
+          "check_name": "Performance Reviews for All 200 Employees",
+          "status": "PASSED",
+          "details": "Total reviews: 200 (One per employee)"
+        },
+        {
+          "check_name": "All Employees Have Mapped Skills",
+          "status": "PASSED",
+          "details": "Employees with mapped skills: 200 / 200"
+        }
+      ]
+    },
+    "Users & Authentication": {
+      "name": "Users & Authentication",
+      "passed": 1,
+      "failed": 0,
+      "checks": [
+        {
+          "check_name": "All 4 Dedicated Demo Users Present",
+          "status": "PASSED",
+          "details": "Found 4 / 4 demo accounts (admin, manager, hr, employee)"
+        }
+      ]
+    }
+  }
+}

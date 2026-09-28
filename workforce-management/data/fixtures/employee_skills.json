@@ -1,0 +1,4850 @@
+[
+  {
+    "employee_id": "EMP001",
+    "skill_id": "SK09",
+    "proficiency_level": "Expert",
+    "years_experience": 8.2
+  },
+  {
+    "employee_id": "EMP001",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 11.6
+  },
+  {
+    "employee_id": "EMP001",
+    "skill_id": "SK15",
+    "proficiency_level": "Expert",
+    "years_experience": 13.6
+  },
+  {
+    "employee_id": "EMP001",
+    "skill_id": "SK10",
+    "proficiency_level": "Expert",
+    "years_experience": 15.0
+  },
+  {
+    "employee_id": "EMP002",
+    "skill_id": "SK14",
+    "proficiency_level": "Advanced",
+    "years_experience": 17.0
+  },
+  {
+    "employee_id": "EMP002",
+    "skill_id": "SK09",
+    "proficiency_level": "Expert",
+    "years_experience": 14.1
+  },
+  {
+    "employee_id": "EMP002",
+    "skill_id": "SK05",
+    "proficiency_level": "Advanced",
+    "years_experience": 12.7
+  },
+  {
+    "employee_id": "EMP002",
+    "skill_id": "SK04",
+    "proficiency_level": "Expert",
+    "years_experience": 6.4
+  },
+  {
+    "employee_id": "EMP003",
+    "skill_id": "SK12",
+    "proficiency_level": "Advanced",
+    "years_experience": 10.2
+  },
+  {
+    "employee_id": "EMP003",
+    "skill_id": "SK06",
+    "proficiency_level": "Expert",
+    "years_experience": 15.3
+  },
+  {
+    "employee_id": "EMP003",
+    "skill_id": "SK11",
+    "proficiency_level": "Expert",
+    "years_experience": 14.1
+  },
+  {
+    "employee_id": "EMP003",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 5.6
+  },
+  {
+    "employee_id": "EMP004",
+    "skill_id": "SK09",
+    "proficiency_level": "Expert",
+    "years_experience": 12.2
+  },
+  {
+    "employee_id": "EMP004",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.0
+  },
+  {
+    "employee_id": "EMP004",
+    "skill_id": "SK10",
+    "proficiency_level": "Expert",
+    "years_experience": 15.0
+  },
+  {
+    "employee_id": "EMP005",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": "EMP005",
+    "skill_id": "SK17",
+    "proficiency_level": "Advanced",
+    "years_experience": 11.2
+  },
+  {
+    "employee_id": "EMP005",
+    "skill_id": "SK11",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": "EMP005",
+    "skill_id": "SK03",
+    "proficiency_level": "Expert",
+    "years_experience": 12.5
+  },
+  {
+    "employee_id": "EMP006",
+    "skill_id": "SK18",
+    "proficiency_level": "Expert",
+    "years_experience": 8.2
+  },
+  {
+    "employee_id": "EMP006",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 12.3
+  },
+  {
+    "employee_id": "EMP006",
+    "skill_id": "SK09",
+    "proficiency_level": "Expert",
+    "years_experience": 5.8
+  },
+  {
+    "employee_id": "EMP006",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 14.6
+  },
+  {
+    "employee_id": "EMP007",
+    "skill_id": "SK09",
+    "proficiency_level": "Expert",
+    "years_experience": 15.1
+  },
+  {
+    "employee_id": "EMP007",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 15.9
+  },
+  {
+    "employee_id": "EMP007",
+    "skill_id": "SK18",
+    "proficiency_level": "Advanced",
+    "years_experience": 17.0
+  },
+  {
+    "employee_id": "EMP008",
+    "skill_id": "SK09",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.1
+  },
+  {
+    "employee_id": "EMP008",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 16.8
+  },
+  {
+    "employee_id": "EMP008",
+    "skill_id": "SK15",
+    "proficiency_level": "Expert",
+    "years_experience": 5.8
+  },
+  {
+    "employee_id": "EMP008",
+    "skill_id": "SK10",
+    "proficiency_level": "Expert",
+    "years_experience": 16.1
+  },
+  {
+    "employee_id": "EMP009",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.0
+  },
+  {
+    "employee_id": "EMP009",
+    "skill_id": "SK13",
+    "proficiency_level": "Expert",
+    "years_experience": 10.7
+  },
+  {
+    "employee_id": "EMP009",
+    "skill_id": "SK15",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP009",
+    "skill_id": "SK12",
+    "proficiency_level": "Expert",
+    "years_experience": 12.9
+  },
+  {
+    "employee_id": "EMP010",
+    "skill_id": "SK18",
+    "proficiency_level": "Expert",
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": "EMP010",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.6
+  },
+  {
+    "employee_id": "EMP010",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 7.7
+  },
+  {
+    "employee_id": "EMP010",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP011",
+    "skill_id": "SK14",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.1
+  },
+  {
+    "employee_id": "EMP011",
+    "skill_id": "SK13",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.7
+  },
+  {
+    "employee_id": "EMP011",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 8.1
+  },
+  {
+    "employee_id": "EMP011",
+    "skill_id": "SK04",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.8
+  },
+  {
+    "employee_id": "EMP012",
+    "skill_id": "SK05",
+    "proficiency_level": "Expert",
+    "years_experience": 8.9
+  },
+  {
+    "employee_id": "EMP012",
+    "skill_id": "SK12",
+    "proficiency_level": "Expert",
+    "years_experience": 5.2
+  },
+  {
+    "employee_id": "EMP012",
+    "skill_id": "SK04",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.5
+  },
+  {
+    "employee_id": "EMP012",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.5
+  },
+  {
+    "employee_id": "EMP013",
+    "skill_id": "SK05",
+    "proficiency_level": "Expert",
+    "years_experience": 10.5
+  },
+  {
+    "employee_id": "EMP013",
+    "skill_id": "SK13",
+    "proficiency_level": "Advanced",
+    "years_experience": 10.6
+  },
+  {
+    "employee_id": "EMP013",
+    "skill_id": "SK15",
+    "proficiency_level": "Advanced",
+    "years_experience": 7.6
+  },
+  {
+    "employee_id": "EMP013",
+    "skill_id": "SK12",
+    "proficiency_level": "Expert",
+    "years_experience": 2.0
+  },
+  {
+    "employee_id": "EMP014",
+    "skill_id": "SK01",
+    "proficiency_level": "Advanced",
+    "years_experience": 8.9
+  },
+  {
+    "employee_id": "EMP014",
+    "skill_id": "SK02",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.3
+  },
+  {
+    "employee_id": "EMP014",
+    "skill_id": "SK05",
+    "proficiency_level": "Expert",
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": "EMP014",
+    "skill_id": "SK13",
+    "proficiency_level": "Advanced",
+    "years_experience": 10.9
+  },
+  {
+    "employee_id": "EMP014",
+    "skill_id": "SK12",
+    "proficiency_level": "Expert",
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": "EMP015",
+    "skill_id": "SK01",
+    "proficiency_level": "Advanced",
+    "years_experience": 5.1
+  },
+  {
+    "employee_id": "EMP015",
+    "skill_id": "SK14",
+    "proficiency_level": "Intermediate",
+    "years_experience": 6.0
+  },
+  {
+    "employee_id": "EMP015",
+    "skill_id": "SK02",
+    "proficiency_level": "Advanced",
+    "years_experience": 7.5
+  },
+  {
+    "employee_id": "EMP015",
+    "skill_id": "SK05",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.3
+  },
+  {
+    "employee_id": "EMP015",
+    "skill_id": "SK04",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.7
+  },
+  {
+    "employee_id": "EMP016",
+    "skill_id": "SK01",
+    "proficiency_level": "Intermediate",
+    "years_experience": 10.5
+  },
+  {
+    "employee_id": "EMP016",
+    "skill_id": "SK14",
+    "proficiency_level": "Intermediate",
+    "years_experience": 11.1
+  },
+  {
+    "employee_id": "EMP016",
+    "skill_id": "SK02",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP016",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": "EMP016",
+    "skill_id": "SK04",
+    "proficiency_level": "Intermediate",
+    "years_experience": 8.8
+  },
+  {
+    "employee_id": "EMP017",
+    "skill_id": "SK07",
+    "proficiency_level": "Expert",
+    "years_experience": 5.3
+  },
+  {
+    "employee_id": "EMP017",
+    "skill_id": "SK06",
+    "proficiency_level": "Advanced",
+    "years_experience": 8.5
+  },
+  {
+    "employee_id": "EMP017",
+    "skill_id": "SK12",
+    "proficiency_level": "Expert",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP017",
+    "skill_id": "SK11",
+    "proficiency_level": "Expert",
+    "years_experience": 7.0
+  },
+  {
+    "employee_id": "EMP017",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 10.5
+  },
+  {
+    "employee_id": "EMP018",
+    "skill_id": "SK07",
+    "proficiency_level": "Expert",
+    "years_experience": 11.4
+  },
+  {
+    "employee_id": "EMP018",
+    "skill_id": "SK09",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.8
+  },
+  {
+    "employee_id": "EMP018",
+    "skill_id": "SK06",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.5
+  },
+  {
+    "employee_id": "EMP018",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": "EMP019",
+    "skill_id": "SK01",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP019",
+    "skill_id": "SK07",
+    "proficiency_level": "Advanced",
+    "years_experience": 7.2
+  },
+  {
+    "employee_id": "EMP019",
+    "skill_id": "SK11",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.4
+  },
+  {
+    "employee_id": "EMP019",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.6
+  },
+  {
+    "employee_id": "EMP019",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 8.4
+  },
+  {
+    "employee_id": "EMP020",
+    "skill_id": "SK09",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.2
+  },
+  {
+    "employee_id": "EMP020",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.1
+  },
+  {
+    "employee_id": "EMP020",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 9.9
+  },
+  {
+    "employee_id": "EMP021",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 6.7
+  },
+  {
+    "employee_id": "EMP021",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.4
+  },
+  {
+    "employee_id": "EMP021",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.7
+  },
+  {
+    "employee_id": "EMP022",
+    "skill_id": "SK17",
+    "proficiency_level": "Expert",
+    "years_experience": 8.9
+  },
+  {
+    "employee_id": "EMP022",
+    "skill_id": "SK11",
+    "proficiency_level": "Expert",
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": "EMP022",
+    "skill_id": "SK10",
+    "proficiency_level": "Expert",
+    "years_experience": 3.1
+  },
+  {
+    "employee_id": "EMP023",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 11.2
+  },
+  {
+    "employee_id": "EMP023",
+    "skill_id": "SK17",
+    "proficiency_level": "Advanced",
+    "years_experience": 8.1
+  },
+  {
+    "employee_id": "EMP023",
+    "skill_id": "SK11",
+    "proficiency_level": "Expert",
+    "years_experience": 8.0
+  },
+  {
+    "employee_id": "EMP023",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 5.9
+  },
+  {
+    "employee_id": "EMP024",
+    "skill_id": "SK18",
+    "proficiency_level": "Expert",
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": "EMP024",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP024",
+    "skill_id": "SK04",
+    "proficiency_level": "Expert",
+    "years_experience": 10.3
+  },
+  {
+    "employee_id": "EMP024",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 13.1
+  },
+  {
+    "employee_id": "EMP025",
+    "skill_id": "SK09",
+    "proficiency_level": "Advanced",
+    "years_experience": 9.6
+  },
+  {
+    "employee_id": "EMP025",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.9
+  },
+  {
+    "employee_id": "EMP025",
+    "skill_id": "SK04",
+    "proficiency_level": "Intermediate",
+    "years_experience": 9.7
+  },
+  {
+    "employee_id": "EMP025",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.7
+  },
+  {
+    "employee_id": "EMP026",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 6.6
+  },
+  {
+    "employee_id": "EMP026",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.9
+  },
+  {
+    "employee_id": "EMP026",
+    "skill_id": "SK18",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.1
+  },
+  {
+    "employee_id": "EMP026",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.2
+  },
+  {
+    "employee_id": "EMP027",
+    "skill_id": "SK09",
+    "proficiency_level": "Advanced",
+    "years_experience": 5.2
+  },
+  {
+    "employee_id": "EMP027",
+    "skill_id": "SK08",
+    "proficiency_level": "Expert",
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": "EMP027",
+    "skill_id": "SK18",
+    "proficiency_level": "Advanced",
+    "years_experience": 9.5
+  },
+  {
+    "employee_id": "EMP027",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.0
+  },
+  {
+    "employee_id": "EMP028",
+    "skill_id": "SK09",
+    "proficiency_level": "Expert",
+    "years_experience": 3.9
+  },
+  {
+    "employee_id": "EMP028",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 7.3
+  },
+  {
+    "employee_id": "EMP028",
+    "skill_id": "SK18",
+    "proficiency_level": "Expert",
+    "years_experience": 4.2
+  },
+  {
+    "employee_id": "EMP028",
+    "skill_id": "SK10",
+    "proficiency_level": "Expert",
+    "years_experience": 13.2
+  },
+  {
+    "employee_id": "EMP029",
+    "skill_id": "SK09",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.9
+  },
+  {
+    "employee_id": "EMP029",
+    "skill_id": "SK08",
+    "proficiency_level": "Expert",
+    "years_experience": 3.5
+  },
+  {
+    "employee_id": "EMP029",
+    "skill_id": "SK15",
+    "proficiency_level": "Advanced",
+    "years_experience": 8.2
+  },
+  {
+    "employee_id": "EMP029",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 14.0
+  },
+  {
+    "employee_id": "EMP030",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP030",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP030",
+    "skill_id": "SK15",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.4
+  },
+  {
+    "employee_id": "EMP030",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.9
+  },
+  {
+    "employee_id": "EMP031",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 6.4
+  },
+  {
+    "employee_id": "EMP031",
+    "skill_id": "SK13",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.5
+  },
+  {
+    "employee_id": "EMP031",
+    "skill_id": "SK15",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP031",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 9.2
+  },
+  {
+    "employee_id": "EMP032",
+    "skill_id": "SK16",
+    "proficiency_level": "Advanced",
+    "years_experience": 8.1
+  },
+  {
+    "employee_id": "EMP032",
+    "skill_id": "SK05",
+    "proficiency_level": "Expert",
+    "years_experience": 10.3
+  },
+  {
+    "employee_id": "EMP032",
+    "skill_id": "SK08",
+    "proficiency_level": "Expert",
+    "years_experience": 10.1
+  },
+  {
+    "employee_id": "EMP032",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 5.3
+  },
+  {
+    "employee_id": "EMP033",
+    "skill_id": "SK18",
+    "proficiency_level": "Expert",
+    "years_experience": 9.6
+  },
+  {
+    "employee_id": "EMP033",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 9.2
+  },
+  {
+    "employee_id": "EMP033",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": "EMP033",
+    "skill_id": "SK03",
+    "proficiency_level": "Expert",
+    "years_experience": 5.8
+  },
+  {
+    "employee_id": "EMP034",
+    "skill_id": "SK18",
+    "proficiency_level": "Advanced",
+    "years_experience": 7.9
+  },
+  {
+    "employee_id": "EMP034",
+    "skill_id": "SK08",
+    "proficiency_level": "Expert",
+    "years_experience": 9.9
+  },
+  {
+    "employee_id": "EMP034",
+    "skill_id": "SK10",
+    "proficiency_level": "Expert",
+    "years_experience": 8.8
+  },
+  {
+    "employee_id": "EMP034",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 13.3
+  },
+  {
+    "employee_id": "EMP035",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 9.3
+  },
+  {
+    "employee_id": "EMP035",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 9.1
+  },
+  {
+    "employee_id": "EMP035",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": "EMP035",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP036",
+    "skill_id": "SK01",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.5
+  },
+  {
+    "employee_id": "EMP036",
+    "skill_id": "SK13",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.3
+  },
+  {
+    "employee_id": "EMP036",
+    "skill_id": "SK09",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.0
+  },
+  {
+    "employee_id": "EMP036",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.2
+  },
+  {
+    "employee_id": "EMP037",
+    "skill_id": "SK09",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.9
+  },
+  {
+    "employee_id": "EMP037",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP037",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.9
+  },
+  {
+    "employee_id": "EMP037",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP038",
+    "skill_id": "SK14",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": "EMP038",
+    "skill_id": "SK02",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP038",
+    "skill_id": "SK15",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP038",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": "EMP039",
+    "skill_id": "SK05",
+    "proficiency_level": "Beginner",
+    "years_experience": 0.8
+  },
+  {
+    "employee_id": "EMP039",
+    "skill_id": "SK02",
+    "proficiency_level": "Beginner",
+    "years_experience": 0.8
+  },
+  {
+    "employee_id": "EMP039",
+    "skill_id": "SK13",
+    "proficiency_level": "Beginner",
+    "years_experience": 0.8
+  },
+  {
+    "employee_id": "EMP039",
+    "skill_id": "SK15",
+    "proficiency_level": "Beginner",
+    "years_experience": 0.8
+  },
+  {
+    "employee_id": "EMP040",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP040",
+    "skill_id": "SK17",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.7
+  },
+  {
+    "employee_id": "EMP040",
+    "skill_id": "SK11",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.0
+  },
+  {
+    "employee_id": "EMP040",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP041",
+    "skill_id": "SK18",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": "EMP041",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": "EMP041",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.3
+  },
+  {
+    "employee_id": "EMP042",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.1
+  },
+  {
+    "employee_id": "EMP042",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.3
+  },
+  {
+    "employee_id": "EMP042",
+    "skill_id": "SK18",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.7
+  },
+  {
+    "employee_id": "EMP042",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP043",
+    "skill_id": "SK07",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.4
+  },
+  {
+    "employee_id": "EMP043",
+    "skill_id": "SK01",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": "EMP043",
+    "skill_id": "SK06",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.0
+  },
+  {
+    "employee_id": "EMP043",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.0
+  },
+  {
+    "employee_id": "EMP044",
+    "skill_id": "SK18",
+    "proficiency_level": "Beginner",
+    "years_experience": 0.9
+  },
+  {
+    "employee_id": "EMP044",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 0.9
+  },
+  {
+    "employee_id": "EMP044",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 0.9
+  },
+  {
+    "employee_id": "EMP044",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 0.9
+  },
+  {
+    "employee_id": "EMP045",
+    "skill_id": "SK18",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.4
+  },
+  {
+    "employee_id": "EMP045",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.6
+  },
+  {
+    "employee_id": "EMP045",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 8.2
+  },
+  {
+    "employee_id": "EMP045",
+    "skill_id": "SK04",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.2
+  },
+  {
+    "employee_id": "EMP046",
+    "skill_id": "SK14",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.6
+  },
+  {
+    "employee_id": "EMP046",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.2
+  },
+  {
+    "employee_id": "EMP046",
+    "skill_id": "SK13",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.8
+  },
+  {
+    "employee_id": "EMP046",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.8
+  },
+  {
+    "employee_id": "EMP046",
+    "skill_id": "SK04",
+    "proficiency_level": "Advanced",
+    "years_experience": 7.7
+  },
+  {
+    "employee_id": "EMP047",
+    "skill_id": "SK09",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": "EMP047",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP047",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.2
+  },
+  {
+    "employee_id": "EMP048",
+    "skill_id": "SK14",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.6
+  },
+  {
+    "employee_id": "EMP048",
+    "skill_id": "SK05",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.7
+  },
+  {
+    "employee_id": "EMP048",
+    "skill_id": "SK02",
+    "proficiency_level": "Advanced",
+    "years_experience": 5.8
+  },
+  {
+    "employee_id": "EMP048",
+    "skill_id": "SK04",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP049",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP049",
+    "skill_id": "SK06",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.4
+  },
+  {
+    "employee_id": "EMP049",
+    "skill_id": "SK11",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.4
+  },
+  {
+    "employee_id": "EMP049",
+    "skill_id": "SK12",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP050",
+    "skill_id": "SK18",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": "EMP050",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.0
+  },
+  {
+    "employee_id": "EMP050",
+    "skill_id": "SK09",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP050",
+    "skill_id": "SK04",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": "EMP051",
+    "skill_id": "SK09",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.1
+  },
+  {
+    "employee_id": "EMP051",
+    "skill_id": "SK17",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.2
+  },
+  {
+    "employee_id": "EMP051",
+    "skill_id": "SK11",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.0
+  },
+  {
+    "employee_id": "EMP051",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 5.5
+  },
+  {
+    "employee_id": "EMP052",
+    "skill_id": "SK01",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP052",
+    "skill_id": "SK02",
+    "proficiency_level": "Advanced",
+    "years_experience": 5.8
+  },
+  {
+    "employee_id": "EMP052",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.9
+  },
+  {
+    "employee_id": "EMP052",
+    "skill_id": "SK12",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.8
+  },
+  {
+    "employee_id": "EMP053",
+    "skill_id": "SK18",
+    "proficiency_level": "Beginner",
+    "years_experience": 4.0
+  },
+  {
+    "employee_id": "EMP053",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP053",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": "EMP053",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": "EMP054",
+    "skill_id": "SK18",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.4
+  },
+  {
+    "employee_id": "EMP054",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.2
+  },
+  {
+    "employee_id": "EMP054",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.6
+  },
+  {
+    "employee_id": "EMP054",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.3
+  },
+  {
+    "employee_id": "EMP055",
+    "skill_id": "SK16",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.0
+  },
+  {
+    "employee_id": "EMP055",
+    "skill_id": "SK13",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": "EMP055",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.0
+  },
+  {
+    "employee_id": "EMP055",
+    "skill_id": "SK12",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.0
+  },
+  {
+    "employee_id": "EMP056",
+    "skill_id": "SK09",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": "EMP056",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP056",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": "EMP057",
+    "skill_id": "SK18",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.4
+  },
+  {
+    "employee_id": "EMP057",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.9
+  },
+  {
+    "employee_id": "EMP057",
+    "skill_id": "SK04",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.0
+  },
+  {
+    "employee_id": "EMP057",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.2
+  },
+  {
+    "employee_id": "EMP058",
+    "skill_id": "SK16",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.9
+  },
+  {
+    "employee_id": "EMP058",
+    "skill_id": "SK12",
+    "proficiency_level": "Advanced",
+    "years_experience": 7.6
+  },
+  {
+    "employee_id": "EMP058",
+    "skill_id": "SK15",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.8
+  },
+  {
+    "employee_id": "EMP058",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.8
+  },
+  {
+    "employee_id": "EMP059",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.0
+  },
+  {
+    "employee_id": "EMP059",
+    "skill_id": "SK17",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": "EMP059",
+    "skill_id": "SK11",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP059",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.9
+  },
+  {
+    "employee_id": "EMP060",
+    "skill_id": "SK05",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.6
+  },
+  {
+    "employee_id": "EMP060",
+    "skill_id": "SK02",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": "EMP060",
+    "skill_id": "SK01",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.5
+  },
+  {
+    "employee_id": "EMP060",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": "EMP061",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": "EMP061",
+    "skill_id": "SK17",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.4
+  },
+  {
+    "employee_id": "EMP061",
+    "skill_id": "SK11",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": "EMP061",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 4.0
+  },
+  {
+    "employee_id": "EMP062",
+    "skill_id": "SK18",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP062",
+    "skill_id": "SK04",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP062",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP063",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": "EMP063",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.0
+  },
+  {
+    "employee_id": "EMP063",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.9
+  },
+  {
+    "employee_id": "EMP064",
+    "skill_id": "SK01",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": "EMP064",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": "EMP064",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP064",
+    "skill_id": "SK12",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": "EMP065",
+    "skill_id": "SK01",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": "EMP065",
+    "skill_id": "SK07",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": "EMP065",
+    "skill_id": "SK06",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": "EMP065",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.9
+  },
+  {
+    "employee_id": "EMP065",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": "EMP066",
+    "skill_id": "SK11",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.0
+  },
+  {
+    "employee_id": "EMP066",
+    "skill_id": "SK01",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.6
+  },
+  {
+    "employee_id": "EMP066",
+    "skill_id": "SK06",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP066",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.6
+  },
+  {
+    "employee_id": "EMP067",
+    "skill_id": "SK11",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": "EMP067",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": "EMP067",
+    "skill_id": "SK06",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP067",
+    "skill_id": "SK12",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.0
+  },
+  {
+    "employee_id": "EMP068",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.1
+  },
+  {
+    "employee_id": "EMP068",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 6.4
+  },
+  {
+    "employee_id": "EMP068",
+    "skill_id": "SK17",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.0
+  },
+  {
+    "employee_id": "EMP068",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP069",
+    "skill_id": "SK18",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": "EMP069",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.1
+  },
+  {
+    "employee_id": "EMP069",
+    "skill_id": "SK04",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": "EMP069",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.0
+  },
+  {
+    "employee_id": "EMP070",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP070",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP070",
+    "skill_id": "SK17",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP070",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.0
+  },
+  {
+    "employee_id": "EMP071",
+    "skill_id": "SK02",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": "EMP071",
+    "skill_id": "SK13",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": "EMP071",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP071",
+    "skill_id": "SK12",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.4
+  },
+  {
+    "employee_id": "EMP072",
+    "skill_id": "SK12",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP072",
+    "skill_id": "SK13",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": "EMP072",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": "EMP072",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": "EMP073",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 4.5
+  },
+  {
+    "employee_id": "EMP073",
+    "skill_id": "SK14",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.9
+  },
+  {
+    "employee_id": "EMP073",
+    "skill_id": "SK13",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP073",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": "EMP074",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.1
+  },
+  {
+    "employee_id": "EMP074",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 6.6
+  },
+  {
+    "employee_id": "EMP074",
+    "skill_id": "SK17",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP074",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.9
+  },
+  {
+    "employee_id": "EMP075",
+    "skill_id": "SK11",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": "EMP075",
+    "skill_id": "SK17",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.5
+  },
+  {
+    "employee_id": "EMP075",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.6
+  },
+  {
+    "employee_id": "EMP075",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.9
+  },
+  {
+    "employee_id": "EMP076",
+    "skill_id": "SK09",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP076",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP076",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP077",
+    "skill_id": "SK05",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": "EMP077",
+    "skill_id": "SK13",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP077",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.0
+  },
+  {
+    "employee_id": "EMP077",
+    "skill_id": "SK12",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP078",
+    "skill_id": "SK09",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": "EMP078",
+    "skill_id": "SK05",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.9
+  },
+  {
+    "employee_id": "EMP078",
+    "skill_id": "SK15",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP078",
+    "skill_id": "SK12",
+    "proficiency_level": "Beginner",
+    "years_experience": 4.7
+  },
+  {
+    "employee_id": "EMP079",
+    "skill_id": "SK07",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.7
+  },
+  {
+    "employee_id": "EMP079",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP079",
+    "skill_id": "SK11",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.9
+  },
+  {
+    "employee_id": "EMP079",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.8
+  },
+  {
+    "employee_id": "EMP080",
+    "skill_id": "SK16",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.0
+  },
+  {
+    "employee_id": "EMP080",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.7
+  },
+  {
+    "employee_id": "EMP080",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.0
+  },
+  {
+    "employee_id": "EMP080",
+    "skill_id": "SK12",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.6
+  },
+  {
+    "employee_id": "EMP081",
+    "skill_id": "SK05",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP081",
+    "skill_id": "SK12",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": "EMP081",
+    "skill_id": "SK02",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP081",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP082",
+    "skill_id": "SK18",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": "EMP082",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.9
+  },
+  {
+    "employee_id": "EMP082",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.0
+  },
+  {
+    "employee_id": "EMP082",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP083",
+    "skill_id": "SK01",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP083",
+    "skill_id": "SK09",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP083",
+    "skill_id": "SK15",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP083",
+    "skill_id": "SK04",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP084",
+    "skill_id": "SK18",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.7
+  },
+  {
+    "employee_id": "EMP084",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": "EMP084",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.5
+  },
+  {
+    "employee_id": "EMP084",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.1
+  },
+  {
+    "employee_id": "EMP085",
+    "skill_id": "SK18",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.0
+  },
+  {
+    "employee_id": "EMP085",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP085",
+    "skill_id": "SK09",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP085",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP086",
+    "skill_id": "SK16",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP086",
+    "skill_id": "SK13",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.2
+  },
+  {
+    "employee_id": "EMP086",
+    "skill_id": "SK15",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP086",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.0
+  },
+  {
+    "employee_id": "EMP087",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.9
+  },
+  {
+    "employee_id": "EMP087",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": "EMP087",
+    "skill_id": "SK11",
+    "proficiency_level": "Advanced",
+    "years_experience": 5.7
+  },
+  {
+    "employee_id": "EMP087",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 8.0
+  },
+  {
+    "employee_id": "EMP088",
+    "skill_id": "SK01",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.6
+  },
+  {
+    "employee_id": "EMP088",
+    "skill_id": "SK05",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.0
+  },
+  {
+    "employee_id": "EMP088",
+    "skill_id": "SK13",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.4
+  },
+  {
+    "employee_id": "EMP088",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP089",
+    "skill_id": "SK18",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.9
+  },
+  {
+    "employee_id": "EMP089",
+    "skill_id": "SK09",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.0
+  },
+  {
+    "employee_id": "EMP089",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP090",
+    "skill_id": "SK01",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.5
+  },
+  {
+    "employee_id": "EMP090",
+    "skill_id": "SK07",
+    "proficiency_level": "Advanced",
+    "years_experience": 5.6
+  },
+  {
+    "employee_id": "EMP090",
+    "skill_id": "SK11",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.1
+  },
+  {
+    "employee_id": "EMP090",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": "EMP090",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.9
+  },
+  {
+    "employee_id": "EMP091",
+    "skill_id": "SK01",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.4
+  },
+  {
+    "employee_id": "EMP091",
+    "skill_id": "SK02",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.1
+  },
+  {
+    "employee_id": "EMP091",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.5
+  },
+  {
+    "employee_id": "EMP091",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.0
+  },
+  {
+    "employee_id": "EMP091",
+    "skill_id": "SK04",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP092",
+    "skill_id": "SK01",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.6
+  },
+  {
+    "employee_id": "EMP092",
+    "skill_id": "SK02",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": "EMP092",
+    "skill_id": "SK05",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.5
+  },
+  {
+    "employee_id": "EMP092",
+    "skill_id": "SK13",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.0
+  },
+  {
+    "employee_id": "EMP092",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP093",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP093",
+    "skill_id": "SK17",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": "EMP093",
+    "skill_id": "SK11",
+    "proficiency_level": "Intermediate",
+    "years_experience": 6.4
+  },
+  {
+    "employee_id": "EMP093",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": "EMP094",
+    "skill_id": "SK11",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP094",
+    "skill_id": "SK01",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP094",
+    "skill_id": "SK06",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.0
+  },
+  {
+    "employee_id": "EMP094",
+    "skill_id": "SK12",
+    "proficiency_level": "Beginner",
+    "years_experience": 4.3
+  },
+  {
+    "employee_id": "EMP095",
+    "skill_id": "SK14",
+    "proficiency_level": "Intermediate",
+    "years_experience": 8.2
+  },
+  {
+    "employee_id": "EMP095",
+    "skill_id": "SK01",
+    "proficiency_level": "Advanced",
+    "years_experience": 7.4
+  },
+  {
+    "employee_id": "EMP095",
+    "skill_id": "SK02",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.9
+  },
+  {
+    "employee_id": "EMP095",
+    "skill_id": "SK04",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.3
+  },
+  {
+    "employee_id": "EMP096",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": "EMP096",
+    "skill_id": "SK17",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP096",
+    "skill_id": "SK11",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.2
+  },
+  {
+    "employee_id": "EMP096",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP097",
+    "skill_id": "SK01",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.3
+  },
+  {
+    "employee_id": "EMP097",
+    "skill_id": "SK14",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.9
+  },
+  {
+    "employee_id": "EMP097",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 8.7
+  },
+  {
+    "employee_id": "EMP097",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.7
+  },
+  {
+    "employee_id": "EMP097",
+    "skill_id": "SK04",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.7
+  },
+  {
+    "employee_id": "EMP098",
+    "skill_id": "SK18",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.0
+  },
+  {
+    "employee_id": "EMP098",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP098",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": "EMP098",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.3
+  },
+  {
+    "employee_id": "EMP099",
+    "skill_id": "SK01",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": "EMP099",
+    "skill_id": "SK02",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.5
+  },
+  {
+    "employee_id": "EMP099",
+    "skill_id": "SK12",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.9
+  },
+  {
+    "employee_id": "EMP099",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": "EMP099",
+    "skill_id": "SK04",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP100",
+    "skill_id": "SK01",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": "EMP100",
+    "skill_id": "SK15",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": "EMP100",
+    "skill_id": "SK05",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": "EMP100",
+    "skill_id": "SK12",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP100",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP101",
+    "skill_id": "SK18",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP101",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": "EMP101",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": "EMP101",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP102",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.0
+  },
+  {
+    "employee_id": "EMP102",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 8.4
+  },
+  {
+    "employee_id": "EMP102",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.4
+  },
+  {
+    "employee_id": "EMP103",
+    "skill_id": "SK18",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.2
+  },
+  {
+    "employee_id": "EMP103",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.9
+  },
+  {
+    "employee_id": "EMP103",
+    "skill_id": "SK09",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.3
+  },
+  {
+    "employee_id": "EMP103",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 5.3
+  },
+  {
+    "employee_id": "EMP104",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP104",
+    "skill_id": "SK02",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP104",
+    "skill_id": "SK15",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP104",
+    "skill_id": "SK12",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP105",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": "EMP105",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": "EMP105",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": "EMP106",
+    "skill_id": "SK18",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": "EMP106",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": "EMP106",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": "EMP106",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.9
+  },
+  {
+    "employee_id": "EMP107",
+    "skill_id": "SK05",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": "EMP107",
+    "skill_id": "SK13",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": "EMP107",
+    "skill_id": "SK12",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.7
+  },
+  {
+    "employee_id": "EMP107",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.0
+  },
+  {
+    "employee_id": "EMP107",
+    "skill_id": "SK16",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.0
+  },
+  {
+    "employee_id": "EMP108",
+    "skill_id": "SK18",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.5
+  },
+  {
+    "employee_id": "EMP108",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.9
+  },
+  {
+    "employee_id": "EMP108",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.3
+  },
+  {
+    "employee_id": "EMP108",
+    "skill_id": "SK04",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": "EMP109",
+    "skill_id": "SK18",
+    "proficiency_level": "Intermediate",
+    "years_experience": 8.0
+  },
+  {
+    "employee_id": "EMP109",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 6.8
+  },
+  {
+    "employee_id": "EMP109",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.7
+  },
+  {
+    "employee_id": "EMP109",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.6
+  },
+  {
+    "employee_id": "EMP110",
+    "skill_id": "SK01",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.0
+  },
+  {
+    "employee_id": "EMP110",
+    "skill_id": "SK02",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.5
+  },
+  {
+    "employee_id": "EMP110",
+    "skill_id": "SK13",
+    "proficiency_level": "Advanced",
+    "years_experience": 5.0
+  },
+  {
+    "employee_id": "EMP110",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP111",
+    "skill_id": "SK18",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.6
+  },
+  {
+    "employee_id": "EMP111",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP111",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP111",
+    "skill_id": "SK04",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": "EMP112",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": "EMP112",
+    "skill_id": "SK05",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP112",
+    "skill_id": "SK13",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": "EMP112",
+    "skill_id": "SK12",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": "EMP112",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP113",
+    "skill_id": "SK05",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": "EMP113",
+    "skill_id": "SK14",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP113",
+    "skill_id": "SK02",
+    "proficiency_level": "Advanced",
+    "years_experience": 7.2
+  },
+  {
+    "employee_id": "EMP113",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 8.5
+  },
+  {
+    "employee_id": "EMP114",
+    "skill_id": "SK01",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.5
+  },
+  {
+    "employee_id": "EMP114",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": "EMP114",
+    "skill_id": "SK05",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": "EMP114",
+    "skill_id": "SK13",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.0
+  },
+  {
+    "employee_id": "EMP114",
+    "skill_id": "SK04",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": "EMP115",
+    "skill_id": "SK01",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": "EMP115",
+    "skill_id": "SK12",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.3
+  },
+  {
+    "employee_id": "EMP115",
+    "skill_id": "SK11",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": "EMP115",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": "EMP115",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": "EMP116",
+    "skill_id": "SK07",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": "EMP116",
+    "skill_id": "SK06",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.7
+  },
+  {
+    "employee_id": "EMP116",
+    "skill_id": "SK11",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.5
+  },
+  {
+    "employee_id": "EMP116",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.9
+  },
+  {
+    "employee_id": "EMP116",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP117",
+    "skill_id": "SK11",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP117",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": "EMP117",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": "EMP118",
+    "skill_id": "SK05",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP118",
+    "skill_id": "SK14",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.1
+  },
+  {
+    "employee_id": "EMP118",
+    "skill_id": "SK13",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP118",
+    "skill_id": "SK15",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.5
+  },
+  {
+    "employee_id": "EMP119",
+    "skill_id": "SK07",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.3
+  },
+  {
+    "employee_id": "EMP119",
+    "skill_id": "SK09",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.1
+  },
+  {
+    "employee_id": "EMP119",
+    "skill_id": "SK06",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.8
+  },
+  {
+    "employee_id": "EMP119",
+    "skill_id": "SK11",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.6
+  },
+  {
+    "employee_id": "EMP120",
+    "skill_id": "SK09",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.5
+  },
+  {
+    "employee_id": "EMP120",
+    "skill_id": "SK18",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP120",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.9
+  },
+  {
+    "employee_id": "EMP121",
+    "skill_id": "SK01",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": "EMP121",
+    "skill_id": "SK14",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": "EMP121",
+    "skill_id": "SK13",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": "EMP121",
+    "skill_id": "SK12",
+    "proficiency_level": "Intermediate",
+    "years_experience": 6.2
+  },
+  {
+    "employee_id": "EMP122",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": "EMP122",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.1
+  },
+  {
+    "employee_id": "EMP122",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.2
+  },
+  {
+    "employee_id": "EMP123",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": "EMP123",
+    "skill_id": "SK13",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.9
+  },
+  {
+    "employee_id": "EMP123",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.9
+  },
+  {
+    "employee_id": "EMP123",
+    "skill_id": "SK12",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP124",
+    "skill_id": "SK11",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.0
+  },
+  {
+    "employee_id": "EMP124",
+    "skill_id": "SK01",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.0
+  },
+  {
+    "employee_id": "EMP124",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.0
+  },
+  {
+    "employee_id": "EMP124",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.0
+  },
+  {
+    "employee_id": "EMP125",
+    "skill_id": "SK09",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.5
+  },
+  {
+    "employee_id": "EMP125",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.9
+  },
+  {
+    "employee_id": "EMP125",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.8
+  },
+  {
+    "employee_id": "EMP126",
+    "skill_id": "SK18",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": "EMP126",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.2
+  },
+  {
+    "employee_id": "EMP126",
+    "skill_id": "SK09",
+    "proficiency_level": "Advanced",
+    "years_experience": 5.2
+  },
+  {
+    "employee_id": "EMP126",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.7
+  },
+  {
+    "employee_id": "EMP127",
+    "skill_id": "SK01",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP127",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.6
+  },
+  {
+    "employee_id": "EMP127",
+    "skill_id": "SK05",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.0
+  },
+  {
+    "employee_id": "EMP127",
+    "skill_id": "SK12",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": "EMP127",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 4.6
+  },
+  {
+    "employee_id": "EMP128",
+    "skill_id": "SK01",
+    "proficiency_level": "Advanced",
+    "years_experience": 8.0
+  },
+  {
+    "employee_id": "EMP128",
+    "skill_id": "SK14",
+    "proficiency_level": "Advanced",
+    "years_experience": 7.3
+  },
+  {
+    "employee_id": "EMP128",
+    "skill_id": "SK02",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.7
+  },
+  {
+    "employee_id": "EMP128",
+    "skill_id": "SK13",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.1
+  },
+  {
+    "employee_id": "EMP128",
+    "skill_id": "SK12",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.4
+  },
+  {
+    "employee_id": "EMP129",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP129",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": "EMP129",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP130",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP130",
+    "skill_id": "SK06",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.0
+  },
+  {
+    "employee_id": "EMP130",
+    "skill_id": "SK11",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": "EMP130",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.0
+  },
+  {
+    "employee_id": "EMP131",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.5
+  },
+  {
+    "employee_id": "EMP131",
+    "skill_id": "SK17",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.5
+  },
+  {
+    "employee_id": "EMP131",
+    "skill_id": "SK11",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.8
+  },
+  {
+    "employee_id": "EMP131",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 5.0
+  },
+  {
+    "employee_id": "EMP132",
+    "skill_id": "SK09",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.1
+  },
+  {
+    "employee_id": "EMP132",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP132",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.0
+  },
+  {
+    "employee_id": "EMP132",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": "EMP133",
+    "skill_id": "SK18",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": "EMP133",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.9
+  },
+  {
+    "employee_id": "EMP133",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.3
+  },
+  {
+    "employee_id": "EMP134",
+    "skill_id": "SK05",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.8
+  },
+  {
+    "employee_id": "EMP134",
+    "skill_id": "SK13",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.6
+  },
+  {
+    "employee_id": "EMP134",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.7
+  },
+  {
+    "employee_id": "EMP134",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 7.6
+  },
+  {
+    "employee_id": "EMP135",
+    "skill_id": "SK18",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP135",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP135",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP135",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP136",
+    "skill_id": "SK01",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": "EMP136",
+    "skill_id": "SK14",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": "EMP136",
+    "skill_id": "SK05",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP136",
+    "skill_id": "SK13",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP136",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP137",
+    "skill_id": "SK18",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP137",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.0
+  },
+  {
+    "employee_id": "EMP137",
+    "skill_id": "SK09",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP137",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP138",
+    "skill_id": "SK18",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.0
+  },
+  {
+    "employee_id": "EMP138",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP138",
+    "skill_id": "SK04",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.5
+  },
+  {
+    "employee_id": "EMP138",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP139",
+    "skill_id": "SK18",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": "EMP139",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.6
+  },
+  {
+    "employee_id": "EMP139",
+    "skill_id": "SK09",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.4
+  },
+  {
+    "employee_id": "EMP139",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.3
+  },
+  {
+    "employee_id": "EMP140",
+    "skill_id": "SK02",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.7
+  },
+  {
+    "employee_id": "EMP140",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.3
+  },
+  {
+    "employee_id": "EMP140",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.0
+  },
+  {
+    "employee_id": "EMP140",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": "EMP141",
+    "skill_id": "SK09",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.4
+  },
+  {
+    "employee_id": "EMP141",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP141",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.6
+  },
+  {
+    "employee_id": "EMP142",
+    "skill_id": "SK18",
+    "proficiency_level": "Intermediate",
+    "years_experience": 6.2
+  },
+  {
+    "employee_id": "EMP142",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.6
+  },
+  {
+    "employee_id": "EMP142",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": "EMP142",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP143",
+    "skill_id": "SK01",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": "EMP143",
+    "skill_id": "SK05",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP143",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.0
+  },
+  {
+    "employee_id": "EMP143",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": "EMP144",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 5.2
+  },
+  {
+    "employee_id": "EMP144",
+    "skill_id": "SK04",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": "EMP144",
+    "skill_id": "SK15",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.9
+  },
+  {
+    "employee_id": "EMP144",
+    "skill_id": "SK12",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.9
+  },
+  {
+    "employee_id": "EMP145",
+    "skill_id": "SK18",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP145",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.2
+  },
+  {
+    "employee_id": "EMP145",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP145",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": "EMP146",
+    "skill_id": "SK09",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP146",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP146",
+    "skill_id": "SK18",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP146",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP147",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP147",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.5
+  },
+  {
+    "employee_id": "EMP147",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.7
+  },
+  {
+    "employee_id": "EMP148",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.3
+  },
+  {
+    "employee_id": "EMP148",
+    "skill_id": "SK05",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.7
+  },
+  {
+    "employee_id": "EMP148",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": "EMP148",
+    "skill_id": "SK12",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP148",
+    "skill_id": "SK04",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.8
+  },
+  {
+    "employee_id": "EMP149",
+    "skill_id": "SK01",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": "EMP149",
+    "skill_id": "SK14",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP149",
+    "skill_id": "SK04",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": "EMP149",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": "EMP150",
+    "skill_id": "SK18",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": "EMP150",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.4
+  },
+  {
+    "employee_id": "EMP150",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 6.2
+  },
+  {
+    "employee_id": "EMP151",
+    "skill_id": "SK01",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.3
+  },
+  {
+    "employee_id": "EMP151",
+    "skill_id": "SK07",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.4
+  },
+  {
+    "employee_id": "EMP151",
+    "skill_id": "SK12",
+    "proficiency_level": "Advanced",
+    "years_experience": 7.9
+  },
+  {
+    "employee_id": "EMP151",
+    "skill_id": "SK11",
+    "proficiency_level": "Intermediate",
+    "years_experience": 6.0
+  },
+  {
+    "employee_id": "EMP151",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 8.3
+  },
+  {
+    "employee_id": "EMP152",
+    "skill_id": "SK01",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.1
+  },
+  {
+    "employee_id": "EMP152",
+    "skill_id": "SK14",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.9
+  },
+  {
+    "employee_id": "EMP152",
+    "skill_id": "SK13",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.9
+  },
+  {
+    "employee_id": "EMP152",
+    "skill_id": "SK04",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": "EMP153",
+    "skill_id": "SK09",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.8
+  },
+  {
+    "employee_id": "EMP153",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.7
+  },
+  {
+    "employee_id": "EMP153",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.7
+  },
+  {
+    "employee_id": "EMP153",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP154",
+    "skill_id": "SK15",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP154",
+    "skill_id": "SK05",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP154",
+    "skill_id": "SK13",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP154",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP154",
+    "skill_id": "SK16",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP155",
+    "skill_id": "SK18",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP155",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP155",
+    "skill_id": "SK09",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": "EMP155",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP156",
+    "skill_id": "SK16",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": "EMP156",
+    "skill_id": "SK05",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": "EMP156",
+    "skill_id": "SK13",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": "EMP156",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP157",
+    "skill_id": "SK09",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.0
+  },
+  {
+    "employee_id": "EMP157",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.8
+  },
+  {
+    "employee_id": "EMP157",
+    "skill_id": "SK18",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.2
+  },
+  {
+    "employee_id": "EMP158",
+    "skill_id": "SK18",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP158",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP158",
+    "skill_id": "SK04",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP158",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP159",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": "EMP159",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 5.1
+  },
+  {
+    "employee_id": "EMP159",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 6.9
+  },
+  {
+    "employee_id": "EMP159",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.0
+  },
+  {
+    "employee_id": "EMP160",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": "EMP160",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.0
+  },
+  {
+    "employee_id": "EMP160",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.5
+  },
+  {
+    "employee_id": "EMP161",
+    "skill_id": "SK01",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP161",
+    "skill_id": "SK02",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": "EMP161",
+    "skill_id": "SK15",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP161",
+    "skill_id": "SK04",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": "EMP162",
+    "skill_id": "SK18",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.9
+  },
+  {
+    "employee_id": "EMP162",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP162",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": "EMP162",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP163",
+    "skill_id": "SK18",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.0
+  },
+  {
+    "employee_id": "EMP163",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP163",
+    "skill_id": "SK04",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP163",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP164",
+    "skill_id": "SK18",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": "EMP164",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": "EMP164",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": "EMP165",
+    "skill_id": "SK07",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": "EMP165",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.0
+  },
+  {
+    "employee_id": "EMP165",
+    "skill_id": "SK06",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": "EMP165",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": "EMP166",
+    "skill_id": "SK16",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": "EMP166",
+    "skill_id": "SK05",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP166",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP166",
+    "skill_id": "SK12",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": "EMP167",
+    "skill_id": "SK09",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.8
+  },
+  {
+    "employee_id": "EMP167",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.8
+  },
+  {
+    "employee_id": "EMP167",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.2
+  },
+  {
+    "employee_id": "EMP168",
+    "skill_id": "SK14",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.1
+  },
+  {
+    "employee_id": "EMP168",
+    "skill_id": "SK02",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP168",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 7.2
+  },
+  {
+    "employee_id": "EMP168",
+    "skill_id": "SK13",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP168",
+    "skill_id": "SK12",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.8
+  },
+  {
+    "employee_id": "EMP169",
+    "skill_id": "SK09",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": "EMP169",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.0
+  },
+  {
+    "employee_id": "EMP169",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP169",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": "EMP170",
+    "skill_id": "SK05",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": "EMP170",
+    "skill_id": "SK12",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": "EMP170",
+    "skill_id": "SK01",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": "EMP170",
+    "skill_id": "SK04",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.1
+  },
+  {
+    "employee_id": "EMP171",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP171",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP171",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP171",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.6
+  },
+  {
+    "employee_id": "EMP172",
+    "skill_id": "SK07",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.5
+  },
+  {
+    "employee_id": "EMP172",
+    "skill_id": "SK06",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": "EMP172",
+    "skill_id": "SK12",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.8
+  },
+  {
+    "employee_id": "EMP172",
+    "skill_id": "SK11",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.6
+  },
+  {
+    "employee_id": "EMP172",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.2
+  },
+  {
+    "employee_id": "EMP173",
+    "skill_id": "SK01",
+    "proficiency_level": "Advanced",
+    "years_experience": 7.1
+  },
+  {
+    "employee_id": "EMP173",
+    "skill_id": "SK02",
+    "proficiency_level": "Advanced",
+    "years_experience": 5.7
+  },
+  {
+    "employee_id": "EMP173",
+    "skill_id": "SK15",
+    "proficiency_level": "Advanced",
+    "years_experience": 7.0
+  },
+  {
+    "employee_id": "EMP173",
+    "skill_id": "SK05",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.0
+  },
+  {
+    "employee_id": "EMP173",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.7
+  },
+  {
+    "employee_id": "EMP174",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": "EMP174",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 6.1
+  },
+  {
+    "employee_id": "EMP174",
+    "skill_id": "SK18",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.9
+  },
+  {
+    "employee_id": "EMP174",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP175",
+    "skill_id": "SK18",
+    "proficiency_level": "Beginner",
+    "years_experience": 0.8
+  },
+  {
+    "employee_id": "EMP175",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 0.8
+  },
+  {
+    "employee_id": "EMP175",
+    "skill_id": "SK09",
+    "proficiency_level": "Beginner",
+    "years_experience": 0.8
+  },
+  {
+    "employee_id": "EMP175",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 0.8
+  },
+  {
+    "employee_id": "EMP176",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP176",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.9
+  },
+  {
+    "employee_id": "EMP176",
+    "skill_id": "SK18",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.5
+  },
+  {
+    "employee_id": "EMP176",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.9
+  },
+  {
+    "employee_id": "EMP177",
+    "skill_id": "SK09",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": "EMP177",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": "EMP177",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP178",
+    "skill_id": "SK18",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.3
+  },
+  {
+    "employee_id": "EMP178",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.3
+  },
+  {
+    "employee_id": "EMP178",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 5.9
+  },
+  {
+    "employee_id": "EMP178",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.0
+  },
+  {
+    "employee_id": "EMP179",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": "EMP179",
+    "skill_id": "SK17",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.8
+  },
+  {
+    "employee_id": "EMP179",
+    "skill_id": "SK11",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.9
+  },
+  {
+    "employee_id": "EMP179",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.9
+  },
+  {
+    "employee_id": "EMP180",
+    "skill_id": "SK07",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.0
+  },
+  {
+    "employee_id": "EMP180",
+    "skill_id": "SK06",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP180",
+    "skill_id": "SK11",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.5
+  },
+  {
+    "employee_id": "EMP180",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.7
+  },
+  {
+    "employee_id": "EMP180",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": "EMP181",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.8
+  },
+  {
+    "employee_id": "EMP181",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 4.3
+  },
+  {
+    "employee_id": "EMP181",
+    "skill_id": "SK13",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.0
+  },
+  {
+    "employee_id": "EMP181",
+    "skill_id": "SK12",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.4
+  },
+  {
+    "employee_id": "EMP181",
+    "skill_id": "SK16",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": "EMP182",
+    "skill_id": "SK05",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": "EMP182",
+    "skill_id": "SK04",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.6
+  },
+  {
+    "employee_id": "EMP182",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 4.0
+  },
+  {
+    "employee_id": "EMP182",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": "EMP183",
+    "skill_id": "SK14",
+    "proficiency_level": "Beginner",
+    "years_experience": 4.0
+  },
+  {
+    "employee_id": "EMP183",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP183",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.9
+  },
+  {
+    "employee_id": "EMP183",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.0
+  },
+  {
+    "employee_id": "EMP184",
+    "skill_id": "SK16",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.8
+  },
+  {
+    "employee_id": "EMP184",
+    "skill_id": "SK13",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": "EMP184",
+    "skill_id": "SK15",
+    "proficiency_level": "Advanced",
+    "years_experience": 5.1
+  },
+  {
+    "employee_id": "EMP184",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.8
+  },
+  {
+    "employee_id": "EMP185",
+    "skill_id": "SK07",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": "EMP185",
+    "skill_id": "SK06",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP185",
+    "skill_id": "SK11",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": "EMP185",
+    "skill_id": "SK03",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP185",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP186",
+    "skill_id": "SK15",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": "EMP186",
+    "skill_id": "SK05",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": "EMP186",
+    "skill_id": "SK13",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.2
+  },
+  {
+    "employee_id": "EMP186",
+    "skill_id": "SK12",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP186",
+    "skill_id": "SK16",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.5
+  },
+  {
+    "employee_id": "EMP187",
+    "skill_id": "SK18",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP187",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP187",
+    "skill_id": "SK09",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP187",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP188",
+    "skill_id": "SK18",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP188",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.3
+  },
+  {
+    "employee_id": "EMP188",
+    "skill_id": "SK04",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.0
+  },
+  {
+    "employee_id": "EMP188",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP189",
+    "skill_id": "SK18",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.1
+  },
+  {
+    "employee_id": "EMP189",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": "EMP189",
+    "skill_id": "SK04",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.9
+  },
+  {
+    "employee_id": "EMP189",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP190",
+    "skill_id": "SK05",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": "EMP190",
+    "skill_id": "SK12",
+    "proficiency_level": "Advanced",
+    "years_experience": 7.8
+  },
+  {
+    "employee_id": "EMP190",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.7
+  },
+  {
+    "employee_id": "EMP190",
+    "skill_id": "SK03",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.0
+  },
+  {
+    "employee_id": "EMP191",
+    "skill_id": "SK18",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": "EMP191",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.6
+  },
+  {
+    "employee_id": "EMP191",
+    "skill_id": "SK08",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP191",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 7.8
+  },
+  {
+    "employee_id": "EMP192",
+    "skill_id": "SK18",
+    "proficiency_level": "Beginner",
+    "years_experience": 0.6
+  },
+  {
+    "employee_id": "EMP192",
+    "skill_id": "SK08",
+    "proficiency_level": "Beginner",
+    "years_experience": 0.6
+  },
+  {
+    "employee_id": "EMP192",
+    "skill_id": "SK09",
+    "proficiency_level": "Beginner",
+    "years_experience": 0.6
+  },
+  {
+    "employee_id": "EMP192",
+    "skill_id": "SK10",
+    "proficiency_level": "Beginner",
+    "years_experience": 0.6
+  },
+  {
+    "employee_id": "EMP193",
+    "skill_id": "SK14",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": "EMP193",
+    "skill_id": "SK05",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.1
+  },
+  {
+    "employee_id": "EMP193",
+    "skill_id": "SK13",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.9
+  },
+  {
+    "employee_id": "EMP193",
+    "skill_id": "SK12",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.2
+  },
+  {
+    "employee_id": "EMP194",
+    "skill_id": "SK01",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.8
+  },
+  {
+    "employee_id": "EMP194",
+    "skill_id": "SK02",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.5
+  },
+  {
+    "employee_id": "EMP194",
+    "skill_id": "SK05",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.2
+  },
+  {
+    "employee_id": "EMP194",
+    "skill_id": "SK13",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.8
+  },
+  {
+    "employee_id": "EMP194",
+    "skill_id": "SK12",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.4
+  },
+  {
+    "employee_id": "EMP195",
+    "skill_id": "SK05",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.6
+  },
+  {
+    "employee_id": "EMP195",
+    "skill_id": "SK13",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP195",
+    "skill_id": "SK12",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.0
+  },
+  {
+    "employee_id": "EMP195",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.2
+  },
+  {
+    "employee_id": "EMP195",
+    "skill_id": "SK04",
+    "proficiency_level": "Intermediate",
+    "years_experience": 3.8
+  },
+  {
+    "employee_id": "EMP196",
+    "skill_id": "SK14",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP196",
+    "skill_id": "SK02",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": "EMP196",
+    "skill_id": "SK15",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP196",
+    "skill_id": "SK12",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.6
+  },
+  {
+    "employee_id": "EMP196",
+    "skill_id": "SK04",
+    "proficiency_level": "Beginner",
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": "EMP197",
+    "skill_id": "SK01",
+    "proficiency_level": "Beginner",
+    "years_experience": 4.3
+  },
+  {
+    "employee_id": "EMP197",
+    "skill_id": "SK15",
+    "proficiency_level": "Intermediate",
+    "years_experience": 4.7
+  },
+  {
+    "employee_id": "EMP197",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": "EMP197",
+    "skill_id": "SK12",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.9
+  },
+  {
+    "employee_id": "EMP197",
+    "skill_id": "SK04",
+    "proficiency_level": "Beginner",
+    "years_experience": 3.4
+  },
+  {
+    "employee_id": "EMP198",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.4
+  },
+  {
+    "employee_id": "EMP198",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 1.1
+  },
+  {
+    "employee_id": "EMP198",
+    "skill_id": "SK15",
+    "proficiency_level": "Advanced",
+    "years_experience": 2.3
+  },
+  {
+    "employee_id": "EMP198",
+    "skill_id": "SK10",
+    "proficiency_level": "Intermediate",
+    "years_experience": 5.2
+  },
+  {
+    "employee_id": "EMP199",
+    "skill_id": "SK09",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.4
+  },
+  {
+    "employee_id": "EMP199",
+    "skill_id": "SK08",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.5
+  },
+  {
+    "employee_id": "EMP199",
+    "skill_id": "SK15",
+    "proficiency_level": "Advanced",
+    "years_experience": 4.0
+  },
+  {
+    "employee_id": "EMP199",
+    "skill_id": "SK10",
+    "proficiency_level": "Advanced",
+    "years_experience": 3.6
+  },
+  {
+    "employee_id": "EMP200",
+    "skill_id": "SK01",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.1
+  },
+  {
+    "employee_id": "EMP200",
+    "skill_id": "SK02",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.7
+  },
+  {
+    "employee_id": "EMP200",
+    "skill_id": "SK15",
+    "proficiency_level": "Beginner",
+    "years_experience": 2.5
+  },
+  {
+    "employee_id": "EMP200",
+    "skill_id": "SK05",
+    "proficiency_level": "Intermediate",
+    "years_experience": 2.8
+  },
+  {
+    "employee_id": "EMP200",
+    "skill_id": "SK03",
+    "proficiency_level": "Intermediate",
+    "years_experience": 1.6
+  }
+]

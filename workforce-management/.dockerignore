@@ -1,0 +1,38 @@
+# Git & VCS
+.git/
+.gitignore
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Environment & Local Secrets
+.env
+.env.local
+.env.*.local
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE & Editor caches
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node / Frontend (handled in separate build)
+frontend/node_modules/
+frontend/dist/
+
+# Local backups & Scratch
+backups/
+scratch/
+reports/*.html

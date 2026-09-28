@@ -1,0 +1,62 @@
+[
+  {
+    "holiday_id": "HOL01",
+    "holiday_name": "Gandhi Jayanti",
+    "date": "2025-10-02",
+    "location_id": "ALL"
+  },
+  {
+    "holiday_id": "HOL02",
+    "holiday_name": "Dussehra (Vijayadashami)",
+    "date": "2025-10-12",
+    "location_id": "ALL"
+  },
+  {
+    "holiday_id": "HOL03",
+    "holiday_name": "Diwali Deepavali",
+    "date": "2025-10-20",
+    "location_id": "ALL"
+  },
+  {
+    "holiday_id": "HOL04",
+    "holiday_name": "Guru Nanak Jayanti",
+    "date": "2025-11-05",
+    "location_id": "ALL"
+  },
+  {
+    "holiday_id": "HOL05",
+    "holiday_name": "Christmas Day",
+    "date": "2025-12-25",
+    "location_id": "ALL"
+  },
+  {
+    "holiday_id": "HOL06",
+    "holiday_name": "New Year's Day",
+    "date": "2026-01-01",
+    "location_id": "ALL"
+  },
+  {
+    "holiday_id": "HOL07",
+    "holiday_name": "Makar Sankranti / Pongal",
+    "date": "2026-01-14",
+    "location_id": "ALL"
+  },
+  {
+    "holiday_id": "HOL08",
+    "holiday_name": "Republic Day",
+    "date": "2026-01-26",
+    "location_id": "ALL"
+  },
+  {
+    "holiday_id": "HOL09",
+    "holiday_name": "Maha Shivaratri",
+    "date": "2026-02-15",
+    "location_id": "ALL"
+  },
+  {
+    "holiday_id": "HOL10",
+    "holiday_name": "Holi Festival",
+    "date": "2026-03-03",
+    "location_id": "ALL"
+  }
+]

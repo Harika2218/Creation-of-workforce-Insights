@@ -1,0 +1,57 @@
+[
+  {
+    "location_id": "LOC01",
+    "name": "Hyderabad Tech Park Campus",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "country": "India",
+    "latitude": 17.4435,
+    "longitude": 78.3772,
+    "geofence_radius_meters": 500.0,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "location_id": "LOC02",
+    "name": "Bengaluru Innovation Hub",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "geofence_radius_meters": 500.0,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "location_id": "LOC03",
+    "name": "Chennai Cyber City",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "geofence_radius_meters": 500.0,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "location_id": "LOC04",
+    "name": "Pune Silicon Towers",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "country": "India",
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "geofence_radius_meters": 500.0,
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "location_id": "LOC05",
+    "name": "Mumbai Financial District Hub",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "geofence_radius_meters": 500.0,
+    "timezone": "Asia/Kolkata"
+  }
+]

@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.git/
+.gitignore
+*.log
+.env
+.env.local
+.env.*.local
+.oxlintrc.json
+tsconfig.app.tsbuildinfo
