@@ -92,7 +92,7 @@ export const FloatingAIAssistant: React.FC = () => {
       const assistantMsg: ChatMessage = {
         id: `a-${Date.now()}`,
         sender: 'assistant',
-        content: response.answer,
+        content: response.answer || (response as any)?.message || 'I have analyzed your request against enterprise records. How else can I assist you?',
         timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
         sources: response.sources?.map((s) => (typeof s === 'string' ? s : s.title || s.document_name || 'HR Policy')),
       };

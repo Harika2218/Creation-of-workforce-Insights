@@ -5,6 +5,7 @@
  */
 
 import { InternalAxiosRequestConfig } from 'axios';
+import { CitationSource } from '../types/chatbot';
 import {
   MOCK_USERS,
   MOCK_DEPARTMENTS,
@@ -280,6 +281,242 @@ export function handleMockRequest(config?: InternalAxiosRequestConfig): any {
       { skill_id: 'SK02', skill_name: 'FastAPI & Python', category: 'Backend' },
       { skill_id: 'SK03', skill_name: 'Machine Learning & Scikit-learn', category: 'Data Science' },
       { skill_id: 'SK04', skill_name: 'MongoDB & Cloud Architecture', category: 'Database' },
+    ];
+  }
+
+  // 12. Chatbot & RAG Assistant
+  if (cleanUrl.includes('/chatbot/chat') && method === 'POST') {
+    let message = '';
+    try {
+      const body = typeof config.data === 'string' ? JSON.parse(config.data) : config.data;
+      message = (body?.message || '').toLowerCase();
+    } catch {
+      // fallback
+    }
+
+    let answer = '';
+    let sources: CitationSource[] = [
+      {
+        title: 'InnovateCorp Employee Handbook & HR Policy 2026',
+        source_type: 'policy_document' as const,
+        section: 'Section 4.1: General Workforce Guidelines',
+      },
+    ];
+    let intent = 'GENERAL_QUERY';
+    const suggestions = [
+      'How many leaves do I have left?',
+      'Explain overtime and rest period rules',
+      'What are our campus core working hours?',
+    ];
+
+    if (
+      message.includes('leave') ||
+      message.includes('vacation') ||
+      message.includes('holiday') ||
+      message.includes('off')
+    ) {
+      intent = 'LEAVE_QUERY';
+      answer = `Based on your official employee records (2026 Entitlement Year):
+
+• **Leaves Taken So Far:** **4 days** (2 Annual, 1 Casual, 1 Sick Leave)
+• **Annual Leave Remaining:** **14 days** (out of 18 days annual quota)
+• **Sick Leave Remaining:** **10 days** (out of 12 days medical quota)
+• **Casual / Personal Leave:** **5 days** (out of 8 days quota)
+• **Total Usable Balance:** **29 days**
+
+You can submit a new leave request or view manager approval status directly under the **Leave Management** tab.`;
+      sources = [
+        {
+          title: 'Employee Leave Quota & Balances (HR Database)',
+          source_type: 'database_record' as const,
+          section: 'Section 4.2: Annual Leave Accrual Register',
+        },
+        {
+          title: 'InnovateCorp Statutory Leave Guidelines 2026',
+          source_type: 'policy_document' as const,
+          section: 'Clause 6: Medical & Casual Leave Entitlements',
+        },
+      ];
+    } else if (
+      message.includes('hi') ||
+      message.includes('hello') ||
+      message.includes('hey') ||
+      message.includes('greetings')
+    ) {
+      intent = 'GREETING';
+      answer = `Hello! I am your **AI Workforce Assistant**, powered by enterprise RAG and company HR policies.
+
+I can help you with:
+• 📅 **Leave Management:** Check balances, taken leaves, and holiday calendars
+• ⏱️ **Attendance & Clock-In:** Telemetry logs, punch times, and geofence locations
+• 💰 **Payroll & Compensation:** Payslip status, tax deductions, and PF details
+• 🔄 **Shift Schedules:** Shift timings, rotational rosters, and peer shift swaps
+• 📚 **Company Policies:** Maternity/paternity benefits, insurance, and code of conduct
+
+What would you like to know today?`;
+      sources = [
+        {
+          title: 'Enterprise AI Assistant System Guide',
+          source_type: 'policy_document' as const,
+          section: 'Workforce Intelligence Overview',
+        },
+      ];
+    } else if (
+      message.includes('attendance') ||
+      message.includes('punch') ||
+      message.includes('clock') ||
+      message.includes('hours')
+    ) {
+      intent = 'ATTENDANCE_QUERY';
+      answer = `Here is your current attendance summary for this month:
+
+• **Overall Attendance Rate:** **94.8%** (Optimal standing)
+• **Average Daily Work Hours:** **8.4 hours/day**
+• **Today's Status:** Marked **Present** via Campus GPS Check-In
+• **Overtime Logged:** 3.5 hours recorded this pay cycle
+
+Your biometric and GPS validations are fully compliant with campus security policies.`;
+      sources = [
+        {
+          title: 'Campus Geofenced Attendance Telemetry',
+          source_type: 'database_record' as const,
+          section: 'Daily Attendance Audit Log',
+        },
+      ];
+    } else if (
+      message.includes('salary') ||
+      message.includes('pay') ||
+      message.includes('payroll') ||
+      message.includes('payslip')
+    ) {
+      intent = 'PAYROLL_QUERY';
+      answer = `Your **September 2026** payroll has been fully processed:
+
+• **Base Monthly Earnings:** ₹1,75,000 / month
+• **Total Deductions (PF, Tax, ESI):** ₹26,800
+• **Net Disbursement:** **₹1,48,200**
+• **Disbursement Status:** Deposited to your registered salary account
+
+You can review your detailed digital payslip and tax declarations in the **Payroll** tab.`;
+      sources = [
+        {
+          title: 'Corporate Payroll & Statutory Deductions Register',
+          source_type: 'database_record' as const,
+          section: 'FIN-PR-2026-09',
+        },
+      ];
+    } else if (
+      message.includes('maternity') ||
+      message.includes('paternity') ||
+      message.includes('parental')
+    ) {
+      intent = 'POLICY_QUERY';
+      answer = `Under InnovateCorp's **Parental Benefits Policy 2026**:
+
+• **Maternity Leave:** 26 continuous weeks of fully paid leave for eligible female employees, with optional gradual return-to-work flexibility.
+• **Paternity Leave:** 2 weeks (10 working days) of fully paid leave, valid within 6 months of childbirth or legal adoption.
+• **Healthcare Coverage:** All maternity hospitalization expenses are covered under the ₹10,00,000 family health insurance plan.`;
+      sources = [
+        {
+          title: 'InnovateCorp Statutory Benefits & Parental Policy',
+          source_type: 'policy_document' as const,
+          section: 'Policy Doc REF-HC-2026, Page 22',
+        },
+      ];
+    } else if (
+      message.includes('shift') ||
+      message.includes('swap') ||
+      message.includes('schedule')
+    ) {
+      intent = 'SHIFT_QUERY';
+      answer = `You are scheduled on the **General Shift (09:00 – 18:00)** across standard weekdays.
+
+• **Core Collaboration Hours:** 10:00 AM – 04:00 PM
+• **Grace Period:** 15 minutes before mark-as-late
+• **Peer Shift Swaps:** You can submit a shift swap request up to 24 hours in advance under **Shifts > Swap Requests**.`;
+      sources = [
+        {
+          title: 'Rotational Shift & Fatigue Prevention Policy',
+          source_type: 'policy_document' as const,
+          section: 'Standard Operating Procedures Section 3.1',
+        },
+      ];
+    } else {
+      intent = 'GENERAL_QUERY';
+      answer = `I have analyzed your query: *"**${message}**"* against InnovateCorp's enterprise HR knowledge base and policy records.
+
+All employee policies, statutory records, and self-service administration can be managed directly through the portal:
+• Check your attendance, leave balances, or timesheets in their respective tabs.
+• For confidential grievances or statutory inquiries, you can also contact HR directly at **hr@demo.com**.
+
+How else can I assist you with your workforce needs?`;
+      sources = [
+        {
+          title: 'InnovateCorp Master HR Knowledge Base',
+          source_type: 'policy_document' as const,
+          section: 'General Enterprise Services',
+        },
+      ];
+    }
+
+    return {
+      answer,
+      sources,
+      intent,
+      conversation_id: 'conv-demo-session-2026',
+      grounded: true,
+      timestamp: new Date().toISOString(),
+      follow_up_suggestions: suggestions,
+    };
+  }
+
+  if (cleanUrl.includes('/chatbot/conversations') && method === 'GET') {
+    return [
+      {
+        conversation_id: 'conv-demo-session-2026',
+        user_id: 'USR0002',
+        title: 'HR Policies & Leave Inquiry',
+        created_at: '2026-09-28T09:00:00Z',
+        updated_at: '2026-09-28T10:00:00Z',
+        message_count: 4,
+      },
+    ];
+  }
+
+  if (cleanUrl.includes('/chatbot/suggestions')) {
+    return {
+      suggestions: [
+        'How many leaves did I take till now?',
+        'What is my current leave balance?',
+        'Explain the maternity/paternity policy',
+        'How is overtime calculated?',
+        'What are our campus core hours?',
+      ],
+    };
+  }
+
+  if (cleanUrl.includes('/chatbot/sources')) {
+    return [
+      {
+        document_id: 'DOC001',
+        document_name: 'InnovateCorp_HR_Policy_Handbook_2026.pdf',
+        title: 'Enterprise HR Policy Handbook 2026',
+        category: 'Policy',
+        file_type: 'PDF',
+        total_pages: 48,
+        chunk_count: 142,
+        indexed_at: '2026-09-01T00:00:00Z',
+      },
+      {
+        document_id: 'DOC002',
+        document_name: 'Statutory_Leave_and_Attendance_Guidelines.pdf',
+        title: 'Statutory Leave & Attendance Guidelines',
+        category: 'Compliance',
+        file_type: 'PDF',
+        total_pages: 24,
+        chunk_count: 68,
+        indexed_at: '2026-09-01T00:00:00Z',
+      },
     ];
   }
 
